@@ -1,0 +1,1209 @@
+Order_ID,Order_Date,Customer_Segment,Region,Product_Category,Sub_Category,Sales,Profit,Discount,Quantity,Shipping_Cost,Delivery_Status
+ORD-2024-10000,2024-11-28,Home Office,Asia Pacific,Furniture,Chairs,704.57,239.95,0.15,3,36.15,Delivered
+ORD-2024-10001,2024-12-27,Corporate,Asia Pacific,Office Supplies,Art,245.49,56.34,0.0,6,12.6,Shipped
+ORD-2024-10002,2024-07-14,,Europe,Office Supplies,Appliances,413.37,,0.05,11,21.21,Delivered
+ORD-2024-10003,2024-03-05,Consumer,North America,Furniture,Bookcases,1547.03,266.11,0.0,11,79.38,Delivered
+ORD-2024-10004,2024-04-22,Consumer,Europe,Technology,Phones,2771.88,-274.11,0.1,7,142.22,Delivered
+ORD-2024-10005,2024-01-15,Consumer,Europe,Technology,Laptops,28500.0,192.62,0.1,2,36.3,Delivered
+ORD-2024-10006,2024-11-23,Consumer,North America,Technology,Accessories,873.19,123.28,0.2,3,44.8,Processing
+ORD-2024-10007,2024-02-10,Consumer,Europe,Office Supplies,Storage,208.3,71.45,0.05,4,10.69,Delivered
+ORD-2024-10008,2024-10-30,Consumer,North America,Furniture,Bookcases,1447.09,243.42,0.3,10,74.25,Delivered
+ORD-2024-10009,2024-08-26,Corporate,Asia Pacific,Office Supplies,Binders,293.76,78.45,0.3,6,15.07,Shipped
+ORD-2024-10010,2024-12-27,Corporate,North America,Technology,Accessories,374.15,93.49,0.2,1,19.2,Cancelled
+ORD-2024-10011,2024-04-23,Corporate,Europe,Office Supplies,Binders,491.65,11.18,0.05,9,25.23,Delivered
+ORD-2024-10012,2024-05-25,Consumer,Europe,Office Supplies,Binders,34200.0,-3.36,0.0,5,8.53,Cancelled
+ORD-2024-10013,2024-09-09,Home Office,Europe,Technology,Laptops,3237.7,211.25,0.0,7,166.12,Delivered
+ORD-2024-10014,2024-07-16,Home Office,North America,Technology,Laptops,3755.1,314.0,0.0,9,192.67,Shipped
+ORD-2024-10015,2024-07-26,Home Office,Europe,Technology,Phones,2681.56,-80.33,0.0,9,137.59,Delivered
+ORD-2024-10016,2024-07-28,Home Office,Europe,Technology,Printers,289.93,86.2,0.1,1,14.88,Delivered
+ORD-2024-10017,2024-01-25,Home Office,Europe,Furniture,Chairs,180.39,21.88,0.1,1,9.26,Delivered
+ORD-2024-10018,2024-01-27,Corporate,Europe,Furniture,Bookcases,687.04,233.06,0.2,3,35.25,Delivered
+ORD-2024-10019,2024-03-09,Consumer,Europe,Technology,Phones,2709.14,690.85,0.0,6,139.0,Delivered
+ORD-2024-10020,2024-01-05,Corporate,Asia Pacific,Furniture,Chairs,383.15,48.99,0.0,2,19.66,Delivered
+ORD-2024-10021,2024-09-06,Corporate,North America,Technology,Accessories,4558.99,1474.93,0.15,10,233.92,Delivered
+ORD-2024-10022,2024-02-19,Corporate,Asia Pacific,Technology,Accessories,2709.67,277.57,0.0,11,139.03,Processing
+ORD-2024-10023,2024-06-05,Corporate,Europe,Furniture,Bookcases,130.43,38.29,0.0,1,6.69,Delivered
+ORD-2024-10024,2024-04-16,Consumer,North America,Furniture,Chairs,240.89,7.0,0.3,1,12.36,Delivered
+ORD-2024-10025,2024-07-26,Consumer,North America,Office Supplies,Appliances,279.61,10.99,0.15,5,14.35,Delivered
+ORD-2024-10026,2024-12-05,Home Office,North America,Technology,Accessories,1421.69,83.97,0.05,4,72.95,Delivered
+ORD-2024-10027,2024-02-24,Corporate,Asia Pacific,Furniture,Furnishings,220.95,27.25,0.15,1,11.34,Shipped
+ORD-2024-10028,2024-08-13,Corporate,Asia Pacific,Furniture,Furnishings,985.64,124.93,0.1,4,50.57,Shipped
+ORD-2024-10029,2024-07-19,Consumer,Asia Pacific,Technology,Laptops,1302.49,127.9,0.15,3,66.83,Delivered
+ORD-2024-10030,2024-05-29,Consumer,Europe,Furniture,Bookcases,464.28,1.39,0.15,2,23.82,Delivered
+ORD-2024-10031,2024-10-07,Home Office,Europe,Technology,Laptops,3882.14,1217.45,0.0,9,199.19,Shipped
+ORD-2024-10032,2024-02-08,Corporate,North America,Technology,Printers,3148.33,454.28,0.1,11,161.54,Delivered
+ORD-2024-10033,2024-06-20,Corporate,North America,Office Supplies,Storage,57.76,3.11,0.0,1,2.96,Shipped
+ORD-2024-10034,2024-06-16,Consumer,Europe,Office Supplies,Storage,263.52,46.27,0.0,7,13.52,Delivered
+ORD-2024-10035,2024-05-17,Corporate,North America,Office Supplies,Storage,238.47,55.8,0.2,4,12.24,Shipped
+ORD-2024-10036,2024-05-23,Consumer,North America,Technology,Phones,1786.85,590.31,0.05,5,91.68,Delivered
+ORD-2024-10037,2024-10-27,Corporate,Europe,Technology,Laptops,4108.59,409.93,0.1,10,210.81,Delivered
+ORD-2024-10038,2024-08-12,Consumer,Asia Pacific,Office Supplies,Art,235.82,-22.16,0.15,5,12.1,Cancelled
+ORD-2024-10039,2024-03-08,Consumer,Latin America,Furniture,Furnishings,137.84,9.7,0.2,1,7.07,Delivered
+ORD-2024-10040,2024-02-16,,Latin America,Technology,Printers,1897.36,169.79,0.2,6,97.35,Delivered
+ORD-2024-10041,2024-06-19,Home Office,Europe,Furniture,Chairs,2249.55,671.48,0.05,9,115.42,Delivered
+ORD-2024-10042,2024-04-16,Consumer,Europe,Technology,Phones,960.75,45.54,0.0,2,49.3,Delivered
+ORD-2024-10043,2024-12-22,Home Office,Europe,Office Supplies,Appliances,291.17,95.11,0.0,7,14.94,Delivered
+ORD-2024-10044,2024-04-15,Consumer,Asia Pacific,Technology,Accessories,2934.56,271.64,0.05,6,150.57,Delivered
+ORD-2024-10045,2024-02-25,Consumer,North America,Office Supplies,Art,290.67,97.92,0.0,5,14.91,Delivered
+ORD-2024-10046,2024-07-12,Consumer,Europe,Technology,Laptops,1578.74,-230.34,0.05,4,81.0,Delivered
+ORD-2024-10047,2024-11-05,Consumer,Asia Pacific,Furniture,Bookcases,524.22,156.96,0.1,4,26.9,Shipped
+ORD-2024-10048,2024-02-24,Corporate,North America,Furniture,Chairs,1437.49,453.61,0.3,6,73.76,Delivered
+ORD-2024-10049,2024-11-19,Consumer,Europe,Technology,Phones,1526.28,504.45,0.1,4,78.31,Delivered
+ORD-2024-10050,2024-08-22,Consumer,Europe,Office Supplies,Storage,294.28,-42.22,0.1,5,15.1,Delivered
+ORD-2024-10051,2024-09-28,Home Office,North America,Office Supplies,Storage,346.71,-22.24,0.0,6,17.79,Delivered
+ORD-2024-10052,2024-11-08,Consumer,North America,Office Supplies,Paper,288.7,51.07,0.0,5,14.81,Delivered
+ORD-2024-10053,2024-11-04,Corporate,North America,Office Supplies,Binders,374.45,-51.4,0.0,7,19.21,Delivered
+ORD-2024-10054,2024-01-20,Consumer,North America,Furniture,Furnishings,1464.46,-173.09,0.15,9,75.14,Delivered
+ORD-2024-10055,2024-01-09,Corporate,North America,Office Supplies,Binders,420.89,-16.61,0.0,10,21.6,Delivered
+ORD-2024-10056,2024-04-22,Consumer,Asia Pacific,Technology,Phones,2244.02,238.36,0.1,7,115.14,Delivered
+ORD-2024-10057,2024-01-30,Consumer,North America,Technology,Accessories,1749.38,215.09,0.05,7,89.76,Delivered
+ORD-2024-10058,2024-10-28,Consumer,Europe,Technology,Printers,1550.92,-206.07,0.0,4,79.58,Delivered
+ORD-2024-10059,2024-01-07,,North America,Technology,Phones,416.21,,0.0,1,21.36,Delivered
+ORD-2024-10060,2024-08-11,Consumer,Latin America,Furniture,Chairs,1868.7,186.59,0.05,8,95.88,Delivered
+ORD-2024-10061,2024-12-08,Corporate,North America,Technology,Printers,1117.36,164.22,0.05,4,57.33,Delivered
+ORD-2024-10062,2024-11-21,Home Office,Europe,Office Supplies,Art,48.64,-3.69,0.15,1,2.5,Shipped
+ORD-2024-10063,2024-01-20,Home Office,Asia Pacific,Furniture,Tables,635.05,31.38,0.1,5,32.58,Delivered
+ORD-2024-10064,2024-07-02,Corporate,Asia Pacific,Technology,Accessories,2146.38,648.64,0.05,8,110.13,Delivered
+ORD-2024-10065,2024-12-27,Consumer,North America,Furniture,Furnishings,531.32,185.67,0.15,4,27.26,Delivered
+ORD-2024-10066,2024-12-11,Consumer,Asia Pacific,Technology,Printers,3381.94,1162.06,0.05,8,173.53,Delivered
+ORD-2024-10067,2024-04-12,Consumer,Europe,Office Supplies,Storage,272.43,79.23,0.3,8,13.98,Delivered
+ORD-2024-10068,2024-02-07,Consumer,Europe,Technology,Printers,1261.59,59.71,0.0,3,64.73,Delivered
+ORD-2024-10069,2024-05-15,Corporate,North America,Office Supplies,Art,354.27,68.48,0.1,9,18.18,Processing
+ORD-2024-10070,2024-07-04,Corporate,North America,Office Supplies,Paper,177.44,10.34,0.0,3,9.1,Delivered
+ORD-2024-10071,2024-07-22,Consumer,Asia Pacific,Technology,Phones,444.22,77.41,0.0,1,22.79,Cancelled
+ORD-2024-10072,2024-07-05,Consumer,Europe,Technology,Phones,959.34,4.52,0.0,2,49.22,Delivered
+ORD-2024-10073,2024-09-29,Home Office,Europe,Office Supplies,Appliances,356.03,54.51,0.05,6,18.27,Delivered
+ORD-2024-10074,2024-03-26,Corporate,Asia Pacific,Office Supplies,Storage,609.0,68.13,0.0,10,31.25,Delivered
+ORD-2024-10075,2024-11-20,Consumer,  Asia Pacific  ,Office Supplies,Binders,117.1,-16.13,0.0,2,6.01,Delivered
+ORD-2024-10076,2024-06-30,Home Office,North America,Office Supplies,Art,320.05,78.52,0.3,6,16.42,Delivered
+ORD-2024-10077,2024-08-01,Home Office,Europe,Technology,Accessories,286.71,-41.3,0.15,1,14.71,Delivered
+ORD-2024-10078,2024-11-22,Consumer,North America,Furniture,Bookcases,1762.59,-6.03,0.1,11,90.44,Delivered
+ORD-2024-10079,2024-03-04,Consumer,Asia Pacific,Technology,Phones,297.12,-43.69,0.15,1,15.25,Processing
+ORD-2024-10080,2024-02-08,Corporate,Europe,Office Supplies,Art,252.56,9.62,0.3,5,12.96,Shipped
+ORD-2024-10081,2024-05-29,Home Office,Latin America,Furniture,Chairs,1894.56,-224.35,0.05,10,97.21,Delivered
+ORD-2024-10082,2024-10-18,Home Office,North America,Technology,Printers,5031.78,1543.53,0.0,11,258.18,Delivered
+ORD-2024-10083,2024-10-21,Consumer,North America,Technology,Printers,4305.64,249.04,0.2,9,220.92,Delivered
+ORD-2024-10084,2024-06-25,Consumer,North America,Technology,Laptops,2753.53,219.59,0.1,8,141.28,Delivered
+ORD-2024-10085,2024-08-24,Corporate,North America,Technology,Accessories,1107.17,27.6,0.05,3,56.81,Delivered
+ORD-2024-10086,2024-03-19,Corporate,North America,Office Supplies,Art,186.31,30.51,0.05,3,9.56,Delivered
+ORD-2024-10087,2024-03-10,Consumer,Latin America,Furniture,Tables,160.81,38.95,0.05,1,8.25,Delivered
+ORD-2024-10088,2024-02-27,Home Office,North America,Office Supplies,Paper,169.38,29.48,0.2,3,8.69,Delivered
+ORD-2024-10089,2024-01-03,Corporate,North America,Furniture,Tables,1698.18,380.57,0.0,11,87.13,Cancelled
+ORD-2024-10090,2024-12-12,Home Office,Asia Pacific,Technology,Laptops,411.96,124.82,0.3,1,21.14,Delivered
+ORD-2024-10091,2024-11-30,Home Office,Europe,Office Supplies,Paper,315.91,89.01,0.2,8,16.21,Processing
+ORD-2024-10092,2024-07-24,Corporate,Asia Pacific,Office Supplies,Art,59.34,11.1,0.1,1,3.04,Delivered
+ORD-2024-10093,2024-06-01,Consumer,North America,Furniture,Furnishings,983.73,-41.99,0.05,5,50.47,Delivered
+ORD-2024-10094,2024-01-26,Corporate,Europe,Office Supplies,Art,336.21,56.77,0.0,9,17.25,Delivered
+ORD-2024-10095,2024-01-15,Consumer,North America,Furniture,Chairs,1079.89,111.27,0.0,7,55.41,Delivered
+ORD-2024-10096,2024-09-11,Corporate,North America,Furniture,Tables,752.9,157.06,0.0,4,38.63,Delivered
+ORD-2024-10097,2024-11-02,Consumer,Latin America,Furniture,Furnishings,2718.78,724.46,0.15,11,139.5,Delivered
+ORD-2024-10098,2024-07-28,Corporate,North America,Technology,Phones,3902.06,863.76,0.05,9,200.21,Delivered
+ORD-2024-10099,2024-04-27,Consumer,Europe,Technology,Printers,3281.72,896.83,0.0,9,168.38,Delivered
+ORD-2024-10100,2024-10-21,Consumer,Europe,Technology,Accessories,655.48,-77.39,0.0,2,33.63,Delivered
+ORD-2024-10101,2024-11-01,Consumer,North America,Furniture,Tables,1952.08,-261.95,0.2,10,100.16,Delivered
+ORD-2024-10102,2024-03-07,Consumer,Asia Pacific,Technology,Laptops,4283.48,-88.88,0.0,10,219.78,Delivered
+ORD-2024-10103,2024-11-01,Corporate,North America,Furniture,Chairs,2472.53,742.58,0.2,11,126.86,Delivered
+ORD-2024-10104,2024-03-18,Corporate,Europe,Office Supplies,Appliances,250.35,65.55,0.0,6,12.85,Delivered
+ORD-2024-10105,2024-03-12,Corporate,Latin America,Technology,Laptops,1686.74,322.78,0.05,4,86.55,Delivered
+ORD-2024-10106,2024-11-15,Consumer,Europe,Furniture,Furnishings,1671.05,334.84,0.0,8,85.74,Cancelled
+ORD-2024-10107,2024-03-23,Consumer,Latin America,Office Supplies,Storage,678.83,144.82,0.05,11,34.83,Delivered
+ORD-2024-10108,2024-02-07,Consumer,North America,Technology,Printers,3311.82,1064.09,0.1,7,169.93,Shipped
+ORD-2024-10109,2024-07-18,Consumer,Europe,Technology,Phones,3068.79,816.59,0.0,7,157.46,Delivered
+ORD-2024-10110,2024-03-19,Home Office,North America,Technology,Phones,4644.55,751.0,0.05,11,238.31,Delivered
+ORD-2024-10111,2024-10-15,Consumer,Asia Pacific,Technology,Printers,3121.4,570.77,0.1,10,160.16,Delivered
+ORD-2024-10112,2024-01-15,Consumer,Latin America,Office Supplies,Appliances,523.33,-22.57,0.1,9,26.85,Delivered
+ORD-2024-10113,2024-09-19,Consumer,North America,Office Supplies,Binders,224.83,40.17,0.15,5,11.54,Delivered
+ORD-2024-10114,2024-06-08,Consumer,Europe,Furniture,Tables,961.81,59.96,0.0,6,49.35,Shipped
+ORD-2024-10115,2024-09-27,Corporate,North America,Office Supplies,Binders,43.6,-3.21,0.05,1,2.24,Delivered
+ORD-2024-10116,2024-03-04,Corporate,Europe,Office Supplies,Storage,346.99,87.86,0.3,6,17.8,Delivered
+ORD-2024-10117,2024-08-15,Consumer,Europe,Technology,Phones,562.83,59.17,0.2,2,28.88,Delivered
+ORD-2024-10118,2024-02-15,Consumer,Latin America,Office Supplies,Paper,275.21,93.22,0.3,6,14.12,Processing
+ORD-2024-10119,2024-05-13,Consumer,Europe,Furniture,Chairs,1692.33,-15.5,0.0,9,86.83,Delivered
+ORD-2024-10120,2024-02-16,Consumer,North America,Office Supplies,Art,261.23,23.6,0.15,8,13.4,Delivered
+ORD-2024-10121,2024-12-04,Consumer,North America,Office Supplies,Paper,338.99,25.08,0.1,9,17.39,Delivered
+ORD-2024-10122,2024-04-18,Home Office,North America,Technology,Printers,4475.52,-401.05,0.0,10,229.64,Shipped
+ORD-2024-10123,2024-12-30,Corporate,North America,Technology,Accessories,3588.3,,0.15,8,184.11,Cancelled
+ORD-2024-10124,2024-05-18,Corporate,North America,Technology,Laptops,949.93,-5.91,0.1,3,48.74,Delivered
+ORD-2024-10125,2024-08-23,,Asia Pacific,Furniture,Bookcases,1889.9,-131.99,0.0,8,96.97,Processing
+ORD-2024-10126,2024-07-10,Consumer,Europe,Office Supplies,Paper,334.87,-2.99,0.0,6,17.18,Shipped
+ORD-2024-10127,2024-09-09,Corporate,Europe,Office Supplies,Paper,267.98,-8.94,0.15,6,13.75,Delivered
+ORD-2024-10128,2024-05-27,Corporate,North America,Technology,Printers,2570.16,557.82,0.0,6,131.87,Delivered
+ORD-2024-10129,2024-06-10,,Asia Pacific,Furniture,Chairs,741.38,-99.8,0.0,3,38.04,Delivered
+ORD-2024-10130,2024-03-01,Consumer,Asia Pacific,Furniture,Tables,1838.3,291.8,0.05,10,94.32,Cancelled
+ORD-2024-10131,2024-04-22,Corporate,North America,Technology,Printers,303.41,69.88,0.0,1,15.57,Delivered
+ORD-2024-10132,2024-11-04,Consumer,Asia Pacific,Technology,Accessories,1902.98,171.96,0.2,4,97.64,Shipped
+ORD-2024-10133,2024-09-16,Home Office,Europe,Technology,Printers,3929.17,1240.76,0.05,10,201.6,Delivered
+ORD-2024-10134,2024-03-16,,North America,Office Supplies,Art,208.9,42.6,0.05,6,10.72,Shipped
+ORD-2024-10135,2024-08-27,Corporate,Europe,Technology,Printers,4238.38,949.24,0.2,11,217.47,Delivered
+ORD-2024-10136,2024-03-21,Consumer,Europe,Furniture,Chairs,1890.73,-97.44,0.05,10,97.01,Delivered
+ORD-2024-10137,2024-11-25,Corporate,North America,Office Supplies,Binders,116.9,27.9,0.0,2,6.0,Shipped
+ORD-2024-10138,2024-01-10,Consumer,Latin America,Furniture,Furnishings,1350.07,359.18,0.15,7,69.27,Shipped
+ORD-2024-10139,2024-07-02,Consumer,Asia Pacific,Office Supplies,Binders,276.78,8.48,0.05,7,14.2,Processing
+ORD-2024-10140,2024-06-01,Consumer,Europe,Office Supplies,Art,580.61,,0.0,11,29.79,Delivered
+ORD-2024-10141,2024-12-02,Corporate,Europe,Technology,Phones,1511.72,64.29,0.1,4,77.57,Delivered
+ORD-2024-10142,2024-09-26,Consumer,Europe,Furniture,Tables,621.45,136.6,0.15,4,31.89,Delivered
+ORD-2024-10143,2024-06-15,Consumer,Europe,Technology,Phones,385.54,22.68,0.15,1,19.78,Delivered
+ORD-2024-10144,2024-09-12,Home Office,Europe,Technology,Phones,892.55,194.87,0.3,2,45.8,Delivered
+ORD-2024-10145,2024-12-05,Consumer,North America,Technology,Phones,2268.0,-211.42,0.15,9,116.37,Delivered
+ORD-2024-10146,2024-09-14,Corporate,Europe,Furniture,Chairs,2054.87,519.89,0.15,10,105.43,Delivered
+ORD-2024-10147,2024-07-05,Consumer,Asia Pacific,Furniture,Tables,1360.38,-31.83,0.2,8,69.8,Cancelled
+ORD-2024-10148,2024-05-05,Consumer,Europe,Technology,Phones,2533.64,-64.7,0.0,8,130.0,Delivered
+ORD-2024-10149,2024-05-11,Corporate,North America,Technology,Phones,3070.66,445.83,0.0,9,157.55,Delivered
+ORD-2024-10150,2024-07-25,Consumer,  Asia Pacific  ,Office Supplies,Art,295.92,-34.01,0.1,7,15.18,Delivered
+ORD-2024-10151,2024-02-18,Consumer,North America,Technology,Laptops,4040.09,-552.89,0.05,9,207.29,Delivered
+ORD-2024-10152,2024-01-04,Corporate,North America,Technology,Laptops,3123.25,-60.86,0.0,10,160.25,Delivered
+ORD-2024-10153,2024-04-23,Corporate,North America,Furniture,Bookcases,436.75,51.99,0.0,2,22.41,Processing
+ORD-2024-10154,2024-03-09,Corporate,North America,Office Supplies,Binders,206.78,62.82,0.0,6,10.61,Processing
+ORD-2024-10155,2024-11-29,Consumer,Asia Pacific,Technology,Laptops,1434.28,391.87,0.05,3,73.59,Processing
+ORD-2024-10156,2024-06-04,Consumer,Europe,Office Supplies,Binders,562.13,53.53,0.15,11,28.84,Cancelled
+ORD-2024-10157,2024-07-02,Corporate,North America,Office Supplies,Binders,322.57,-42.41,0.2,6,16.55,Delivered
+ORD-2024-10158,2024-03-06,Corporate,Asia Pacific,Technology,Laptops,954.06,112.22,0.15,3,48.95,Delivered
+ORD-2024-10159,2024-10-27,Home Office,Asia Pacific,Office Supplies,Binders,355.85,72.02,0.15,8,18.26,Delivered
+ORD-2024-10160,2024-09-12,Home Office,Asia Pacific,Furniture,Tables,1696.16,33.21,0.05,11,87.03,Delivered
+ORD-2024-10161,2024-08-09,Home Office,North America,Furniture,Bookcases,974.0,-92.01,0.0,4,49.98,Delivered
+ORD-2024-10162,2024-06-17,Consumer,Europe,Furniture,Furnishings,1875.01,-20.09,0.0,10,96.21,Delivered
+ORD-2024-10163,2024-11-20,Consumer,Latin America,Furniture,Chairs,1232.62,290.64,0.1,6,63.24,Delivered
+ORD-2024-10164,2024-07-24,Corporate,Asia Pacific,Technology,Printers,3824.07,97.98,0.0,9,196.21,Delivered
+ORD-2024-10165,2024-09-22,Consumer,North America,Office Supplies,Storage,86.38,22.11,0.05,2,4.43,Delivered
+ORD-2024-10166,2024-03-26,Consumer,North America,Technology,Phones,842.85,8.23,0.1,2,43.25,Delivered
+ORD-2024-10167,2024-11-25,Home Office,Europe,Technology,Accessories,2874.33,-196.09,0.05,7,147.48,Delivered
+ORD-2024-10168,2024-09-10,Home Office,Latin America,Technology,Accessories,835.77,56.77,0.3,2,42.88,Delivered
+ORD-2024-10169,2024-06-12,Consumer,Europe,Furniture,Tables,375.29,28.57,0.1,2,19.26,Delivered
+ORD-2024-10170,2024-11-29,Consumer,Europe,Office Supplies,Paper,174.25,-24.73,0.0,4,8.94,Shipped
+ORD-2024-10171,2024-10-07,Consumer,North America,Technology,Laptops,2694.69,-246.5,0.05,9,138.26,Delivered
+ORD-2024-10172,2024-12-16,Home Office,Europe,Furniture,Chairs,1839.22,-105.82,0.1,8,94.37,Delivered
+ORD-2024-10173,2024-09-13,Home Office,Asia Pacific,Technology,Accessories,788.09,-73.45,0.0,2,40.44,Shipped
+ORD-2024-10174,2024-10-15,Consumer,North America,Furniture,Bookcases,1455.91,30.23,0.0,8,74.7,Delivered
+ORD-2024-10175,2024-07-21,Consumer,Asia Pacific,Technology,Printers,1905.12,633.09,0.05,4,97.75,Delivered
+ORD-2024-10176,2024-12-15,Home Office,Latin America,Office Supplies,Paper,66.01,6.91,0.2,2,3.39,Delivered
+ORD-2024-10177,2024-01-21,Consumer,North America,Furniture,Tables,2564.34,419.98,0.05,11,131.57,Delivered
+ORD-2024-10178,2024-01-02,Corporate,Europe,Office Supplies,Art,629.24,17.74,0.2,10,32.29,Shipped
+ORD-2024-10179,2024-07-12,Home Office,North America,Technology,Printers,3236.11,38.0,0.15,7,166.04,Shipped
+ORD-2024-10180,2024-04-05,Consumer,Asia Pacific,Technology,Printers,2661.34,-368.4,0.0,6,136.55,Delivered
+ORD-2024-10181,2024-06-20,Corporate,Europe,Technology,Laptops,3367.05,337.27,0.1,10,172.76,Delivered
+ORD-2024-10182,2024-09-08,Consumer,Europe,Office Supplies,Art,193.93,17.8,0.05,5,9.95,Delivered
+ORD-2024-10183,2024-06-02,Consumer,Asia Pacific,Office Supplies,Art,601.13,-42.73,0.0,11,30.84,Delivered
+ORD-2024-10184,2024-12-02,Home Office,North America,Technology,Laptops,319.62,74.2,0.1,1,16.4,Delivered
+ORD-2024-10185,2024-11-08,Consumer,Latin America,Office Supplies,Storage,74.09,7.14,0.1,2,3.8,Delivered
+ORD-2024-10186,2024-03-02,Home Office,Europe,Office Supplies,Storage,450.2,8.78,0.0,8,23.1,Delivered
+ORD-2024-10187,2024-07-20,Corporate,North America,Furniture,Furnishings,165.38,-12.66,0.2,1,8.49,Delivered
+ORD-2024-10188,2024-09-01,Consumer,Europe,Furniture,Furnishings,723.66,91.24,0.15,3,37.13,Delivered
+ORD-2024-10189,2024-05-02,Consumer,Asia Pacific,Technology,Printers,901.91,204.2,0.2,2,46.28,Delivered
+ORD-2024-10190,2024-12-08,Consumer,North America,Technology,Laptops,2263.36,-20.37,0.0,5,116.13,Delivered
+ORD-2024-10191,2024-06-11,Consumer,Asia Pacific,Office Supplies,Binders,223.22,-9.06,0.2,4,11.45,Shipped
+ORD-2024-10192,2024-06-24,Consumer,Latin America,Office Supplies,Binders,414.73,46.02,0.0,7,21.28,Delivered
+ORD-2024-10193,2024-08-19,Consumer,North America,Furniture,Bookcases,1137.62,-82.28,0.0,5,58.37,Delivered
+ORD-2024-10194,2024-02-05,Consumer,Latin America,Technology,Accessories,3140.92,575.75,0.15,8,161.16,Processing
+ORD-2024-10195,2024-07-09,Corporate,North America,Technology,Accessories,1269.91,193.88,0.1,4,65.16,Delivered
+ORD-2024-10196,2024-08-15,Corporate,North America,Office Supplies,Paper,356.87,-37.99,0.05,6,18.31,Delivered
+ORD-2024-10197,2024-02-01,Corporate,North America,Office Supplies,Art,231.92,-30.55,0.05,4,11.9,Delivered
+ORD-2024-10198,2024-05-30,Consumer,Asia Pacific,Office Supplies,Binders,92.79,14.86,0.0,2,4.76,Delivered
+ORD-2024-10199,2024-01-14,Consumer,Europe,Office Supplies,Storage,32.73,-0.09,0.1,1,1.68,Delivered
+ORD-2024-10200,2024-09-07,Corporate,North America,Furniture,Tables,206.46,-22.05,0.05,1,10.59,Delivered
+ORD-2024-10201,2024-10-25,Consumer,Europe,Technology,Laptops,2059.17,473.02,0.05,8,105.65,Delivered
+ORD-2024-10202,2024-10-18,Consumer,Europe,Technology,Printers,1887.75,13.26,0.05,4,96.86,Processing
+ORD-2024-10203,2024-09-13,Home Office,North America,Office Supplies,Art,308.96,24.65,0.3,5,15.85,Delivered
+ORD-2024-10204,2024-05-16,Corporate,Asia Pacific,Furniture,Chairs,1648.63,-52.09,0.1,11,84.59,Delivered
+ORD-2024-10205,2024-06-11,,Asia Pacific,Technology,Phones,3285.72,537.74,0.1,8,168.59,Processing
+ORD-2024-10206,2024-06-04,Consumer,Europe,Technology,Phones,1873.24,1.39,0.2,7,96.11,Delivered
+ORD-2024-10207,2024-06-13,Corporate,Latin America,Office Supplies,Storage,435.84,145.58,0.05,8,22.36,Processing
+ORD-2024-10208,2024-01-05,Corporate,Europe,Technology,Laptops,2640.68,532.03,0.0,8,135.49,Delivered
+ORD-2024-10209,2024-03-14,Corporate,Latin America,Technology,Accessories,2471.14,-201.74,0.0,6,126.79,Shipped
+ORD-2024-10210,2024-10-04,Corporate,Europe,Furniture,Bookcases,1729.82,100.93,0.1,10,88.76,Delivered
+ORD-2024-10211,2024-08-19,Home Office,Europe,Office Supplies,Art,72.17,3.08,0.0,2,3.7,Shipped
+ORD-2024-10212,2024-08-02,Corporate,North America,Office Supplies,Appliances,265.75,31.13,0.05,6,13.64,Processing
+ORD-2024-10213,2024-02-04,Consumer,  Asia Pacific  ,Technology,Printers,272.61,73.87,0.0,1,13.99,Delivered
+ORD-2024-10214,2024-04-30,Corporate,Europe,Office Supplies,Appliances,49.67,7.04,0.0,1,2.55,Delivered
+ORD-2024-10215,2024-04-29,Corporate,North America,Technology,Accessories,2805.36,-334.46,0.05,11,143.94,Delivered
+ORD-2024-10216,2024-11-30,Corporate,North America,Technology,Phones,1122.58,199.49,0.3,3,57.6,Delivered
+ORD-2024-10217,2024-10-24,Consumer,Europe,Office Supplies,Storage,178.26,-26.0,0.1,3,9.15,Delivered
+ORD-2024-10218,2024-12-08,Consumer,Europe,Furniture,Furnishings,2547.29,611.3,0.2,11,130.7,Delivered
+ORD-2024-10219,2024-03-31,Home Office,Asia Pacific,Office Supplies,Binders,296.54,54.36,0.3,5,15.22,Delivered
+ORD-2024-10220,2024-10-31,Corporate,Asia Pacific,Office Supplies,Binders,60.54,0.27,0.0,1,3.11,Delivered
+ORD-2024-10221,2024-02-23,Home Office,North America,Furniture,Bookcases,1391.71,-5.26,0.0,10,71.41,Delivered
+ORD-2024-10222,2024-10-21,Corporate,Asia Pacific,Technology,Laptops,1659.26,413.38,0.15,6,85.14,Delivered
+ORD-2024-10223,2024-04-05,Corporate,North America,Furniture,Chairs,1373.28,331.88,0.2,7,70.46,Delivered
+ORD-2024-10224,2024-11-19,Corporate,Asia Pacific,Technology,Printers,4640.23,121.35,0.05,10,238.09,Delivered
+ORD-2024-10225,2024-03-19,Home Office,Asia Pacific,Technology,Printers,5320.87,-2.8,0.3,11,273.01,Delivered
+ORD-2024-10226,2024-01-02,Corporate,Europe,Office Supplies,Paper,98.87,12.84,0.0,3,5.07,Delivered
+ORD-2024-10227,2024-01-15,Corporate,Asia Pacific,Furniture,Bookcases,683.31,-99.64,0.0,4,35.06,Delivered
+ORD-2024-10228,2024-02-18,Consumer,North America,Office Supplies,Storage,382.06,-41.52,0.1,10,19.6,Delivered
+ORD-2024-10229,2024-02-23,Consumer,Europe,Furniture,Furnishings,2433.77,-211.53,0.05,11,124.88,Delivered
+ORD-2024-10230,2024-11-08,Corporate,Asia Pacific,Office Supplies,Binders,516.66,-29.6,0.0,10,26.51,Shipped
+ORD-2024-10231,2024-10-31,Consumer,Europe,Furniture,Bookcases,1411.06,149.59,0.0,10,72.4,Delivered
+ORD-2024-10232,2024-05-18,Consumer,North America,Furniture,Bookcases,1869.24,646.98,0.0,10,95.91,Delivered
+ORD-2024-10233,2024-03-24,Consumer,Europe,Furniture,Chairs,2123.66,374.42,0.1,10,108.96,Delivered
+ORD-2024-10234,2024-05-31,Consumer,Asia Pacific,Technology,Phones,1307.57,-156.06,0.2,3,67.09,Shipped
+ORD-2024-10235,2024-07-24,Consumer,  North America  ,Office Supplies,Paper,32.13,3.62,0.2,1,1.65,Processing
+ORD-2024-10236,2024-11-15,Consumer,North America,Technology,Accessories,3705.32,364.32,0.1,8,190.12,Delivered
+ORD-2024-10237,2024-11-07,Home Office,Asia Pacific,Technology,Printers,3844.74,-299.57,0.05,10,197.27,Delivered
+ORD-2024-10238,2024-01-17,Corporate,Asia Pacific,Furniture,Chairs,2283.01,708.04,0.05,10,117.14,Processing
+ORD-2024-10239,2024-06-15,,North America,Technology,Laptops,885.89,62.35,0.0,2,45.45,Delivered
+ORD-2024-10240,2024-12-11,Consumer,North America,Office Supplies,Appliances,37.48,13.02,0.0,1,1.92,Delivered
+ORD-2024-10241,2024-01-11,Corporate,North America,Office Supplies,Binders,279.76,16.8,0.0,8,14.35,Delivered
+ORD-2024-10242,2024-05-13,Consumer,North America,Office Supplies,Appliances,379.54,58.44,0.15,7,19.47,Delivered
+ORD-2024-10243,2024-06-29,Home Office,Europe,Furniture,Furnishings,1019.97,-99.57,0.2,7,52.33,Processing
+ORD-2024-10244,2024-04-03,Corporate,Asia Pacific,Technology,Printers,1812.94,139.8,0.05,4,93.02,Cancelled
+ORD-2024-10245,2024-07-07,Corporate,Europe,Office Supplies,Appliances,598.12,-18.31,0.1,11,30.69,Shipped
+ORD-2024-10246,2024-12-10,Consumer,Europe,Furniture,Furnishings,2088.63,559.3,0.0,9,107.17,Delivered
+ORD-2024-10247,2024-04-18,Corporate,North America,Office Supplies,Art,245.51,59.4,0.1,6,12.6,Processing
+ORD-2024-10248,2024-02-24,Consumer,Asia Pacific,Office Supplies,Art,82.95,21.74,0.1,2,4.26,Delivered
+ORD-2024-10249,2024-01-21,Home Office,Europe,Office Supplies,Art,52.64,11.15,0.05,1,2.7,Delivered
+ORD-2024-10250,2024-03-29,Corporate,Latin America,Technology,Printers,252.7,67.3,0.0,1,12.97,Processing
+ORD-2024-10251,2024-07-29,Consumer,Europe,Furniture,Furnishings,1957.85,-97.08,0.2,9,100.46,Delivered
+ORD-2024-10252,2024-02-24,Consumer,North America,Office Supplies,Binders,231.31,17.58,0.1,4,11.87,Delivered
+ORD-2024-10253,2024-05-11,Consumer,Europe,Technology,Phones,1733.58,339.65,0.2,5,88.95,Delivered
+ORD-2024-10254,2024-10-04,Corporate,North America,Technology,Accessories,1297.19,218.83,0.15,3,66.56,Processing
+ORD-2024-10255,2024-01-20,Consumer,Europe,Furniture,Furnishings,592.0,123.24,0.3,4,30.38,Delivered
+ORD-2024-10256,2024-11-13,Corporate,North America,Office Supplies,Paper,333.21,-12.62,0.0,8,17.1,Delivered
+ORD-2024-10257,2024-04-26,Consumer,North America,Office Supplies,Art,248.76,-25.07,0.0,4,12.76,Delivered
+ORD-2024-10258,2024-01-12,Corporate,Asia Pacific,Furniture,Tables,2252.5,694.68,0.0,9,115.57,Shipped
+ORD-2024-10259,2024-09-06,Home Office,North America,Technology,Phones,3335.29,433.87,0.0,9,171.13,Shipped
+ORD-2024-10260,2024-07-01,Corporate,Asia Pacific,Furniture,Tables,1462.31,-106.88,0.05,6,75.03,Delivered
+ORD-2024-10261,2024-08-26,Corporate,North America,Office Supplies,Art,95.93,23.67,0.1,2,4.92,Delivered
+ORD-2024-10262,2024-07-22,Consumer,Europe,Technology,Laptops,3164.39,972.94,0.05,10,162.36,Delivered
+ORD-2024-10263,2024-11-29,Consumer,Europe,Furniture,Bookcases,1755.92,-114.52,0.0,11,90.1,Cancelled
+ORD-2024-10264,2024-05-25,Corporate,Europe,Office Supplies,Binders,425.46,110.07,0.2,7,21.83,Delivered
+ORD-2024-10265,2024-06-19,Consumer,North America,Office Supplies,Art,332.39,105.24,0.0,9,17.05,Processing
+ORD-2024-10266,2024-01-31,Consumer,North America,Office Supplies,Binders,298.55,95.29,0.0,6,15.32,Delivered
+ORD-2024-10267,2024-06-05,Consumer,North America,Office Supplies,Storage,147.0,45.14,0.1,3,7.54,Shipped
+ORD-2024-10268,2024-02-23,Consumer,North America,Furniture,Bookcases,1534.35,189.05,0.15,7,78.73,Shipped
+ORD-2024-10269,2024-03-13,Consumer,Europe,Technology,Laptops,1836.57,51.62,0.05,5,94.23,Delivered
+ORD-2024-10270,2024-10-03,Home Office,Latin America,Office Supplies,Appliances,40.08,-5.87,0.0,1,2.06,Cancelled
+ORD-2024-10271,2024-11-25,Consumer,Asia Pacific,Office Supplies,Art,110.51,-13.21,0.1,3,5.67,Delivered
+ORD-2024-10272,2024-12-07,Corporate,Asia Pacific,Office Supplies,Storage,255.28,16.45,0.0,5,13.1,Delivered
+ORD-2024-10273,2024-09-21,Consumer,Asia Pacific,Office Supplies,Appliances,379.04,18.82,0.0,7,19.45,Delivered
+ORD-2024-10274,2024-05-30,Corporate,Europe,Furniture,Tables,593.28,-34.2,0.1,3,30.44,Shipped
+ORD-2024-10275,2024-10-14,Consumer,North America,Furniture,Furnishings,1314.19,62.74,0.0,6,67.43,Delivered
+ORD-2024-10276,2024-08-17,Home Office,Latin America,Office Supplies,Appliances,179.79,-11.27,0.0,5,9.22,Delivered
+ORD-2024-10277,2024-03-04,Home Office,Europe,Furniture,Bookcases,237.19,65.08,0.05,1,12.17,Delivered
+ORD-2024-10278,2024-12-14,Consumer,Europe,Office Supplies,Paper,498.45,-0.45,0.3,10,25.58,Delivered
+ORD-2024-10279,2024-02-12,Home Office,North America,Office Supplies,Storage,212.97,31.79,0.3,6,10.93,Delivered
+ORD-2024-10280,2024-06-13,Home Office,Europe,Office Supplies,Binders,368.41,37.36,0.05,8,18.9,Delivered
+ORD-2024-10281,2024-03-22,Home Office,Europe,Technology,Printers,451.97,-56.07,0.0,1,23.19,Shipped
+ORD-2024-10282,2024-11-11,Home Office,Asia Pacific,Furniture,Furnishings,478.19,153.55,0.0,2,24.54,Delivered
+ORD-2024-10283,2024-06-02,Consumer,Europe,Technology,Printers,1239.36,140.81,0.0,4,63.59,Delivered
+ORD-2024-10284,2024-12-09,Corporate,North America,Furniture,Tables,431.24,5.4,0.05,2,22.13,Delivered
+ORD-2024-10285,2024-01-10,Consumer,  Latin America  ,Technology,Accessories,2964.46,-210.29,0.1,11,152.1,Delivered
+ORD-2024-10286,2024-11-29,Consumer,North America,Furniture,Tables,1172.04,22.58,0.05,9,60.14,Shipped
+ORD-2024-10287,2024-12-29,Home Office,Europe,Furniture,Furnishings,1966.1,-274.75,0.05,10,100.88,Processing
+ORD-2024-10288,2024-11-28,Consumer,North America,Technology,Laptops,3321.86,,0.0,8,170.44,Delivered
+ORD-2024-10289,2024-09-04,Corporate,Asia Pacific,Furniture,Tables,1810.15,209.51,0.05,8,92.88,Shipped
+ORD-2024-10290,2024-04-19,Home Office,Latin America,Technology,Laptops,1313.41,375.55,0.0,4,67.39,Processing
+ORD-2024-10291,2024-10-09,Home Office,North America,Technology,Accessories,1232.99,238.81,0.05,5,63.26,Shipped
+ORD-2024-10292,2024-01-31,Home Office,Asia Pacific,Office Supplies,Appliances,186.42,,0.1,4,9.57,Delivered
+ORD-2024-10293,2024-01-03,Consumer,North America,Furniture,Chairs,1151.98,-87.7,0.1,9,59.11,Cancelled
+ORD-2024-10294,2024-07-30,Consumer,Latin America,Technology,Laptops,535.07,34.28,0.05,2,27.45,Delivered
+ORD-2024-10295,2024-11-16,Consumer,Asia Pacific,Furniture,Chairs,1838.79,-95.89,0.05,11,94.35,Delivered
+ORD-2024-10296,2024-12-12,Consumer,Asia Pacific,Office Supplies,Paper,362.17,-49.28,0.0,8,18.58,Delivered
+ORD-2024-10297,2024-05-20,Consumer,North America,Technology,Laptops,626.94,158.31,0.0,2,32.17,Delivered
+ORD-2024-10298,2024-10-07,Consumer,Latin America,Furniture,Tables,199.32,-27.95,0.1,1,10.23,Delivered
+ORD-2024-10299,2024-12-20,Corporate,Asia Pacific,Technology,Printers,2585.61,686.08,0.0,10,132.67,Delivered
+ORD-2024-10300,2024-04-28,Corporate,North America,Technology,Phones,841.27,-65.58,0.1,3,43.17,Delivered
+ORD-2024-10301,2024-07-11,Consumer,Asia Pacific,Furniture,Bookcases,1922.42,648.51,0.1,9,98.64,Shipped
+ORD-2024-10302,2024-07-26,Corporate,North America,Furniture,Tables,431.73,65.6,0.2,3,22.15,Processing
+ORD-2024-10303,2024-02-17,Consumer,Asia Pacific,Furniture,Furnishings,1859.51,404.43,0.3,9,95.41,Delivered
+ORD-2024-10304,2024-04-11,Consumer,North America,Office Supplies,Paper,232.56,-22.04,0.0,7,11.93,Processing
+ORD-2024-10305,2024-03-19,Corporate,Asia Pacific,Office Supplies,Art,443.33,124.6,0.3,10,22.75,Processing
+ORD-2024-10306,2024-01-25,Corporate,Europe,Furniture,Tables,148.35,39.99,0.1,1,7.61,Shipped
+ORD-2024-10307,2024-08-17,Corporate,North America,Technology,Accessories,2718.61,479.82,0.1,10,139.49,Delivered
+ORD-2024-10308,2024-12-29,Consumer,North America,Office Supplies,Paper,246.81,24.96,0.0,5,12.66,Delivered
+ORD-2024-10309,2024-08-06,Home Office,North America,Technology,Accessories,4251.98,896.08,0.2,9,218.17,Processing
+ORD-2024-10310,2024-01-23,Corporate,Europe,Furniture,Chairs,398.71,-58.62,0.0,3,20.46,Delivered
+ORD-2024-10311,2024-07-09,Corporate,North America,Technology,Phones,3134.53,458.33,0.15,9,160.83,Delivered
+ORD-2024-10312,2024-01-19,Corporate,Europe,Technology,Printers,2091.73,572.51,0.0,5,107.33,Delivered
+ORD-2024-10313,2024-09-22,Home Office,North America,Office Supplies,Binders,414.67,11.8,0.1,9,21.28,Delivered
+ORD-2024-10314,2024-04-07,Corporate,North America,Office Supplies,Storage,569.05,-54.55,0.05,10,29.2,Delivered
+ORD-2024-10315,2024-01-31,Corporate,Asia Pacific,Office Supplies,Appliances,222.95,13.47,0.0,6,11.44,Delivered
+ORD-2024-10316,2024-09-22,Home Office,North America,Furniture,Chairs,2222.18,474.55,0.0,9,114.02,Delivered
+ORD-2024-10317,2024-10-17,,Latin America,Technology,Accessories,2375.55,,0.05,7,121.89,Shipped
+ORD-2024-10318,2024-03-18,Consumer,Asia Pacific,Technology,Phones,2300.79,-108.08,0.0,7,118.05,Processing
+ORD-2024-10319,2024-06-22,Corporate,Europe,Technology,Printers,3674.23,-280.06,0.05,8,188.52,Delivered
+ORD-2024-10320,2024-02-03,Consumer,Europe,Furniture,Furnishings,1379.33,342.73,0.1,7,70.77,Cancelled
+ORD-2024-10321,2024-10-26,,Asia Pacific,Office Supplies,Art,429.91,-50.97,0.15,9,22.06,Delivered
+ORD-2024-10322,2024-10-30,Corporate,North America,Office Supplies,Appliances,598.4,115.67,0.1,11,30.7,Delivered
+ORD-2024-10323,2024-05-20,Home Office,North America,Technology,Accessories,3483.53,115.75,0.0,9,178.74,Shipped
+ORD-2024-10324,2024-08-03,Home Office,North America,Office Supplies,Storage,219.72,50.07,0.0,6,11.27,Shipped
+ORD-2024-10325,2024-09-26,Consumer,Asia Pacific,Office Supplies,Binders,369.16,122.63,0.0,7,18.94,Processing
+ORD-2024-10326,2024-12-05,Corporate,North America,Furniture,Bookcases,285.63,-26.49,0.2,2,14.66,Delivered
+ORD-2024-10327,2024-11-23,Consumer,Europe,Furniture,Tables,2047.84,14.73,0.2,9,105.07,Processing
+ORD-2024-10328,2024-06-06,Home Office,Latin America,Furniture,Tables,250.71,63.95,0.0,1,12.86,Delivered
+ORD-2024-10329,2024-09-03,Home Office,Asia Pacific,Technology,Printers,337.46,-5.71,0.0,1,17.31,Shipped
+ORD-2024-10330,2024-12-07,Corporate,Europe,Furniture,Tables,546.12,-23.18,0.2,3,28.02,Shipped
+ORD-2024-10331,2024-03-12,Home Office,North America,Office Supplies,Appliances,197.78,51.95,0.2,6,10.15,Delivered
+ORD-2024-10332,2024-10-08,Corporate,Asia Pacific,Technology,Laptops,1241.82,426.62,0.2,5,63.72,Delivered
+ORD-2024-10333,2024-06-18,Corporate,  Europe  ,Technology,Printers,941.5,120.93,0.15,2,48.31,Processing
+ORD-2024-10334,2024-07-16,Consumer,North America,Technology,Laptops,2488.62,-27.31,0.05,9,127.69,Delivered
+ORD-2024-10335,2024-03-11,Consumer,North America,Technology,Phones,3542.16,174.57,0.0,10,181.75,Delivered
+ORD-2024-10336,2024-11-17,Corporate,Latin America,Office Supplies,Paper,228.73,-14.85,0.05,4,11.74,Shipped
+ORD-2024-10337,2024-06-24,Corporate,Europe,Office Supplies,Appliances,238.05,54.98,0.05,4,12.21,Delivered
+ORD-2024-10338,2024-06-13,Consumer,Asia Pacific,Furniture,Furnishings,957.22,226.61,0.05,5,49.11,Shipped
+ORD-2024-10339,2024-02-04,Home Office,Asia Pacific,Technology,Printers,3067.46,882.08,0.05,8,157.39,Delivered
+ORD-2024-10340,2024-03-02,Consumer,Europe,Furniture,Bookcases,2103.8,-287.59,0.0,10,107.94,Delivered
+ORD-2024-10341,2024-11-16,Corporate,Europe,Furniture,Furnishings,988.54,129.49,0.0,4,50.72,Shipped
+ORD-2024-10342,2024-07-14,Corporate,Europe,Technology,Phones,1963.27,-84.17,0.05,5,100.73,Delivered
+ORD-2024-10343,2024-05-23,Corporate,North America,Furniture,Chairs,785.98,16.07,0.0,4,40.33,Delivered
+ORD-2024-10344,2024-07-30,Corporate,Europe,Furniture,Furnishings,766.99,185.98,0.05,6,39.35,Shipped
+ORD-2024-10345,2024-03-17,Consumer,Asia Pacific,Furniture,Tables,408.6,-22.06,0.15,3,20.97,Delivered
+ORD-2024-10346,2024-10-02,Consumer,Europe,Furniture,Furnishings,1589.79,268.95,0.15,8,81.57,Delivered
+ORD-2024-10347,2024-04-27,Corporate,Asia Pacific,Technology,Printers,2846.27,504.6,0.05,6,146.04,Delivered
+ORD-2024-10348,2024-01-19,Corporate,Europe,Furniture,Chairs,2352.03,769.22,0.05,10,120.68,Shipped
+ORD-2024-10349,2024-06-05,Consumer,Europe,Furniture,Bookcases,1249.02,296.74,0.0,5,64.09,Shipped
+ORD-2024-10350,2024-05-10,Corporate,Europe,Furniture,Chairs,385.01,96.95,0.1,2,19.75,Shipped
+ORD-2024-10351,2024-06-25,Consumer,Europe,Office Supplies,Appliances,563.2,65.22,0.05,10,28.9,Delivered
+ORD-2024-10352,2024-12-20,Corporate,Asia Pacific,Office Supplies,Art,579.73,-32.82,0.05,10,29.75,Shipped
+ORD-2024-10353,2024-08-13,Home Office,North America,Technology,Phones,2826.37,177.44,0.2,7,145.02,Delivered
+ORD-2024-10354,2024-07-24,Consumer,  Europe  ,Technology,Phones,655.99,81.83,0.05,2,33.66,Delivered
+ORD-2024-10355,2024-04-04,Consumer,North America,Furniture,Chairs,185.22,35.05,0.0,1,9.5,Delivered
+ORD-2024-10356,2024-05-23,Corporate,North America,Technology,Printers,3186.33,490.23,0.0,7,163.49,Processing
+ORD-2024-10357,2024-09-02,Corporate,Europe,Furniture,Furnishings,818.09,38.44,0.05,5,41.98,Shipped
+ORD-2024-10358,2024-02-22,Corporate,Europe,Office Supplies,Art,60.6,-1.05,0.05,1,3.11,Delivered
+ORD-2024-10359,2024-06-24,Home Office,Latin America,Furniture,Bookcases,619.82,-40.84,0.2,4,31.8,Delivered
+ORD-2024-10360,2024-01-10,Home Office,Europe,Furniture,Bookcases,881.76,173.64,0.05,4,45.24,Processing
+ORD-2024-10361,2024-01-15,Home Office,Asia Pacific,Furniture,Tables,2054.5,354.81,0.1,10,105.42,Delivered
+ORD-2024-10362,2024-02-09,Corporate,Europe,Furniture,Furnishings,1543.15,298.89,0.05,7,79.18,Cancelled
+ORD-2024-10363,2024-04-16,Consumer,Europe,Furniture,Bookcases,1629.95,59.11,0.05,9,83.63,Delivered
+ORD-2024-10364,2024-10-24,Consumer,North America,Office Supplies,Appliances,121.76,-2.29,0.05,2,6.25,Delivered
+ORD-2024-10365,2024-01-18,Consumer,North America,Furniture,Furnishings,205.69,47.28,0.05,1,10.55,Delivered
+ORD-2024-10366,2024-12-09,Corporate,North America,Office Supplies,Binders,81.16,19.22,0.05,2,4.16,Delivered
+ORD-2024-10367,2024-09-03,Consumer,Europe,Office Supplies,Binders,361.28,28.11,0.0,7,18.54,Processing
+ORD-2024-10368,2024-08-21,Home Office,North America,Technology,Phones,3152.7,491.67,0.2,10,161.76,Delivered
+ORD-2024-10369,2024-07-26,Corporate,North America,Technology,Accessories,1901.64,69.9,0.0,6,97.57,Shipped
+ORD-2024-10370,2024-12-26,Corporate,North America,Technology,Phones,1371.61,275.66,0.0,4,70.38,Delivered
+ORD-2024-10371,2024-10-30,Consumer,Latin America,Technology,Printers,453.85,121.57,0.0,1,23.29,Delivered
+ORD-2024-10372,2024-03-27,Consumer,North America,Technology,Laptops,367.57,71.35,0.0,1,18.86,Delivered
+ORD-2024-10373,2024-11-29,Consumer,Europe,Office Supplies,Appliances,264.43,28.11,0.05,5,13.57,Delivered
+ORD-2024-10374,2024-09-26,Consumer,North America,Technology,Phones,341.03,27.05,0.0,1,17.5,Cancelled
+ORD-2024-10375,2024-04-30,Consumer,Europe,Technology,Accessories,2167.08,370.92,0.0,7,111.19,Delivered
+ORD-2024-10376,2024-01-08,Corporate,North America,Office Supplies,Storage,677.28,128.62,0.05,11,34.75,Delivered
+ORD-2024-10377,2024-04-04,Home Office,North America,Technology,Laptops,392.88,50.82,0.1,1,20.16,Delivered
+ORD-2024-10378,2024-02-08,Home Office,Europe,Office Supplies,Appliances,60.92,9.9,0.0,1,3.13,Delivered
+ORD-2024-10379,2024-09-03,Corporate,North America,Technology,Phones,589.67,-59.97,0.05,2,30.26,Delivered
+ORD-2024-10380,2024-02-26,Consumer,North America,Technology,Accessories,3090.88,1007.26,0.1,11,158.59,Processing
+ORD-2024-10381,2024-07-31,Home Office,North America,Office Supplies,Appliances,584.58,143.45,0.3,10,29.99,Delivered
+ORD-2024-10382,2024-09-03,Home Office,North America,Furniture,Chairs,635.39,23.49,0.1,3,32.6,Delivered
+ORD-2024-10383,2024-08-05,Consumer,  North America  ,Office Supplies,Paper,411.15,54.03,0.0,11,21.1,Delivered
+ORD-2024-10384,2024-05-16,Corporate,North America,Office Supplies,Storage,39.98,-5.05,0.1,1,2.05,Cancelled
+ORD-2024-10385,2024-06-07,Consumer,Asia Pacific,Office Supplies,Art,510.49,-66.05,0.05,9,26.19,Delivered
+ORD-2024-10386,2024-10-26,Home Office,Europe,Technology,Laptops,3561.98,-87.63,0.0,10,182.76,Delivered
+ORD-2024-10387,2024-07-19,,Europe,Technology,Printers,3274.26,637.99,0.2,8,168.0,Delivered
+ORD-2024-10388,2024-06-30,Consumer,North America,Office Supplies,Appliances,207.64,57.32,0.05,5,10.65,Delivered
+ORD-2024-10389,2024-01-31,Home Office,Latin America,Office Supplies,Binders,478.6,62.02,0.3,11,24.56,Delivered
+ORD-2024-10390,2024-07-06,Corporate,North America,Office Supplies,Storage,125.41,14.56,0.1,2,6.43,Delivered
+ORD-2024-10391,2024-10-15,Home Office,North America,Furniture,Bookcases,786.0,40.21,0.1,5,40.33,Shipped
+ORD-2024-10392,2024-06-17,Consumer,Europe,Furniture,Tables,1138.88,-78.81,0.1,6,58.44,Delivered
+ORD-2024-10393,2024-03-25,Home Office,North America,Office Supplies,Binders,58.1,-5.28,0.05,1,2.98,Shipped
+ORD-2024-10394,2024-05-29,Consumer,North America,Technology,Phones,3339.71,769.27,0.05,11,171.36,Delivered
+ORD-2024-10395,2024-03-18,Consumer,Europe,Office Supplies,Binders,178.32,55.95,0.2,4,9.15,Delivered
+ORD-2024-10396,2024-04-25,,Asia Pacific,Office Supplies,Appliances,457.88,,0.1,9,23.49,Delivered
+ORD-2024-10397,2024-09-28,Home Office,Europe,Furniture,Chairs,373.26,67.08,0.2,2,19.15,Delivered
+ORD-2024-10398,2024-06-13,Home Office,Asia Pacific,Office Supplies,Storage,229.87,70.62,0.2,5,11.79,Shipped
+ORD-2024-10399,2024-09-07,Home Office,Latin America,Office Supplies,Binders,42.92,-4.5,0.3,1,2.2,Delivered
+ORD-2024-10400,2024-09-24,Home Office,North America,Technology,Accessories,1554.91,365.78,0.1,4,79.78,Delivered
+ORD-2024-10401,2024-12-12,Consumer,North America,Office Supplies,Art,204.67,32.42,0.05,4,10.5,Delivered
+ORD-2024-10402,2024-03-26,Consumer,North America,Furniture,Tables,1249.89,186.63,0.0,6,64.13,Cancelled
+ORD-2024-10403,2024-08-23,Consumer,Europe,Office Supplies,Art,337.17,-1.26,0.1,10,17.3,Delivered
+ORD-2024-10404,2024-09-13,Consumer,Europe,Technology,Accessories,3596.43,690.32,0.0,9,184.53,Processing
+ORD-2024-10405,2024-08-06,Consumer,Latin America,Office Supplies,Appliances,184.58,45.66,0.0,3,9.47,Delivered
+ORD-2024-10406,2024-04-09,Consumer,Asia Pacific,Furniture,Furnishings,1747.48,,0.0,9,89.66,Delivered
+ORD-2024-10407,2024-03-04,Consumer,Europe,Technology,Printers,2521.44,294.41,0.2,6,129.37,Delivered
+ORD-2024-10408,2024-08-09,Consumer,North America,Office Supplies,Binders,343.26,-34.11,0.2,7,17.61,Delivered
+ORD-2024-10409,2024-10-07,Consumer,Asia Pacific,Technology,Laptops,4544.11,1300.92,0.1,10,233.16,Delivered
+ORD-2024-10410,2024-06-16,Consumer,Latin America,Technology,Printers,945.5,98.16,0.05,2,48.51,Delivered
+ORD-2024-10411,2024-01-08,Home Office,Asia Pacific,Office Supplies,Binders,410.33,104.22,0.1,11,21.05,Processing
+ORD-2024-10412,2024-01-08,Corporate,North America,Office Supplies,Appliances,452.61,15.41,0.1,10,23.22,Shipped
+ORD-2024-10413,2024-08-01,Home Office,Europe,Furniture,Chairs,1052.64,-92.06,0.05,6,54.01,Shipped
+ORD-2024-10414,2024-12-02,Consumer,North America,Furniture,Bookcases,1062.34,-137.31,0.0,6,54.51,Delivered
+ORD-2024-10415,2024-07-26,Consumer,North America,Furniture,Furnishings,283.63,-2.62,0.0,2,14.55,Delivered
+ORD-2024-10416,2024-05-05,Corporate,North America,Technology,Phones,888.67,-24.78,0.05,2,45.6,Delivered
+ORD-2024-10417,2024-02-20,Consumer,Europe,Technology,Printers,507.53,66.07,0.1,2,26.04,Shipped
+ORD-2024-10418,2024-02-21,Consumer,Europe,Office Supplies,Appliances,481.39,-66.98,0.05,10,24.7,Processing
+ORD-2024-10419,2024-03-10,Consumer,North America,Office Supplies,Binders,52.35,5.77,0.3,1,2.69,Delivered
+ORD-2024-10420,2024-04-21,Consumer,North America,Office Supplies,Paper,190.18,8.73,0.0,5,9.76,Delivered
+ORD-2024-10421,2024-06-09,Consumer,Europe,Office Supplies,Binders,480.27,66.55,0.0,8,24.64,Delivered
+ORD-2024-10422,2024-08-28,Consumer,North America,Technology,Accessories,900.89,181.27,0.05,2,46.22,Delivered
+ORD-2024-10423,2024-06-08,Corporate,North America,Furniture,Tables,926.78,154.81,0.0,5,47.55,Delivered
+ORD-2024-10424,2024-11-29,Consumer,Europe,Technology,Laptops,2765.85,946.81,0.0,8,141.91,Delivered
+ORD-2024-10425,2024-02-01,Consumer,Asia Pacific,Furniture,Tables,1558.08,-126.0,0.0,10,79.94,Shipped
+ORD-2024-10426,2024-08-10,Home Office,North America,Furniture,Tables,1089.9,70.7,0.05,5,55.92,Delivered
+ORD-2024-10427,2024-10-20,Consumer,North America,Office Supplies,Paper,71.3,4.45,0.0,2,3.66,Delivered
+ORD-2024-10428,2024-02-10,Consumer,North America,Furniture,Tables,635.13,37.17,0.1,3,32.59,Cancelled
+ORD-2024-10429,2024-06-11,Home Office,Latin America,Technology,Printers,2708.41,492.66,0.05,6,138.97,Delivered
+ORD-2024-10430,2024-10-23,Consumer,Europe,Technology,Accessories,3310.73,314.23,0.0,11,169.87,Delivered
+ORD-2024-10431,2024-03-22,Consumer,Europe,Office Supplies,Paper,646.72,70.31,0.15,11,33.18,Delivered
+ORD-2024-10432,2024-07-23,Consumer,North America,Furniture,Furnishings,650.99,43.08,0.0,5,33.4,Delivered
+ORD-2024-10433,2024-08-28,Consumer,Europe,Technology,Accessories,5154.96,1782.84,0.15,11,264.5,Delivered
+ORD-2024-10434,2024-01-06,Corporate,North America,Technology,Printers,1095.99,343.9,0.2,4,56.23,Shipped
+ORD-2024-10435,2024-02-05,Home Office,Europe,Office Supplies,Paper,207.37,0.8,0.0,4,10.64,Delivered
+ORD-2024-10436,2024-08-30,Consumer,Latin America,Technology,Laptops,1531.35,-144.26,0.2,5,78.57,Delivered
+ORD-2024-10437,2024-12-21,Corporate,Europe,Office Supplies,Art,115.7,31.23,0.15,2,5.94,Delivered
+ORD-2024-10438,2024-06-16,Corporate,Asia Pacific,Office Supplies,Paper,428.74,149.45,0.2,9,22.0,Delivered
+ORD-2024-10439,2024-10-09,Consumer,Asia Pacific,Technology,Phones,556.27,-2.06,0.1,2,28.54,Processing
+ORD-2024-10440,2024-08-16,Corporate,North America,Technology,Accessories,3848.93,111.21,0.0,10,197.49,Processing
+ORD-2024-10441,2024-05-08,Consumer,Latin America,Office Supplies,Appliances,88.7,28.46,0.2,2,4.55,Delivered
+ORD-2024-10442,2024-07-15,Consumer,North America,Furniture,Furnishings,2093.42,430.33,0.0,10,107.41,Shipped
+ORD-2024-10443,2024-06-18,Consumer,Europe,Furniture,Chairs,2134.08,-4.65,0.0,9,109.5,Delivered
+ORD-2024-10444,2024-01-15,Consumer,North America,Office Supplies,Paper,133.19,18.72,0.0,3,6.83,Cancelled
+ORD-2024-10445,2024-07-25,Consumer,North America,Office Supplies,Binders,406.31,130.88,0.0,10,20.85,Delivered
+ORD-2024-10446,2024-02-01,Home Office,Europe,Office Supplies,Art,223.7,57.25,0.05,7,11.48,Cancelled
+ORD-2024-10447,2024-07-19,Consumer,North America,Office Supplies,Binders,198.43,43.84,0.1,4,10.18,Shipped
+ORD-2024-10448,2024-11-29,Consumer,Europe,Furniture,Tables,1060.12,231.63,0.2,6,54.39,Delivered
+ORD-2024-10449,2024-10-27,Consumer,Europe,Technology,Printers,1347.16,-82.16,0.0,4,69.12,Delivered
+ORD-2024-10450,2024-09-13,Corporate,North America,Office Supplies,Paper,372.62,97.75,0.3,10,19.12,Cancelled
+ORD-2024-10451,2024-05-15,Corporate,North America,Furniture,Chairs,1261.31,-15.06,0.2,7,64.72,Processing
+ORD-2024-10452,2024-01-22,Corporate,Europe,Furniture,Chairs,250.04,78.81,0.0,1,12.83,Delivered
+ORD-2024-10453,2024-02-15,Corporate,North America,Office Supplies,Paper,122.64,3.96,0.0,3,6.29,Shipped
+ORD-2024-10454,2024-08-23,Home Office,Asia Pacific,Technology,Printers,1175.78,327.84,0.15,3,60.33,Delivered
+ORD-2024-10455,2024-12-07,Consumer,Europe,Furniture,Chairs,223.84,-3.78,0.1,1,11.49,Delivered
+ORD-2024-10456,2024-10-14,Corporate,Asia Pacific,Technology,Phones,2571.26,275.8,0.15,6,131.93,Delivered
+ORD-2024-10457,2024-05-18,Home Office,Europe,Furniture,Chairs,1841.68,-177.83,0.1,11,94.5,Delivered
+ORD-2024-10458,2024-12-09,Home Office,Europe,Technology,Phones,3551.95,639.56,0.05,9,182.25,Shipped
+ORD-2024-10459,2024-10-14,Home Office,Europe,Technology,Accessories,3667.68,983.08,0.0,8,188.19,Delivered
+ORD-2024-10460,2024-07-01,Consumer,North America,Technology,Phones,2736.63,572.57,0.05,11,140.41,Shipped
+ORD-2024-10461,2024-07-17,Consumer,North America,Furniture,Bookcases,1266.32,141.36,0.0,7,64.97,Delivered
+ORD-2024-10462,2024-08-08,Consumer,Asia Pacific,Office Supplies,Art,385.65,-49.15,0.1,10,19.79,Delivered
+ORD-2024-10463,2024-03-11,Corporate,Europe,Furniture,Tables,1399.74,443.33,0.15,8,71.82,Delivered
+ORD-2024-10464,2024-03-17,Consumer,Asia Pacific,Office Supplies,Appliances,267.62,54.26,0.05,6,13.73,Delivered
+ORD-2024-10465,2024-01-24,Consumer,Asia Pacific,Furniture,Tables,1980.72,441.57,0.3,9,101.63,Delivered
+ORD-2024-10466,2024-11-23,Home Office,Asia Pacific,Technology,Laptops,803.96,198.85,0.05,3,41.25,Delivered
+ORD-2024-10467,2024-09-30,Consumer,Latin America,Office Supplies,Art,476.46,106.67,0.1,10,24.45,Delivered
+ORD-2024-10468,2024-10-07,Home Office,Europe,Technology,Laptops,3832.28,270.4,0.1,10,196.63,Delivered
+ORD-2024-10469,2024-08-25,Consumer,North America,Office Supplies,Storage,423.59,,0.3,9,21.73,Delivered
+ORD-2024-10470,2024-03-09,Consumer,Europe,Technology,Laptops,1697.24,275.82,0.1,4,87.08,Delivered
+ORD-2024-10471,2024-11-22,Consumer,North America,Office Supplies,Binders,305.13,84.52,0.0,7,15.66,Processing
+ORD-2024-10472,2024-11-17,Corporate,Europe,Technology,Laptops,4288.65,1077.44,0.3,9,220.05,Processing
+ORD-2024-10473,2024-09-01,Consumer,Asia Pacific,Office Supplies,Appliances,93.35,-12.07,0.1,2,4.79,Delivered
+ORD-2024-10474,2024-08-13,Consumer,Europe,Furniture,Chairs,395.95,15.62,0.0,2,20.32,Delivered
+ORD-2024-10475,2024-02-09,Home Office,North America,Office Supplies,Storage,517.54,-68.65,0.1,9,26.55,Delivered
+ORD-2024-10476,2024-11-07,Consumer,North America,Technology,Phones,937.3,-92.76,0.2,3,48.09,Cancelled
+ORD-2024-10477,2024-07-11,Corporate,Europe,Furniture,Bookcases,1219.28,183.75,0.05,9,62.56,Delivered
+ORD-2024-10478,2024-09-11,Corporate,North America,Office Supplies,Paper,268.98,77.17,0.0,5,13.8,Delivered
+ORD-2024-10479,2024-08-18,Consumer,Asia Pacific,Furniture,Furnishings,1121.16,-101.0,0.15,6,57.53,Delivered
+ORD-2024-10480,2024-08-02,Corporate,North America,Furniture,Tables,477.92,36.1,0.15,2,24.52,Delivered
+ORD-2024-10481,2024-05-30,Consumer,North America,Office Supplies,Paper,499.64,152.61,0.05,8,25.64,Delivered
+ORD-2024-10482,2024-04-08,Corporate,North America,Furniture,Chairs,1939.17,498.66,0.0,11,99.5,Shipped
+ORD-2024-10483,2024-07-05,Consumer,Europe,Furniture,Bookcases,1605.11,176.3,0.0,9,82.36,Delivered
+ORD-2024-10484,2024-04-09,Corporate,Europe,Furniture,Chairs,354.81,83.66,0.1,2,18.21,Delivered
+ORD-2024-10485,2024-02-10,Consumer,North America,Office Supplies,Art,250.34,27.87,0.15,6,12.84,Delivered
+ORD-2024-10486,2024-09-10,Corporate,North America,Technology,Laptops,2619.08,-185.83,0.0,6,134.38,Delivered
+ORD-2024-10487,2024-07-16,Consumer,Europe,Technology,Accessories,3447.63,-302.12,0.0,8,176.9,Processing
+ORD-2024-10488,2024-02-06,Consumer,North America,Office Supplies,Appliances,465.77,-26.0,0.0,10,23.9,Delivered
+ORD-2024-10489,2024-07-03,Consumer,Europe,Office Supplies,Storage,164.53,4.19,0.1,5,8.44,Shipped
+ORD-2024-10490,2024-10-20,Consumer,Europe,Furniture,Furnishings,1485.04,468.18,0.0,9,76.2,Delivered
+ORD-2024-10491,2024-02-08,Home Office,North America,Furniture,Chairs,162.83,40.68,0.0,1,8.35,Delivered
+ORD-2024-10492,2024-12-05,Consumer,North America,Technology,Phones,3993.45,265.17,0.0,9,204.9,Cancelled
+ORD-2024-10493,2024-01-09,Home Office,Latin America,Technology,Phones,2664.56,257.23,0.1,10,136.72,Delivered
+ORD-2024-10494,2024-08-07,Home Office,Europe,Furniture,Chairs,1592.61,-27.39,0.05,7,81.72,Processing
+ORD-2024-10495,2024-04-11,Corporate,Europe,Furniture,Furnishings,841.27,170.09,0.0,4,43.17,Delivered
+ORD-2024-10496,2024-12-16,Consumer,North America,Furniture,Chairs,654.86,164.62,0.2,3,33.6,Processing
+ORD-2024-10497,2024-12-30,Consumer,Europe,Technology,Accessories,3508.92,-107.19,0.0,10,180.04,Delivered
+ORD-2024-10498,2024-10-14,Corporate,North America,Office Supplies,Art,582.02,,0.0,11,29.86,Delivered
+ORD-2024-10499,2024-11-14,Consumer,Europe,Office Supplies,Binders,304.11,49.25,0.2,6,15.6,Shipped
+ORD-2024-10500,2024-12-07,Consumer,Latin America,Office Supplies,Storage,55.72,7.31,0.05,1,2.86,Processing
+ORD-2024-10501,2024-04-18,Corporate,North America,Furniture,Bookcases,546.88,27.93,0.05,3,28.06,Processing
+ORD-2024-10502,2024-02-12,Home Office,North America,Technology,Printers,721.68,124.09,0.0,2,37.03,Shipped
+ORD-2024-10503,2024-12-30,Corporate,North America,Office Supplies,Binders,569.5,71.36,0.15,11,29.22,Processing
+ORD-2024-10504,2024-01-09,Consumer,North America,Office Supplies,Binders,314.14,,0.05,9,16.12,Delivered
+ORD-2024-10505,2024-10-10,Corporate,North America,Technology,Laptops,1055.64,51.58,0.15,3,54.16,Delivered
+ORD-2024-10506,2024-05-30,Consumer,North America,Office Supplies,Paper,124.23,7.96,0.0,2,6.37,Delivered
+ORD-2024-10507,2024-11-04,Consumer,Asia Pacific,Office Supplies,Storage,130.73,37.93,0.05,4,6.71,Delivered
+ORD-2024-10508,2024-07-18,Home Office,Europe,Office Supplies,Appliances,82.91,27.4,0.15,2,4.25,Delivered
+ORD-2024-10509,2024-09-08,Consumer,North America,Office Supplies,Binders,41.39,12.27,0.3,1,2.12,Delivered
+ORD-2024-10510,2024-04-16,Consumer,Latin America,Furniture,Furnishings,1234.9,258.82,0.0,6,63.36,Delivered
+ORD-2024-10511,2024-06-17,Consumer,North America,Furniture,Furnishings,1393.31,198.54,0.15,10,71.49,Delivered
+ORD-2024-10512,2024-03-31,Home Office,Latin America,Office Supplies,Binders,410.39,79.87,0.0,8,21.06,Delivered
+ORD-2024-10513,2024-01-20,Corporate,North America,Office Supplies,Art,344.94,110.23,0.05,10,17.7,Delivered
+ORD-2024-10514,2024-08-17,Corporate,Asia Pacific,Technology,Phones,2682.64,-67.07,0.0,10,137.64,Delivered
+ORD-2024-10515,2024-08-22,Corporate,Europe,Technology,Phones,846.81,99.55,0.1,2,43.45,Shipped
+ORD-2024-10516,2024-09-10,Consumer,Asia Pacific,Furniture,Tables,1501.57,292.51,0.0,9,77.04,Shipped
+ORD-2024-10517,2024-02-20,Consumer,Latin America,Office Supplies,Paper,186.87,35.43,0.0,3,9.59,Delivered
+ORD-2024-10518,2024-06-02,Consumer,North America,Office Supplies,Art,261.41,-6.24,0.0,8,13.41,Delivered
+ORD-2024-10519,2024-08-29,Consumer,Latin America,Technology,Phones,2832.41,406.07,0.0,8,145.33,Delivered
+ORD-2024-10520,2024-09-10,Consumer,North America,Furniture,Tables,420.77,104.33,0.2,3,21.59,Delivered
+ORD-2024-10521,2024-09-17,Home Office,North America,Furniture,Furnishings,510.82,44.72,0.3,3,26.21,Delivered
+ORD-2024-10522,2024-09-02,Consumer,North America,Office Supplies,Appliances,377.66,93.15,0.15,6,19.38,Delivered
+ORD-2024-10523,2024-12-22,Consumer,Europe,Office Supplies,Art,59.5,1.78,0.0,1,3.05,Delivered
+ORD-2024-10524,2024-08-19,Consumer,North America,Office Supplies,Art,132.09,42.19,0.05,4,6.78,Delivered
+ORD-2024-10525,2024-09-10,Consumer,Europe,Furniture,Bookcases,196.97,23.04,0.1,1,10.11,Cancelled
+ORD-2024-10526,2024-03-26,Home Office,Europe,Furniture,Bookcases,622.88,92.17,0.3,3,31.96,Cancelled
+ORD-2024-10527,2024-04-25,Consumer,Asia Pacific,Technology,Printers,2667.02,-358.23,0.05,9,136.84,Delivered
+ORD-2024-10528,2024-02-29,Consumer,Asia Pacific,Technology,Accessories,1402.75,-90.99,0.15,5,71.97,Delivered
+ORD-2024-10529,2024-11-04,Corporate,Europe,Office Supplies,Binders,299.94,49.93,0.3,5,15.39,Delivered
+ORD-2024-10530,2024-11-07,Consumer,  North America  ,Office Supplies,Art,682.19,40.89,0.2,11,35.0,Delivered
+ORD-2024-10531,2024-06-17,Consumer,North America,Office Supplies,Storage,250.98,,0.0,4,12.88,Processing
+ORD-2024-10532,2024-04-18,Consumer,North America,Office Supplies,Storage,169.13,-20.04,0.0,3,8.68,Delivered
+ORD-2024-10533,2024-11-12,Corporate,North America,Furniture,Chairs,1048.01,279.89,0.05,5,53.77,Shipped
+ORD-2024-10534,2024-07-13,Home Office,North America,Office Supplies,Appliances,466.3,112.96,0.05,11,23.93,Delivered
+ORD-2024-10535,2024-04-25,Corporate,North America,Office Supplies,Storage,147.6,-8.46,0.0,4,7.57,Cancelled
+ORD-2024-10536,2024-07-25,Consumer,Latin America,Office Supplies,Appliances,271.9,45.45,0.0,8,13.95,Delivered
+ORD-2024-10537,2024-06-02,Home Office,Europe,Technology,Printers,1659.43,430.05,0.15,4,85.14,Shipped
+ORD-2024-10538,2024-09-30,Consumer,North America,Furniture,Bookcases,2473.63,421.57,0.05,11,126.92,Delivered
+ORD-2024-10539,2024-01-23,Consumer,Europe,Technology,Phones,3579.85,18.61,0.0,8,183.68,Delivered
+ORD-2024-10540,2024-03-11,Consumer,North America,Office Supplies,Art,361.7,64.4,0.1,6,18.56,Delivered
+ORD-2024-10541,2024-10-19,Consumer,Europe,Furniture,Bookcases,2605.58,-116.65,0.1,11,133.69,Delivered
+ORD-2024-10542,2024-04-01,Corporate,Europe,Technology,Accessories,2449.68,22.36,0.15,5,125.69,Processing
+ORD-2024-10543,2024-08-08,Corporate,Europe,Office Supplies,Art,156.75,-4.7,0.0,4,8.04,Processing
+ORD-2024-10544,2024-03-06,Home Office,Europe,Furniture,Chairs,888.71,114.17,0.1,4,45.6,Processing
+ORD-2024-10545,2024-12-25,Corporate,Latin America,Furniture,Chairs,799.58,-76.67,0.05,4,41.03,Delivered
+ORD-2024-10546,2024-01-21,Corporate,Asia Pacific,Technology,Laptops,3399.06,1076.33,0.0,11,174.4,Shipped
+ORD-2024-10547,2024-04-29,Consumer,Europe,Office Supplies,Storage,561.87,9.41,0.15,9,28.83,Delivered
+ORD-2024-10548,2024-12-03,Consumer,Europe,Furniture,Tables,956.54,-38.75,0.0,4,49.08,Delivered
+ORD-2024-10549,2024-03-21,Corporate,Europe,Office Supplies,Appliances,319.93,31.44,0.0,9,16.42,Delivered
+ORD-2024-10550,2024-11-28,Consumer,North America,Furniture,Furnishings,1292.96,-14.87,0.05,10,66.34,Delivered
+ORD-2024-10551,2024-07-04,Home Office,North America,Office Supplies,Appliances,319.09,37.48,0.0,6,16.37,Delivered
+ORD-2024-10552,2024-11-02,Consumer,North America,Furniture,Furnishings,2021.2,49.02,0.0,10,103.71,Delivered
+ORD-2024-10553,2024-10-19,,Europe,Furniture,Tables,1707.39,-143.36,0.15,7,87.61,Delivered
+ORD-2024-10554,2024-08-09,Consumer,Europe,Office Supplies,Storage,388.71,-6.63,0.0,10,19.94,Shipped
+ORD-2024-10555,2024-07-23,Consumer,North America,Furniture,Chairs,409.9,28.37,0.3,3,21.03,Delivered
+ORD-2024-10556,2024-05-08,Consumer,Latin America,Technology,Accessories,2468.06,-332.83,0.05,8,126.63,Delivered
+ORD-2024-10557,2024-12-30,Corporate,Latin America,Technology,Printers,748.91,176.23,0.0,3,38.43,Delivered
+ORD-2024-10558,2024-02-04,Consumer,Asia Pacific,Office Supplies,Storage,32.63,5.25,0.0,1,1.67,Delivered
+ORD-2024-10559,2024-03-07,Corporate,Europe,Furniture,Furnishings,2412.72,363.55,0.05,10,123.8,Delivered
+ORD-2024-10560,2024-01-10,Consumer,Asia Pacific,Office Supplies,Binders,212.94,26.2,0.1,5,10.93,Delivered
+ORD-2024-10561,2024-12-16,Consumer,North America,Technology,Printers,691.3,100.35,0.0,2,35.47,Delivered
+ORD-2024-10562,2024-07-06,Consumer,Asia Pacific,Technology,Laptops,2495.01,791.73,0.0,10,128.02,Delivered
+ORD-2024-10563,2024-06-12,Home Office,North America,Technology,Laptops,1867.67,-272.15,0.15,6,95.83,Delivered
+ORD-2024-10564,2024-08-12,Consumer,Asia Pacific,Furniture,Tables,2273.95,-286.75,0.0,10,116.67,Shipped
+ORD-2024-10565,2024-11-08,Corporate,North America,Furniture,Chairs,1831.97,-99.39,0.2,9,94.0,Delivered
+ORD-2024-10566,2024-09-21,Consumer,Asia Pacific,Furniture,Chairs,220.98,-14.66,0.1,1,11.34,Delivered
+ORD-2024-10567,2024-01-31,Corporate,Latin America,Furniture,Furnishings,729.4,-43.33,0.05,4,37.43,Shipped
+ORD-2024-10568,2024-11-25,Consumer,North America,Office Supplies,Binders,41.26,7.67,0.0,1,2.12,Delivered
+ORD-2024-10569,2024-07-29,Corporate,Europe,Technology,Phones,363.29,28.97,0.0,1,18.64,Delivered
+ORD-2024-10570,2024-10-13,Corporate,Latin America,Furniture,Tables,1333.66,461.3,0.15,8,68.43,Processing
+ORD-2024-10571,2024-04-13,Home Office,Europe,Office Supplies,Storage,637.2,-23.29,0.0,11,32.69,Delivered
+ORD-2024-10572,2024-09-18,Consumer,Asia Pacific,Furniture,Bookcases,327.01,1.77,0.0,2,16.78,Delivered
+ORD-2024-10573,2024-11-13,Consumer,Europe,Furniture,Bookcases,209.13,71.55,0.05,1,10.73,Delivered
+ORD-2024-10574,2024-01-12,Consumer,North America,Office Supplies,Art,393.96,104.75,0.0,11,20.21,Delivered
+ORD-2024-10575,2024-07-19,Home Office,North America,Office Supplies,Binders,425.09,36.09,0.05,8,21.81,Delivered
+ORD-2024-10576,2024-10-09,,North America,Technology,Accessories,1875.03,238.69,0.15,4,96.21,Delivered
+ORD-2024-10577,2024-11-15,Corporate,Asia Pacific,Office Supplies,Appliances,152.01,41.28,0.05,3,7.8,Delivered
+ORD-2024-10578,2024-05-17,Consumer,North America,Furniture,Bookcases,786.17,71.14,0.2,4,40.34,Delivered
+ORD-2024-10579,2024-08-12,Consumer,Europe,Technology,Accessories,5285.21,-248.34,0.15,11,271.18,Delivered
+ORD-2024-10580,2024-09-06,Consumer,Europe,Furniture,Bookcases,1025.26,270.9,0.0,5,52.61,Delivered
+ORD-2024-10581,2024-08-23,Home Office,Europe,Office Supplies,Paper,39.68,4.72,0.0,1,2.04,Delivered
+ORD-2024-10582,2024-01-04,Corporate,Asia Pacific,Furniture,Tables,1791.25,-131.62,0.05,11,91.91,Delivered
+ORD-2024-10583,2024-10-05,Home Office,Latin America,Technology,Phones,417.8,42.95,0.1,1,21.44,Delivered
+ORD-2024-10584,2024-10-07,Consumer,Europe,Furniture,Tables,656.0,37.13,0.0,3,33.66,Processing
+ORD-2024-10585,2024-09-07,,Asia Pacific,Technology,Printers,1916.14,552.66,0.3,6,98.32,Delivered
+ORD-2024-10586,2024-04-22,Corporate,Asia Pacific,Technology,Printers,329.61,-28.67,0.1,1,16.91,Delivered
+ORD-2024-10587,2024-04-10,Consumer,Europe,Technology,Printers,5365.9,1543.26,0.0,11,275.32,Delivered
+ORD-2024-10588,2024-03-20,,Latin America,Technology,Printers,539.96,57.29,0.1,2,27.71,Delivered
+ORD-2024-10589,2024-07-30,Home Office,North America,Technology,Laptops,2408.97,125.71,0.0,7,123.6,Processing
+ORD-2024-10590,2024-07-27,Home Office,North America,Technology,Accessories,260.3,-17.96,0.15,1,13.36,Delivered
+ORD-2024-10591,2024-10-15,Corporate,Asia Pacific,Furniture,Tables,1606.19,321.89,0.05,7,82.41,Cancelled
+ORD-2024-10592,2024-04-27,Consumer,Europe,Technology,Phones,1070.5,335.5,0.0,4,54.93,Delivered
+ORD-2024-10593,2024-09-06,Consumer,Asia Pacific,Technology,Printers,4101.32,154.57,0.0,10,210.44,Shipped
+ORD-2024-10594,2024-05-22,Home Office,Asia Pacific,Office Supplies,Appliances,199.68,-5.83,0.2,6,10.25,Delivered
+ORD-2024-10595,2024-01-21,Consumer,North America,Furniture,Tables,1686.24,214.88,0.05,8,86.52,Processing
+ORD-2024-10596,2024-12-09,Corporate,Asia Pacific,Office Supplies,Storage,522.5,129.63,0.3,9,26.81,Delivered
+ORD-2024-10597,2024-12-26,Corporate,Europe,Technology,Phones,2056.27,-304.57,0.0,6,105.51,Delivered
+ORD-2024-10598,2024-03-01,Corporate,Europe,Technology,Accessories,4102.13,679.68,0.0,11,210.48,Delivered
+ORD-2024-10599,2024-03-06,Home Office,Europe,Technology,Laptops,3090.4,458.18,0.0,9,158.57,Delivered
+ORD-2024-10600,2024-03-05,Consumer,Latin America,Technology,Laptops,1274.48,11.57,0.05,4,65.39,Processing
+ORD-2024-10601,2024-06-03,Consumer,North America,Technology,Phones,2650.8,200.7,0.0,6,136.01,Delivered
+ORD-2024-10602,2024-01-05,Consumer,Europe,Technology,Laptops,2493.13,-66.11,0.0,8,127.92,Delivered
+ORD-2024-10603,2024-09-25,Consumer,Europe,Technology,Printers,3799.09,930.56,0.1,9,194.93,Shipped
+ORD-2024-10604,2024-04-10,Consumer,Asia Pacific,Technology,Phones,886.55,148.29,0.05,3,45.49,Delivered
+ORD-2024-10605,2024-08-05,Consumer,Europe,Furniture,Tables,314.96,36.65,0.0,2,16.16,Cancelled
+ORD-2024-10606,2024-06-16,Home Office,North America,Technology,Phones,1964.6,90.89,0.05,6,100.8,Shipped
+ORD-2024-10607,2024-10-13,Home Office,North America,Furniture,Bookcases,800.93,-3.45,0.1,4,41.1,Delivered
+ORD-2024-10608,2024-03-18,Consumer,North America,Furniture,Tables,183.26,47.9,0.0,1,9.4,Processing
+ORD-2024-10609,2024-10-28,Consumer,Asia Pacific,Office Supplies,Binders,439.78,33.29,0.0,8,22.56,Delivered
+ORD-2024-10610,2024-08-09,Home Office,North America,Technology,Phones,2675.92,269.53,0.0,9,137.3,Delivered
+ORD-2024-10611,2024-09-24,Consumer,North America,Office Supplies,Appliances,286.53,31.64,0.1,9,14.7,Delivered
+ORD-2024-10612,2024-09-04,Consumer,Latin America,Furniture,Tables,447.69,33.21,0.15,2,22.97,Delivered
+ORD-2024-10613,2024-12-29,Consumer,North America,Technology,Printers,4016.74,-88.19,0.0,9,206.1,Shipped
+ORD-2024-10614,2024-07-16,Corporate,Latin America,Office Supplies,Paper,233.62,-20.99,0.0,7,11.99,Processing
+ORD-2024-10615,2024-10-31,Consumer,Europe,Office Supplies,Binders,253.72,-25.56,0.2,5,13.02,Delivered
+ORD-2024-10616,2024-05-23,Home Office,Asia Pacific,Technology,Accessories,2363.62,540.63,0.3,7,121.28,Delivered
+ORD-2024-10617,2024-07-28,Consumer,North America,Technology,Phones,3955.54,-151.24,0.1,9,202.96,Cancelled
+ORD-2024-10618,2024-07-31,Corporate,North America,Office Supplies,Art,472.35,-57.7,0.3,8,24.24,Delivered
+ORD-2024-10619,2024-06-03,Consumer,Asia Pacific,Office Supplies,Binders,349.84,87.03,0.1,6,17.95,Delivered
+ORD-2024-10620,2024-10-28,Consumer,Asia Pacific,Technology,Printers,1741.66,-127.09,0.1,4,89.36,Delivered
+ORD-2024-10621,2024-11-03,Corporate,Asia Pacific,Technology,Accessories,310.92,50.55,0.0,1,15.95,Processing
+ORD-2024-10622,2024-09-01,Corporate,North America,Furniture,Furnishings,1369.79,26.47,0.05,6,70.28,Delivered
+ORD-2024-10623,2024-09-09,Corporate,Asia Pacific,Furniture,Furnishings,579.65,-50.29,0.0,3,29.74,Shipped
+ORD-2024-10624,2024-03-05,Corporate,Asia Pacific,Furniture,Bookcases,795.88,45.56,0.15,6,40.84,Shipped
+ORD-2024-10625,2024-02-21,Home Office,Europe,Furniture,Tables,1101.45,-157.06,0.2,6,56.51,Delivered
+ORD-2024-10626,2024-10-24,Home Office,Asia Pacific,Furniture,Chairs,978.85,264.8,0.1,4,50.22,Delivered
+ORD-2024-10627,2024-02-14,Corporate,Asia Pacific,Office Supplies,Binders,118.94,12.7,0.0,2,6.1,Shipped
+ORD-2024-10628,2024-06-05,Consumer,Europe,Technology,Accessories,2430.49,-195.46,0.0,9,124.71,Delivered
+ORD-2024-10629,2024-12-04,Consumer,North America,Technology,Printers,854.62,-26.93,0.0,2,43.85,Shipped
+ORD-2024-10630,2024-05-17,Consumer,Europe,Office Supplies,Binders,170.65,12.63,0.0,3,8.76,Processing
+ORD-2024-10631,2024-01-18,Corporate,North America,Office Supplies,Paper,400.49,-22.25,0.1,10,20.55,Delivered
+ORD-2024-10632,2024-06-09,Consumer,Europe,Furniture,Bookcases,185.42,-2.91,0.2,1,9.51,Shipped
+ORD-2024-10633,2024-11-07,Consumer,Europe,Furniture,Tables,1509.09,176.85,0.0,7,77.43,Shipped
+ORD-2024-10634,2024-05-23,Home Office,North America,Technology,Phones,352.57,93.89,0.0,1,18.09,Shipped
+ORD-2024-10635,2024-08-18,Home Office,North America,Furniture,Bookcases,1542.34,78.54,0.1,11,79.14,Delivered
+ORD-2024-10636,2024-08-25,Home Office,North America,Furniture,Chairs,1934.47,403.31,0.0,9,99.26,Delivered
+ORD-2024-10637,2024-12-01,,Asia Pacific,Technology,Accessories,5151.87,1485.5,0.2,11,264.34,Delivered
+ORD-2024-10638,2024-05-11,Corporate,Latin America,Technology,Printers,4453.45,-186.37,0.0,11,228.5,Delivered
+ORD-2024-10639,2024-12-23,Consumer,North America,Furniture,Tables,223.5,56.68,0.0,1,11.47,Delivered
+ORD-2024-10640,2024-05-01,Consumer,  Latin America  ,Technology,Phones,1663.99,380.56,0.0,5,85.38,Shipped
+ORD-2024-10641,2024-01-18,Consumer,Europe,Technology,Accessories,2029.18,57.77,0.0,7,104.12,Delivered
+ORD-2024-10642,2024-11-01,Consumer,North America,Technology,Phones,1207.44,416.28,0.05,3,61.95,Delivered
+ORD-2024-10643,2024-02-26,Consumer,North America,Technology,Phones,2927.74,-54.79,0.0,9,150.22,Delivered
+ORD-2024-10644,2024-04-30,Home Office,Europe,Technology,Laptops,3645.74,-82.39,0.05,8,187.06,Shipped
+ORD-2024-10645,2024-07-02,Consumer,Asia Pacific,Office Supplies,Appliances,106.09,25.05,0.05,3,5.44,Delivered
+ORD-2024-10646,2024-08-27,Corporate,Asia Pacific,Furniture,Bookcases,903.08,60.8,0.0,5,46.34,Delivered
+ORD-2024-10647,2024-02-17,Corporate,North America,Office Supplies,Storage,307.98,4.74,0.0,7,15.8,Delivered
+ORD-2024-10648,2024-06-27,Consumer,North America,Office Supplies,Art,244.19,-14.81,0.05,4,12.53,Shipped
+ORD-2024-10649,2024-05-21,Consumer,Europe,Furniture,Bookcases,726.47,169.03,0.1,5,37.27,Delivered
+ORD-2024-10650,2024-05-15,Consumer,North America,Technology,Printers,742.24,180.48,0.2,3,38.08,Delivered
+ORD-2024-10651,2024-08-31,Corporate,North America,Furniture,Bookcases,1403.99,187.13,0.0,9,72.04,Cancelled
+ORD-2024-10652,2024-11-29,Consumer,North America,Furniture,Tables,2293.55,753.79,0.0,10,117.68,Shipped
+ORD-2024-10653,2024-10-09,Consumer,Asia Pacific,Office Supplies,Paper,342.84,3.11,0.0,9,17.59,Cancelled
+ORD-2024-10654,2024-01-05,Consumer,Latin America,Furniture,Tables,1094.45,-43.99,0.05,7,56.16,Delivered
+ORD-2024-10655,2024-08-10,Corporate,Europe,Technology,Phones,2768.25,522.46,0.1,10,142.04,Delivered
+ORD-2024-10656,2024-04-08,Home Office,Latin America,Technology,Phones,840.56,192.66,0.15,2,43.13,Processing
+ORD-2024-10657,2024-10-29,Consumer,North America,Furniture,Chairs,943.01,-35.41,0.1,7,48.39,Delivered
+ORD-2024-10658,2024-07-05,Corporate,Europe,Furniture,Tables,1174.13,-131.14,0.0,7,60.24,Shipped
+ORD-2024-10659,2024-06-14,Corporate,North America,Furniture,Chairs,1777.54,453.73,0.05,11,91.2,Delivered
+ORD-2024-10660,2024-06-30,Home Office,Europe,Furniture,Tables,979.75,331.4,0.2,5,50.27,Delivered
+ORD-2024-10661,2024-10-07,Home Office,Latin America,Office Supplies,Storage,490.57,84.54,0.0,9,25.17,Delivered
+ORD-2024-10662,2024-09-13,Corporate,Europe,Furniture,Bookcases,2124.57,-23.51,0.05,11,109.01,Delivered
+ORD-2024-10663,2024-04-14,Corporate,North America,Technology,Phones,1419.3,494.39,0.3,3,72.82,Delivered
+ORD-2024-10664,2024-09-18,Home Office,Europe,Technology,Laptops,1912.41,567.28,0.1,4,98.12,Delivered
+ORD-2024-10665,2024-05-15,Consumer,North America,Technology,Accessories,333.56,35.59,0.1,1,17.11,Cancelled
+ORD-2024-10666,2024-03-08,Consumer,Asia Pacific,Technology,Laptops,2613.19,686.38,0.0,6,134.08,Delivered
+ORD-2024-10667,2024-06-28,Consumer,Europe,Technology,Laptops,1704.03,439.49,0.05,4,87.43,Delivered
+ORD-2024-10668,2024-11-09,Home Office,Europe,Technology,Phones,463.78,147.2,0.0,1,23.8,Shipped
+ORD-2024-10669,2024-11-05,Home Office,Europe,Technology,Accessories,709.49,191.89,0.1,2,36.4,Delivered
+ORD-2024-10670,2024-01-05,Consumer,Europe,Technology,Phones,1124.9,193.3,0.0,3,57.72,Delivered
+ORD-2024-10671,2024-06-08,Corporate,North America,Office Supplies,Paper,401.37,62.07,0.15,9,20.59,Shipped
+ORD-2024-10672,2024-09-01,Consumer,Europe,Technology,Accessories,3626.74,303.48,0.15,8,186.09,Delivered
+ORD-2024-10673,2024-01-07,Consumer,North America,Furniture,Bookcases,1084.6,177.05,0.05,7,55.65,Shipped
+ORD-2024-10674,2024-03-10,Home Office,Asia Pacific,Furniture,Furnishings,1718.24,425.45,0.0,11,88.16,Shipped
+ORD-2024-10675,2024-11-02,Consumer,Asia Pacific,Office Supplies,Art,172.95,57.86,0.0,4,8.87,Cancelled
+ORD-2024-10676,2024-09-02,Consumer,Asia Pacific,Technology,Laptops,301.43,25.21,0.15,1,15.47,Delivered
+ORD-2024-10677,2024-12-18,Corporate,Europe,Furniture,Bookcases,1573.49,215.3,0.1,8,80.73,Delivered
+ORD-2024-10678,2024-05-02,Corporate,Europe,Office Supplies,Art,142.95,10.35,0.1,4,7.33,Delivered
+ORD-2024-10679,2024-11-27,Consumer,North America,Office Supplies,Binders,124.76,22.99,0.0,3,6.4,Delivered
+ORD-2024-10680,2024-05-12,Corporate,Asia Pacific,Office Supplies,Binders,542.46,89.48,0.05,9,27.83,Processing
+ORD-2024-10681,2024-09-09,Corporate,North America,Technology,Printers,3452.6,-487.1,0.1,10,177.15,Delivered
+ORD-2024-10682,2024-10-11,Consumer,Europe,Technology,Accessories,1713.27,206.59,0.05,4,87.91,Delivered
+ORD-2024-10683,2024-03-19,Consumer,North America,Office Supplies,Appliances,140.3,-14.84,0.1,4,7.2,Shipped
+ORD-2024-10684,2024-02-01,Corporate,North America,Office Supplies,Art,353.68,-48.39,0.15,9,18.15,Delivered
+ORD-2024-10685,2024-10-28,Consumer,Europe,Furniture,Furnishings,2504.98,615.22,0.0,11,128.53,Delivered
+ORD-2024-10686,2024-08-21,Home Office,North America,Furniture,Chairs,444.27,-9.19,0.0,2,22.8,Delivered
+ORD-2024-10687,2024-12-08,Home Office,Asia Pacific,Technology,Phones,1698.04,34.52,0.05,5,87.13,Processing
+ORD-2024-10688,2024-09-04,Home Office,North America,Office Supplies,Art,246.25,-29.05,0.0,4,12.63,Delivered
+ORD-2024-10689,2024-03-09,Consumer,North America,Technology,Accessories,4212.97,-253.83,0.15,9,216.16,Processing
+ORD-2024-10690,2024-10-13,Home Office,Europe,Technology,Phones,2403.82,559.62,0.1,5,123.34,Delivered
+ORD-2024-10691,2024-05-20,Consumer,North America,Furniture,Furnishings,1619.26,156.69,0.2,9,83.08,Shipped
+ORD-2024-10692,2024-03-12,Consumer,North America,Furniture,Chairs,1659.7,481.87,0.1,11,85.16,Shipped
+ORD-2024-10693,2024-11-15,Consumer,Asia Pacific,Technology,Accessories,3586.78,174.39,0.0,9,184.04,Delivered
+ORD-2024-10694,2024-12-14,Consumer,North America,Technology,Laptops,825.54,-12.92,0.0,2,42.36,Delivered
+ORD-2024-10695,2024-06-02,Corporate,Asia Pacific,Furniture,Chairs,1276.25,30.37,0.15,9,65.48,Delivered
+ORD-2024-10696,2024-09-04,Consumer,North America,Technology,Accessories,1313.07,271.0,0.0,3,67.37,Shipped
+ORD-2024-10697,2024-08-21,Consumer,North America,Furniture,Furnishings,513.1,65.42,0.1,4,26.33,Delivered
+ORD-2024-10698,2024-07-11,Corporate,Asia Pacific,Technology,Phones,363.27,109.74,0.15,1,18.64,Delivered
+ORD-2024-10699,2024-10-28,Consumer,North America,Furniture,Chairs,167.71,25.34,0.0,1,8.61,Delivered
+ORD-2024-10700,2024-07-06,Corporate,North America,Furniture,Furnishings,219.28,21.16,0.0,1,11.25,Delivered
+ORD-2024-10701,2024-03-23,Consumer,North America,Technology,Laptops,2894.64,703.04,0.05,9,148.52,Delivered
+ORD-2024-10702,2024-03-11,Home Office,North America,Technology,Printers,4923.25,1593.99,0.2,11,252.61,Delivered
+ORD-2024-10703,2024-08-21,Home Office,Asia Pacific,Technology,Phones,3126.11,87.29,0.0,8,160.4,Delivered
+ORD-2024-10704,2024-05-30,Consumer,North America,Technology,Printers,2197.52,-55.07,0.2,5,112.75,Processing
+ORD-2024-10705,2024-11-14,Consumer,Asia Pacific,Office Supplies,Storage,313.32,49.54,0.05,5,16.08,Delivered
+ORD-2024-10706,2024-12-10,Consumer,Asia Pacific,Technology,Printers,3702.54,368.17,0.3,9,189.98,Delivered
+ORD-2024-10707,2024-06-01,Home Office,Europe,Office Supplies,Appliances,187.58,64.64,0.0,3,9.62,Cancelled
+ORD-2024-10708,2024-01-08,Consumer,Latin America,Technology,Printers,756.19,61.39,0.0,3,38.8,Shipped
+ORD-2024-10709,2024-03-28,Consumer,North America,Office Supplies,Binders,295.06,-33.29,0.15,7,15.14,Processing
+ORD-2024-10710,2024-04-12,Consumer,Latin America,Office Supplies,Storage,314.08,106.37,0.2,9,16.12,Delivered
+ORD-2024-10711,2024-11-18,Consumer,North America,Furniture,Tables,954.3,259.37,0.05,6,48.96,Delivered
+ORD-2024-10712,2024-02-11,Consumer,Europe,Furniture,Furnishings,463.4,-28.21,0.1,2,23.78,Delivered
+ORD-2024-10713,2024-06-03,Home Office,Europe,Furniture,Chairs,130.07,39.32,0.2,1,6.67,Shipped
+ORD-2024-10714,2024-03-09,Consumer,North America,Technology,Laptops,744.89,15.15,0.0,2,38.22,Delivered
+ORD-2024-10715,2024-04-07,Consumer,Europe,Office Supplies,Storage,49.36,1.9,0.05,1,2.53,Delivered
+ORD-2024-10716,2024-10-05,Home Office,Asia Pacific,Office Supplies,Binders,491.76,149.1,0.2,10,25.23,Delivered
+ORD-2024-10717,2024-01-26,Home Office,North America,Office Supplies,Art,464.72,53.47,0.0,10,23.84,Delivered
+ORD-2024-10718,2024-10-08,Consumer,North America,Technology,Laptops,3948.28,-320.28,0.0,9,202.58,Delivered
+ORD-2024-10719,2024-01-16,Consumer,Asia Pacific,Office Supplies,Paper,357.07,12.33,0.15,10,18.32,Delivered
+ORD-2024-10720,2024-09-18,Consumer,Europe,Office Supplies,Storage,330.27,69.7,0.0,8,16.95,Delivered
+ORD-2024-10721,2024-09-20,Home Office,Latin America,Technology,Laptops,2770.97,-174.32,0.0,7,142.18,Delivered
+ORD-2024-10722,2024-05-11,Consumer,Asia Pacific,Technology,Accessories,1242.85,180.36,0.3,3,63.77,Cancelled
+ORD-2024-10723,2024-10-30,Home Office,Latin America,Office Supplies,Art,353.85,69.93,0.05,8,18.16,Shipped
+ORD-2024-10724,2024-01-31,Corporate,Asia Pacific,Furniture,Furnishings,472.59,10.36,0.15,2,24.25,Processing
+ORD-2024-10725,2024-10-28,Corporate,North America,Office Supplies,Art,89.18,17.56,0.15,2,4.58,Shipped
+ORD-2024-10726,2024-07-01,Consumer,North America,Technology,Laptops,3780.48,1104.29,0.0,11,193.97,Delivered
+ORD-2024-10727,2024-05-02,Consumer,Asia Pacific,Office Supplies,Art,326.41,,0.0,10,16.75,Delivered
+ORD-2024-10728,2024-04-30,Consumer,Europe,Technology,Phones,1140.09,47.26,0.0,3,58.5,Delivered
+ORD-2024-10729,2024-05-06,Consumer,North America,Technology,Phones,2930.39,-71.56,0.0,7,150.36,Delivered
+ORD-2024-10730,2024-10-12,Corporate,North America,Technology,Phones,273.04,41.53,0.1,1,14.01,Delivered
+ORD-2024-10731,2024-07-24,Home Office,Latin America,Office Supplies,Paper,328.97,95.38,0.1,8,16.88,Delivered
+ORD-2024-10732,2024-05-20,Corporate,Europe,Office Supplies,Binders,392.77,4.84,0.05,7,20.15,Delivered
+ORD-2024-10733,2024-06-13,Corporate,Europe,Furniture,Tables,688.42,33.13,0.0,4,35.32,Delivered
+ORD-2024-10734,2024-12-16,Consumer,Europe,Furniture,Tables,782.21,41.7,0.0,5,40.13,Delivered
+ORD-2024-10735,2024-01-26,Consumer,North America,Office Supplies,Paper,526.74,68.69,0.05,10,27.03,Delivered
+ORD-2024-10736,2024-03-23,Consumer,North America,Furniture,Bookcases,150.79,-5.4,0.05,1,7.74,Shipped
+ORD-2024-10737,2024-03-14,Corporate,North America,Office Supplies,Art,238.85,62.37,0.0,4,12.26,Delivered
+ORD-2024-10738,2024-04-27,Home Office,North America,Furniture,Chairs,139.31,-0.31,0.1,1,7.15,Delivered
+ORD-2024-10739,2024-03-05,Corporate,Asia Pacific,Furniture,Furnishings,215.03,43.58,0.0,1,11.03,Delivered
+ORD-2024-10740,2024-09-05,Consumer,Europe,Furniture,Furnishings,1889.43,201.43,0.0,10,96.95,Delivered
+ORD-2024-10741,2024-12-27,Consumer,Asia Pacific,Technology,Printers,458.13,65.49,0.1,1,23.51,Delivered
+ORD-2024-10742,2024-01-18,Corporate,Asia Pacific,Office Supplies,Art,248.33,-14.95,0.0,7,12.74,Delivered
+ORD-2024-10743,2024-09-25,Consumer,North America,Furniture,Bookcases,1479.9,321.9,0.05,7,75.93,Delivered
+ORD-2024-10744,2024-09-13,Home Office,Europe,Technology,Printers,1540.61,-85.8,0.0,4,79.05,Delivered
+ORD-2024-10745,2024-10-07,Home Office,Europe,Office Supplies,Appliances,93.25,-8.7,0.0,2,4.78,Processing
+ORD-2024-10746,2024-02-07,Corporate,Asia Pacific,Furniture,Bookcases,563.75,69.53,0.0,3,28.93,Processing
+ORD-2024-10747,2024-12-19,Consumer,North America,Furniture,Furnishings,1735.75,355.22,0.2,8,89.06,Delivered
+ORD-2024-10748,2024-05-13,Consumer,Europe,Office Supplies,Storage,488.31,-61.03,0.05,8,25.05,Delivered
+ORD-2024-10749,2024-11-06,Consumer,Europe,Furniture,Furnishings,1512.47,-174.39,0.3,11,77.6,Shipped
+ORD-2024-10750,2024-06-19,Consumer,North America,Technology,Laptops,2747.56,690.57,0.05,11,140.98,Delivered
+ORD-2024-10751,2024-02-05,Consumer,North America,Office Supplies,Appliances,341.28,86.86,0.05,6,17.51,Delivered
+ORD-2024-10752,2024-10-02,Corporate,Europe,Furniture,Furnishings,1396.29,-38.19,0.0,10,71.64,Delivered
+ORD-2024-10753,2024-04-29,Corporate,Asia Pacific,Technology,Printers,4380.67,690.46,0.0,9,224.77,Processing
+ORD-2024-10754,2024-09-23,Consumer,North America,Technology,Printers,4364.14,312.43,0.0,11,223.92,Delivered
+ORD-2024-10755,2024-10-11,Consumer,Europe,Office Supplies,Art,468.02,77.85,0.0,9,24.01,Delivered
+ORD-2024-10756,2024-12-01,Consumer,North America,Furniture,Chairs,604.24,170.06,0.05,4,31.0,Shipped
+ORD-2024-10757,2024-10-16,Consumer,Asia Pacific,Furniture,Chairs,156.28,-17.2,0.0,1,8.02,Delivered
+ORD-2024-10758,2024-01-23,Home Office,North America,Office Supplies,Appliances,52.27,12.49,0.0,1,2.68,Delivered
+ORD-2024-10759,2024-03-30,Consumer,Asia Pacific,Office Supplies,Art,601.56,58.06,0.0,10,30.87,Cancelled
+ORD-2024-10760,2024-01-07,Consumer,North America,Technology,Laptops,2428.43,320.71,0.05,5,124.6,Delivered
+ORD-2024-10761,2024-12-29,Consumer,North America,Technology,Laptops,587.04,103.89,0.1,2,30.12,Delivered
+ORD-2024-10762,2024-11-11,Home Office,North America,Technology,Laptops,1667.16,519.01,0.2,6,85.54,Delivered
+ORD-2024-10763,2024-06-19,Corporate,North America,Office Supplies,Paper,232.94,-28.33,0.0,7,11.95,Delivered
+ORD-2024-10764,2024-12-03,Consumer,Europe,Technology,Phones,457.73,-61.91,0.0,1,23.49,Delivered
+ORD-2024-10765,2024-12-22,Corporate,North America,Furniture,Furnishings,978.8,-59.58,0.0,6,50.22,Delivered
+ORD-2024-10766,2024-04-22,Corporate,Asia Pacific,Office Supplies,Art,252.46,86.65,0.2,8,12.95,Delivered
+ORD-2024-10767,2024-09-05,Home Office,North America,Office Supplies,Art,192.75,40.0,0.0,5,9.89,Shipped
+ORD-2024-10768,2024-12-23,Consumer,North America,Technology,Laptops,2298.86,361.66,0.1,7,117.95,Delivered
+ORD-2024-10769,2024-12-20,Home Office,North America,Office Supplies,Appliances,627.16,-79.32,0.05,10,32.18,Delivered
+ORD-2024-10770,2024-11-28,Home Office,North America,Technology,Laptops,2239.61,648.49,0.0,6,114.91,Delivered
+ORD-2024-10771,2024-09-14,Home Office,North America,Office Supplies,Art,151.79,38.92,0.0,4,7.79,Shipped
+ORD-2024-10772,2024-06-07,Corporate,Europe,Technology,Phones,2289.21,417.55,0.0,7,117.46,Delivered
+ORD-2024-10773,2024-04-22,Corporate,Europe,Furniture,Bookcases,1676.19,32.8,0.2,10,86.0,Delivered
+ORD-2024-10774,2024-01-31,Consumer,Europe,Office Supplies,Binders,289.09,-33.17,0.05,9,14.83,Delivered
+ORD-2024-10775,2024-07-19,Corporate,Europe,Technology,Phones,2781.2,389.42,0.05,10,142.7,Delivered
+ORD-2024-10776,2024-10-21,Corporate,Europe,Technology,Laptops,4153.23,871.54,0.05,10,213.1,Delivered
+ORD-2024-10777,2024-03-14,Corporate,North America,Office Supplies,Paper,247.02,-25.41,0.1,7,12.67,Shipped
+ORD-2024-10778,2024-08-16,Consumer,Europe,Office Supplies,Appliances,193.84,32.35,0.05,5,9.95,Delivered
+ORD-2024-10779,2024-06-04,Corporate,Latin America,Furniture,Tables,1191.35,-8.12,0.0,7,61.13,Delivered
+ORD-2024-10780,2024-09-15,Home Office,Europe,Office Supplies,Storage,166.11,38.56,0.0,3,8.52,Delivered
+ORD-2024-10781,2024-06-17,Consumer,Europe,Furniture,Chairs,398.77,47.78,0.0,2,20.46,Shipped
+ORD-2024-10782,2024-12-06,Home Office,North America,Technology,Phones,4551.85,-389.1,0.1,11,233.55,Delivered
+ORD-2024-10783,2024-03-09,Corporate,Asia Pacific,Technology,Phones,1919.59,217.41,0.0,5,98.49,Delivered
+ORD-2024-10784,2024-03-05,Home Office,Asia Pacific,Technology,Accessories,1649.92,78.98,0.05,4,84.66,Delivered
+ORD-2024-10785,2024-08-06,Consumer,Europe,Office Supplies,Storage,157.95,-9.45,0.0,5,8.1,Delivered
+ORD-2024-10786,2024-01-21,Consumer,Latin America,Furniture,Furnishings,1946.35,526.99,0.2,8,99.87,Delivered
+ORD-2024-10787,2024-04-30,Home Office,North America,Furniture,Tables,559.9,-80.9,0.0,4,28.73,Delivered
+ORD-2024-10788,2024-07-05,Consumer,North America,Furniture,Bookcases,1594.69,9.67,0.0,9,81.82,Delivered
+ORD-2024-10789,2024-11-11,Home Office,Asia Pacific,Office Supplies,Binders,390.51,-56.12,0.2,7,20.04,Delivered
+ORD-2024-10790,2024-08-22,Consumer,Asia Pacific,Technology,Printers,3516.32,-358.65,0.05,10,180.42,Delivered
+ORD-2024-10791,2024-05-03,,North America,Furniture,Tables,1717.12,-2.49,0.3,7,88.1,Delivered
+ORD-2024-10792,2024-10-08,Consumer,North America,Furniture,Bookcases,1479.33,-181.76,0.0,8,75.9,Delivered
+ORD-2024-10793,2024-07-15,Corporate,North America,Furniture,Tables,1417.45,210.23,0.0,6,72.73,Shipped
+ORD-2024-10794,2024-03-08,Consumer,North America,Technology,Accessories,3549.22,-378.24,0.1,8,182.11,Cancelled
+ORD-2024-10795,2024-12-24,Consumer,Asia Pacific,Office Supplies,Storage,187.2,37.6,0.2,3,9.61,Cancelled
+ORD-2024-10796,2024-07-17,Consumer,Europe,Office Supplies,Art,606.86,-75.06,0.0,10,31.14,Processing
+ORD-2024-10797,2024-05-09,Consumer,North America,Furniture,Chairs,2391.64,-287.82,0.2,10,122.71,Delivered
+ORD-2024-10798,2024-12-25,Home Office,North America,Office Supplies,Art,54.55,0.15,0.05,1,2.8,Shipped
+ORD-2024-10799,2024-10-24,Home Office,North America,Office Supplies,Binders,258.36,77.07,0.15,6,13.26,Delivered
+ORD-2024-10800,2024-11-01,Consumer,North America,Office Supplies,Art,34.84,5.95,0.0,1,1.79,Delivered
+ORD-2024-10801,2024-04-22,Corporate,Europe,Technology,Accessories,3723.46,875.26,0.0,9,191.05,Delivered
+ORD-2024-10802,2024-09-15,Consumer,Latin America,Furniture,Chairs,498.62,-39.5,0.2,2,25.58,Delivered
+ORD-2024-10803,2024-09-17,Corporate,Asia Pacific,Furniture,Tables,2393.07,639.1,0.2,11,122.79,Shipped
+ORD-2024-10804,2024-03-10,Home Office,North America,Furniture,Tables,486.04,-70.93,0.05,2,24.94,Delivered
+ORD-2024-10805,2024-03-25,Home Office,Asia Pacific,Office Supplies,Binders,397.85,-17.3,0.0,7,20.41,Delivered
+ORD-2024-10806,2024-11-21,Consumer,Asia Pacific,Office Supplies,Appliances,73.28,11.58,0.0,2,3.76,Processing
+ORD-2024-10807,2024-10-23,Corporate,Asia Pacific,Office Supplies,Storage,393.5,14.8,0.05,10,20.19,Delivered
+ORD-2024-10808,2024-08-18,Consumer,Europe,Furniture,Tables,1352.6,462.72,0.0,8,69.4,Delivered
+ORD-2024-10809,2024-11-14,Home Office,North America,Technology,Printers,1717.34,-231.55,0.0,6,88.12,Processing
+ORD-2024-10810,2024-04-07,Consumer,North America,Office Supplies,Binders,348.75,121.82,0.0,7,17.89,Delivered
+ORD-2024-10811,2024-03-24,Corporate,North America,Office Supplies,Storage,435.59,70.48,0.1,7,22.35,Delivered
+ORD-2024-10812,2024-06-17,Corporate,North America,Technology,Printers,2589.34,334.94,0.0,6,132.86,Delivered
+ORD-2024-10813,2024-09-13,Corporate,North America,Office Supplies,Art,448.37,-53.91,0.05,10,23.01,Delivered
+ORD-2024-10814,2024-07-22,Consumer,Europe,Office Supplies,Paper,348.06,-4.64,0.05,11,17.86,Processing
+ORD-2024-10815,2024-10-31,Home Office,Asia Pacific,Furniture,Bookcases,1489.25,465.14,0.1,9,76.41,Delivered
+ORD-2024-10816,2024-04-25,Consumer,Europe,Furniture,Chairs,1731.35,46.96,0.05,9,88.83,Delivered
+ORD-2024-10817,2024-08-04,Corporate,North America,Furniture,Bookcases,1167.99,211.2,0.0,7,59.93,Delivered
+ORD-2024-10818,2024-08-14,Consumer,Latin America,Technology,Laptops,2449.83,856.82,0.1,9,125.7,Delivered
+ORD-2024-10819,2024-07-24,Consumer,Latin America,Technology,Accessories,3534.77,-65.27,0.15,10,181.37,Cancelled
+ORD-2024-10820,2024-02-05,Corporate,Asia Pacific,Office Supplies,Binders,118.43,16.35,0.1,3,6.08,Delivered
+ORD-2024-10821,2024-07-02,Consumer,Latin America,Technology,Accessories,1403.29,278.16,0.2,3,72.0,Delivered
+ORD-2024-10822,2024-11-20,Consumer,Europe,Technology,Laptops,269.93,-18.27,0.1,1,13.85,Delivered
+ORD-2024-10823,2024-04-25,Consumer,Latin America,Furniture,Tables,660.97,-50.01,0.15,5,33.91,Delivered
+ORD-2024-10824,2024-05-21,Consumer,North America,Furniture,Furnishings,506.68,39.6,0.0,4,26.0,Processing
+ORD-2024-10825,2024-03-25,Corporate,North America,Office Supplies,Binders,83.67,3.59,0.05,2,4.29,Delivered
+ORD-2024-10826,2024-07-06,Home Office,North America,Technology,Printers,3661.15,758.25,0.05,9,187.85,Delivered
+ORD-2024-10827,2024-02-05,Consumer,North America,Technology,Laptops,1271.85,-146.58,0.0,3,65.26,Delivered
+ORD-2024-10828,2024-04-03,Consumer,North America,Office Supplies,Paper,366.22,123.08,0.05,8,18.79,Shipped
+ORD-2024-10829,2024-01-31,Consumer,Europe,Furniture,Tables,1273.35,-181.91,0.0,6,65.33,Delivered
+ORD-2024-10830,2024-03-20,Consumer,Asia Pacific,Technology,Phones,1665.89,250.98,0.1,5,85.48,Processing
+ORD-2024-10831,2024-10-28,Corporate,Europe,Furniture,Chairs,210.14,27.59,0.05,1,10.78,Delivered
+ORD-2024-10832,2024-03-27,Corporate,North America,Technology,Laptops,1019.78,-84.28,0.05,4,52.32,Processing
+ORD-2024-10833,2024-04-09,Consumer,Asia Pacific,Technology,Phones,1022.2,-76.2,0.3,3,52.45,Delivered
+ORD-2024-10834,2024-12-08,Consumer,Europe,Furniture,Furnishings,225.65,55.59,0.0,1,11.58,Delivered
+ORD-2024-10835,2024-01-19,Consumer,North America,Furniture,Bookcases,1135.89,333.7,0.0,5,58.28,Delivered
+ORD-2024-10836,2024-07-27,Home Office,Europe,Office Supplies,Paper,324.35,-2.75,0.0,6,16.64,Delivered
+ORD-2024-10837,2024-08-12,Home Office,North America,Furniture,Tables,303.47,20.93,0.2,2,15.57,Processing
+ORD-2024-10838,2024-11-09,Consumer,North America,Furniture,Furnishings,471.44,12.96,0.05,3,24.19,Shipped
+ORD-2024-10839,2024-07-13,Consumer,Latin America,Furniture,Tables,2766.58,-314.63,0.1,11,141.95,Delivered
+ORD-2024-10840,2024-10-11,Home Office,North America,Technology,Laptops,1621.97,302.66,0.0,6,83.22,Delivered
+ORD-2024-10841,2024-12-05,Home Office,Europe,Office Supplies,Appliances,148.76,39.06,0.05,4,7.63,Delivered
+ORD-2024-10842,2024-05-24,Consumer,Asia Pacific,Technology,Printers,2491.71,6.08,0.0,9,127.85,Shipped
+ORD-2024-10843,2024-01-16,Consumer,Asia Pacific,Office Supplies,Storage,209.11,72.16,0.1,5,10.73,Delivered
+ORD-2024-10844,2024-08-17,Consumer,North America,Technology,Accessories,1185.97,-132.92,0.15,4,60.85,Delivered
+ORD-2024-10845,2024-05-27,Corporate,North America,Furniture,Chairs,377.42,68.27,0.1,2,19.37,Delivered
+ORD-2024-10846,2024-12-11,Consumer,North America,Technology,Laptops,2169.75,160.81,0.1,6,111.33,Delivered
+ORD-2024-10847,2024-05-04,Consumer,Europe,Office Supplies,Paper,598.97,43.91,0.05,10,30.73,Delivered
+ORD-2024-10848,2024-11-09,Corporate,  Europe  ,Furniture,Chairs,260.75,20.55,0.1,2,13.38,Delivered
+ORD-2024-10849,2024-07-22,Consumer,North America,Furniture,Chairs,1164.13,-24.05,0.05,7,59.73,Delivered
+ORD-2024-10850,2024-09-10,Corporate,Latin America,Technology,Laptops,1173.54,,0.1,3,60.21,Cancelled
+ORD-2024-10851,2024-09-23,Consumer,Europe,Office Supplies,Appliances,454.96,95.9,0.0,9,23.34,Delivered
+ORD-2024-10852,2024-04-21,Consumer,North America,Technology,Laptops,3988.94,-35.11,0.0,11,204.67,Delivered
+ORD-2024-10853,2024-10-31,Corporate,Europe,Office Supplies,Art,285.97,76.54,0.05,5,14.67,Delivered
+ORD-2024-10854,2024-03-16,Consumer,Europe,Technology,Phones,2082.94,17.54,0.05,8,106.87,Shipped
+ORD-2024-10855,2024-04-25,Home Office,North America,Technology,Accessories,4892.74,1039.94,0.0,11,251.04,Delivered
+ORD-2024-10856,2024-09-22,Corporate,North America,Technology,Printers,2197.29,-196.66,0.1,6,112.74,Delivered
+ORD-2024-10857,2024-09-10,Consumer,Asia Pacific,Furniture,Chairs,1428.54,-93.78,0.0,10,73.3,Delivered
+ORD-2024-10858,2024-08-23,Corporate,Europe,Furniture,Furnishings,1900.79,15.01,0.0,8,97.53,Delivered
+ORD-2024-10859,2024-10-06,Consumer,Europe,Technology,Printers,4444.67,653.09,0.1,11,228.05,Delivered
+ORD-2024-10860,2024-05-18,Home Office,Europe,Office Supplies,Art,109.96,19.0,0.05,3,5.64,Shipped
+ORD-2024-10861,2024-04-21,Consumer,North America,Furniture,Chairs,390.72,18.82,0.1,3,20.05,Processing
+ORD-2024-10862,2024-05-02,Corporate,North America,Furniture,Bookcases,718.9,-79.86,0.05,5,36.89,Delivered
+ORD-2024-10863,2024-01-18,Consumer,Europe,Furniture,Tables,2229.79,82.09,0.3,11,114.41,Delivered
+ORD-2024-10864,2024-06-07,Consumer,North America,Furniture,Furnishings,1485.91,288.84,0.05,10,76.24,Processing
+ORD-2024-10865,2024-12-12,Home Office,North America,Furniture,Tables,463.34,85.95,0.0,3,23.77,Delivered
+ORD-2024-10866,2024-03-04,Home Office,Asia Pacific,Technology,Phones,2009.27,-140.45,0.0,8,103.09,Shipped
+ORD-2024-10867,2024-11-19,Consumer,Latin America,Technology,Printers,4221.18,-616.75,0.0,10,216.59,Delivered
+ORD-2024-10868,2024-09-05,Consumer,Asia Pacific,Office Supplies,Appliances,456.21,103.33,0.2,8,23.41,Processing
+ORD-2024-10869,2024-02-22,Home Office,Asia Pacific,Office Supplies,Storage,113.2,-10.96,0.0,2,5.81,Shipped
+ORD-2024-10870,2024-03-11,Home Office,North America,Furniture,Tables,568.29,-61.84,0.0,4,29.16,Processing
+ORD-2024-10871,2024-08-29,Consumer,Latin America,Technology,Laptops,4663.09,-693.17,0.0,10,239.26,Delivered
+ORD-2024-10872,2024-08-29,Consumer,North America,Furniture,Furnishings,210.71,13.97,0.15,1,10.81,Delivered
+ORD-2024-10873,2024-11-19,Consumer,Latin America,Furniture,Bookcases,956.35,97.2,0.0,4,49.07,Processing
+ORD-2024-10874,2024-02-05,Home Office,Latin America,Technology,Accessories,3900.1,658.46,0.3,11,200.11,Delivered
+ORD-2024-10875,2024-04-11,Consumer,Asia Pacific,Technology,Accessories,1408.22,-2.77,0.0,4,72.25,Delivered
+ORD-2024-10876,2024-11-29,Consumer,Latin America,Office Supplies,Storage,562.13,115.36,0.0,10,28.84,Shipped
+ORD-2024-10877,2024-04-08,Corporate,Europe,Office Supplies,Appliances,309.95,-20.25,0.0,9,15.9,Shipped
+ORD-2024-10878,2024-11-03,Consumer,North America,Technology,Accessories,1117.84,297.34,0.15,3,57.36,Processing
+ORD-2024-10879,2024-12-22,Consumer,Europe,Technology,Laptops,899.83,122.31,0.2,2,46.17,Delivered
+ORD-2024-10880,2024-03-27,Consumer,Europe,Technology,Laptops,4035.57,572.83,0.0,9,207.06,Shipped
+ORD-2024-10881,2024-03-05,Consumer,North America,Office Supplies,Paper,554.56,-25.02,0.0,9,28.45,Shipped
+ORD-2024-10882,2024-10-09,Consumer,Europe,Technology,Laptops,416.08,-46.99,0.1,1,21.35,Delivered
+ORD-2024-10883,2024-08-16,Corporate,Latin America,Technology,Laptops,1775.42,146.23,0.0,6,91.1,Delivered
+ORD-2024-10884,2024-04-12,Consumer,North America,Office Supplies,Storage,321.39,50.72,0.0,10,16.49,Delivered
+ORD-2024-10885,2024-11-14,Corporate,Asia Pacific,Technology,Laptops,2899.65,-297.15,0.0,8,148.78,Delivered
+ORD-2024-10886,2024-02-01,Home Office,Latin America,Office Supplies,Appliances,143.05,46.53,0.0,3,7.34,Cancelled
+ORD-2024-10887,2024-08-22,Corporate,Latin America,Technology,Accessories,3342.51,1137.15,0.0,11,171.5,Delivered
+ORD-2024-10888,2024-08-05,Consumer,Latin America,Technology,Printers,2479.96,304.36,0.0,9,127.25,Shipped
+ORD-2024-10889,2024-08-19,Consumer,Europe,Technology,Accessories,777.24,252.63,0.0,2,39.88,Cancelled
+ORD-2024-10890,2024-04-25,Consumer,Latin America,Office Supplies,Paper,333.44,-20.1,0.15,6,17.11,Delivered
+ORD-2024-10891,2024-08-04,Consumer,Asia Pacific,Office Supplies,Storage,62.78,-8.62,0.0,1,3.22,Shipped
+ORD-2024-10892,2024-03-09,Consumer,North America,Office Supplies,Paper,387.71,-50.52,0.1,7,19.89,Delivered
+ORD-2024-10893,2024-08-12,Corporate,Europe,Furniture,Bookcases,677.99,97.47,0.0,3,34.79,Processing
+ORD-2024-10894,2024-03-12,Consumer,Asia Pacific,Office Supplies,Appliances,356.43,-42.48,0.1,7,18.29,Delivered
+ORD-2024-10895,2024-02-25,Consumer,North America,Technology,Phones,1946.2,640.83,0.0,4,99.86,Processing
+ORD-2024-10896,2024-08-04,Consumer,Europe,Technology,Printers,3616.1,-285.79,0.1,9,185.54,Delivered
+ORD-2024-10897,2024-05-14,Corporate,Europe,Office Supplies,Storage,292.99,0.69,0.0,5,15.03,Delivered
+ORD-2024-10898,2024-07-08,Consumer,North America,Technology,Accessories,1430.15,373.64,0.2,3,73.38,Shipped
+ORD-2024-10899,2024-11-09,Corporate,Europe,Technology,Printers,3782.52,-153.68,0.0,8,194.08,Delivered
+ORD-2024-10900,2024-12-16,Consumer,Asia Pacific,Technology,Printers,2030.68,-57.91,0.0,6,104.19,Delivered
+ORD-2024-10901,2024-12-09,Home Office,Europe,Technology,Printers,528.54,90.46,0.3,2,27.12,Delivered
+ORD-2024-10902,2024-08-15,Home Office,North America,Technology,Phones,861.33,-10.3,0.05,3,44.19,Shipped
+ORD-2024-10903,2024-02-16,Consumer,North America,Furniture,Furnishings,1067.7,-44.07,0.0,8,54.78,Delivered
+ORD-2024-10904,2024-03-18,Consumer,North America,Furniture,Furnishings,1392.8,-31.91,0.2,10,71.46,Delivered
+ORD-2024-10905,2024-03-12,Consumer,Latin America,Office Supplies,Paper,261.22,24.9,0.0,7,13.4,Delivered
+ORD-2024-10906,2024-05-31,Consumer,North America,Office Supplies,Appliances,422.44,,0.0,10,21.68,Delivered
+ORD-2024-10907,2024-03-28,Corporate,Europe,Technology,Accessories,2269.0,603.82,0.3,6,116.42,Delivered
+ORD-2024-10908,2024-06-03,Home Office,North America,Technology,Printers,419.36,-3.23,0.0,1,21.52,Delivered
+ORD-2024-10909,2024-08-03,Corporate,North America,Furniture,Furnishings,1373.19,43.51,0.2,9,70.46,Delivered
+ORD-2024-10910,2024-08-26,Home Office,Asia Pacific,Furniture,Chairs,632.21,52.0,0.0,3,32.44,Delivered
+ORD-2024-10911,2024-09-28,Consumer,Asia Pacific,Technology,Printers,2087.72,708.71,0.1,5,107.12,Delivered
+ORD-2024-10912,2024-08-23,Consumer,North America,Furniture,Furnishings,1374.7,-87.71,0.05,7,70.54,Processing
+ORD-2024-10913,2024-03-31,Corporate,Europe,Furniture,Furnishings,1678.99,48.26,0.3,7,86.15,Delivered
+ORD-2024-10914,2024-02-11,Consumer,North America,Furniture,Tables,419.96,90.17,0.05,3,21.55,Delivered
+ORD-2024-10915,2024-04-24,Corporate,Europe,Furniture,Bookcases,593.27,196.95,0.0,4,30.44,Delivered
+ORD-2024-10916,2024-01-27,Consumer,Europe,Technology,Laptops,3500.23,-252.58,0.1,10,179.59,Delivered
+ORD-2024-10917,2024-05-12,Consumer,North America,Office Supplies,Appliances,248.44,-9.02,0.0,7,12.75,Shipped
+ORD-2024-10918,2024-08-20,Home Office,North America,Office Supplies,Art,394.71,-14.66,0.15,8,20.25,Delivered
+ORD-2024-10919,2024-08-01,Consumer,North America,Technology,Accessories,685.22,-95.61,0.2,2,35.16,Delivered
+ORD-2024-10920,2024-10-13,Home Office,Latin America,Office Supplies,Appliances,364.18,55.38,0.05,9,18.69,Delivered
+ORD-2024-10921,2024-02-15,Home Office,Latin America,Furniture,Bookcases,1031.93,191.27,0.15,7,52.95,Delivered
+ORD-2024-10922,2024-11-09,Corporate,North America,Office Supplies,Storage,336.51,50.9,0.0,8,17.27,Delivered
+ORD-2024-10923,2024-09-02,Corporate,Asia Pacific,Office Supplies,Art,303.9,-34.75,0.05,6,15.59,Delivered
+ORD-2024-10924,2024-03-12,Corporate,North America,Furniture,Tables,1191.29,-137.46,0.0,6,61.12,Delivered
+ORD-2024-10925,2024-07-24,Home Office,North America,Technology,Laptops,2565.79,-114.96,0.1,9,131.65,Cancelled
+ORD-2024-10926,2024-06-19,Consumer,Asia Pacific,Technology,Accessories,1102.42,-5.35,0.0,4,56.56,Delivered
+ORD-2024-10927,2024-01-12,Consumer,Latin America,Furniture,Chairs,1422.97,346.17,0.15,11,73.01,Delivered
+ORD-2024-10928,2024-12-18,Corporate,Latin America,Furniture,Chairs,1403.22,-98.65,0.0,11,72.0,Processing
+ORD-2024-10929,2024-09-06,Consumer,Europe,Technology,Laptops,2302.77,-294.65,0.1,5,118.15,Shipped
+ORD-2024-10930,2024-05-07,Consumer,North America,Technology,Phones,2304.42,108.29,0.0,9,118.24,Delivered
+ORD-2024-10931,2024-04-15,Consumer,Asia Pacific,Office Supplies,Binders,54.53,3.17,0.15,1,2.8,Shipped
+ORD-2024-10932,2024-12-01,Corporate,North America,Office Supplies,Storage,235.87,,0.0,4,12.1,Processing
+ORD-2024-10933,2024-08-15,Home Office,Europe,Furniture,Chairs,968.49,255.15,0.05,7,49.69,Delivered
+ORD-2024-10934,2024-03-23,Consumer,North America,Technology,Laptops,3870.83,-390.94,0.0,11,198.61,Delivered
+ORD-2024-10935,2024-12-26,Home Office,Europe,Technology,Laptops,4326.88,873.9,0.1,9,222.01,Delivered
+ORD-2024-10936,2024-04-03,Corporate,North America,Technology,Accessories,4943.0,93.78,0.0,11,253.62,Cancelled
+ORD-2024-10937,2024-10-23,Home Office,North America,Office Supplies,Appliances,469.26,2.34,0.1,10,24.08,Delivered
+ORD-2024-10938,2024-08-10,Corporate,Latin America,Technology,Laptops,2590.98,819.45,0.0,6,132.94,Delivered
+ORD-2024-10939,2024-11-10,Corporate,North America,Furniture,Bookcases,1848.04,-47.62,0.15,8,94.82,Processing
+ORD-2024-10940,2024-05-14,Consumer,Europe,Technology,Laptops,2972.4,509.07,0.0,9,152.51,Delivered
+ORD-2024-10941,2024-12-11,Home Office,North America,Furniture,Furnishings,2384.11,-29.65,0.0,10,122.33,Delivered
+ORD-2024-10942,2024-05-02,Consumer,North America,Office Supplies,Appliances,185.28,19.19,0.05,4,9.51,Delivered
+ORD-2024-10943,2024-09-16,Home Office,North America,Office Supplies,Paper,48.13,11.7,0.0,1,2.47,Delivered
+ORD-2024-10944,2024-08-24,Home Office,North America,Technology,Phones,3919.43,1140.01,0.0,8,201.1,Processing
+ORD-2024-10945,2024-02-04,Consumer,Asia Pacific,Technology,Phones,903.22,243.28,0.2,2,46.34,Delivered
+ORD-2024-10946,2024-12-14,Consumer,North America,Technology,Laptops,3669.97,517.8,0.3,11,188.3,Shipped
+ORD-2024-10947,2024-01-20,Corporate,Latin America,Office Supplies,Binders,31.83,-0.81,0.1,1,1.63,Delivered
+ORD-2024-10948,2024-09-07,Consumer,Europe,Office Supplies,Appliances,358.57,64.76,0.0,7,18.4,Delivered
+ORD-2024-10949,2024-03-13,Home Office,Europe,Furniture,Chairs,2146.93,440.02,0.0,10,110.16,Cancelled
+ORD-2024-10950,2024-04-01,Consumer,Europe,Furniture,Chairs,1872.01,-270.79,0.1,9,96.05,Delivered
+ORD-2024-10951,2024-10-21,Consumer,Europe,Office Supplies,Binders,681.86,47.46,0.0,11,34.99,Delivered
+ORD-2024-10952,2024-04-22,Home Office,Asia Pacific,Technology,Phones,4107.85,1115.82,0.2,9,210.77,Delivered
+ORD-2024-10953,2024-03-11,Corporate,North America,Office Supplies,Appliances,136.91,12.98,0.0,3,7.02,Processing
+ORD-2024-10954,2024-02-29,Home Office,North America,Furniture,Furnishings,803.52,4.57,0.3,6,41.23,Delivered
+ORD-2024-10955,2024-10-02,Consumer,Asia Pacific,Furniture,Furnishings,1301.88,372.21,0.05,7,66.8,Delivered
+ORD-2024-10956,2024-11-11,Corporate,Latin America,Furniture,Chairs,2128.45,-153.38,0.15,10,109.21,Delivered
+ORD-2024-10957,2024-10-07,Corporate,Asia Pacific,Technology,Accessories,3545.0,-165.83,0.0,9,181.89,Delivered
+ORD-2024-10958,2024-07-28,Corporate,Europe,Technology,Phones,753.69,145.98,0.2,2,38.67,Shipped
+ORD-2024-10959,2024-02-23,Corporate,Asia Pacific,Office Supplies,Art,370.14,9.7,0.0,8,18.99,Delivered
+ORD-2024-10960,2024-03-06,Corporate,Europe,Technology,Accessories,2218.8,458.2,0.1,7,113.85,Delivered
+ORD-2024-10961,2024-11-10,Consumer,Europe,Furniture,Bookcases,643.78,-45.8,0.15,4,33.03,Delivered
+ORD-2024-10962,2024-07-10,Consumer,North America,Technology,Phones,735.11,-17.54,0.0,2,37.72,Delivered
+ORD-2024-10963,2024-02-19,Corporate,Europe,Furniture,Furnishings,1169.89,-83.85,0.05,8,60.03,Processing
+ORD-2024-10964,2024-01-16,Consumer,North America,Technology,Printers,3613.15,1179.53,0.05,11,185.39,Delivered
+ORD-2024-10965,2024-03-07,Corporate,North America,Furniture,Bookcases,834.11,43.96,0.0,5,42.8,Cancelled
+ORD-2024-10966,2024-10-30,Consumer,Asia Pacific,Office Supplies,Appliances,299.97,5.58,0.05,6,15.39,Delivered
+ORD-2024-10967,2024-09-07,Corporate,North America,Technology,Laptops,2874.71,-410.79,0.0,11,147.5,Delivered
+ORD-2024-10968,2024-04-26,Corporate,North America,Furniture,Tables,1613.77,-118.28,0.0,7,82.8,Processing
+ORD-2024-10969,2024-01-17,Consumer,North America,Furniture,Furnishings,1968.6,,0.1,10,101.01,Delivered
+ORD-2024-10970,2024-02-05,Consumer,Latin America,Office Supplies,Binders,52.63,-6.09,0.1,1,2.7,Shipped
+ORD-2024-10971,2024-09-30,Consumer,Europe,Office Supplies,Art,429.18,45.22,0.0,8,22.02,Cancelled
+ORD-2024-10972,2024-08-30,Corporate,Europe,Office Supplies,Art,162.73,12.61,0.2,4,8.35,Delivered
+ORD-2024-10973,2024-08-25,Home Office,Asia Pacific,Technology,Laptops,3242.17,757.32,0.2,9,166.35,Delivered
+ORD-2024-10974,2024-11-04,Consumer,Asia Pacific,Technology,Printers,479.28,86.22,0.05,1,24.59,Shipped
+ORD-2024-10975,2024-09-01,Corporate,North America,Technology,Accessories,4761.27,347.45,0.05,11,244.3,Delivered
+ORD-2024-10976,2024-09-13,Consumer,Europe,Furniture,Chairs,496.33,-18.7,0.0,2,25.47,Delivered
+ORD-2024-10977,2024-09-16,Consumer,Asia Pacific,Technology,Phones,2566.99,547.88,0.1,6,131.71,Delivered
+ORD-2024-10978,2024-08-03,Home Office,Europe,Furniture,Furnishings,1629.38,332.28,0.1,11,83.6,Delivered
+ORD-2024-10979,2024-12-01,Consumer,North America,Furniture,Chairs,1341.32,-98.39,0.0,10,68.82,Shipped
+ORD-2024-10980,2024-01-07,Consumer,Asia Pacific,Technology,Laptops,4251.8,1306.9,0.1,11,218.16,Delivered
+ORD-2024-10981,2024-09-13,Consumer,Europe,Office Supplies,Binders,42.77,-5.04,0.0,1,2.19,Delivered
+ORD-2024-10982,2024-12-05,Consumer,North America,Technology,Phones,1249.95,-153.1,0.0,4,64.13,Delivered
+ORD-2024-10983,2024-02-28,Consumer,  Europe  ,Technology,Laptops,3542.13,-199.51,0.1,8,181.74,Delivered
+ORD-2024-10984,2024-11-05,,North America,Office Supplies,Appliances,430.6,131.22,0.1,10,22.09,Delivered
+ORD-2024-10985,2024-12-08,Corporate,North America,Furniture,Chairs,829.71,91.27,0.05,5,42.57,Shipped
+ORD-2024-10986,2024-04-30,Consumer,Asia Pacific,Office Supplies,Paper,524.47,127.96,0.05,9,26.91,Delivered
+ORD-2024-10987,2024-11-09,Corporate,North America,Furniture,Furnishings,2558.95,-92.32,0.2,11,131.3,Shipped
+ORD-2024-10988,2024-07-13,Consumer,Europe,Technology,Phones,3655.41,347.67,0.05,11,187.56,Processing
+ORD-2024-10989,2024-11-05,Consumer,Europe,Office Supplies,Paper,346.34,10.09,0.1,6,17.77,Delivered
+ORD-2024-10990,2024-06-21,Corporate,North America,Office Supplies,Paper,58.3,15.39,0.0,1,2.99,Delivered
+ORD-2024-10991,2024-03-11,Home Office,Latin America,Office Supplies,Paper,269.12,-37.33,0.0,6,13.81,Delivered
+ORD-2024-10992,2024-09-22,Consumer,North America,Technology,Laptops,1567.72,-44.02,0.0,6,80.44,Delivered
+ORD-2024-10993,2024-06-23,Home Office,North America,Furniture,Furnishings,757.2,-55.82,0.05,6,38.85,Processing
+ORD-2024-10994,2024-03-13,Corporate,North America,Furniture,Furnishings,1535.48,429.31,0.15,8,78.78,Processing
+ORD-2024-10995,2024-01-28,Corporate,North America,Technology,Phones,1975.79,165.52,0.0,6,101.38,Delivered
+ORD-2024-10996,2024-03-11,Corporate,North America,Office Supplies,Paper,314.55,16.39,0.0,5,16.14,Delivered
+ORD-2024-10997,2024-05-18,Consumer,Asia Pacific,Technology,Laptops,4776.65,357.01,0.0,11,245.09,Processing
+ORD-2024-10998,2024-03-11,Consumer,Latin America,Office Supplies,Binders,110.96,37.28,0.0,2,5.69,Cancelled
+ORD-2024-10999,2024-04-17,Corporate,North America,Furniture,Tables,985.44,271.13,0.2,4,50.56,Delivered
+ORD-2024-11000,2024-11-01,Consumer,Europe,Technology,Printers,4624.92,939.71,0.1,10,237.3,Delivered
+ORD-2024-11001,2024-05-13,Home Office,Asia Pacific,Furniture,Furnishings,830.46,-3.95,0.0,5,42.61,Delivered
+ORD-2024-11002,2024-04-14,Consumer,Asia Pacific,Office Supplies,Appliances,367.29,-24.76,0.1,10,18.85,Cancelled
+ORD-2024-11003,2024-07-20,Consumer,Europe,Office Supplies,Art,219.98,68.35,0.1,4,11.29,Delivered
+ORD-2024-11004,2024-07-18,Corporate,North America,Office Supplies,Storage,86.83,5.34,0.1,2,4.46,Delivered
+ORD-2024-11005,2024-02-09,Consumer,North America,Office Supplies,Binders,324.83,-3.45,0.0,7,16.67,Delivered
+ORD-2024-11006,2024-02-12,Corporate,Asia Pacific,Office Supplies,Storage,513.58,43.89,0.05,10,26.35,Delivered
+ORD-2024-11007,2024-05-06,Corporate,Asia Pacific,Office Supplies,Paper,600.98,185.66,0.0,10,30.84,Delivered
+ORD-2024-11008,2024-12-05,Home Office,North America,Technology,Accessories,695.35,30.27,0.15,2,35.68,Cancelled
+ORD-2024-11009,2024-07-09,Corporate,North America,Furniture,Chairs,224.7,29.51,0.1,1,11.53,Delivered
+ORD-2024-11010,2024-03-27,Corporate,Latin America,Technology,Printers,1553.72,390.73,0.05,5,79.72,Delivered
+ORD-2024-11011,2024-03-08,Corporate,Asia Pacific,Office Supplies,Appliances,53.49,3.4,0.0,1,2.74,Delivered
+ORD-2024-11012,2024-08-14,Home Office,Latin America,Office Supplies,Storage,31.55,-1.05,0.0,1,1.62,Delivered
+ORD-2024-11013,2024-05-20,Consumer,Asia Pacific,Technology,Phones,458.52,159.23,0.0,1,23.53,Delivered
+ORD-2024-11014,2024-12-20,Consumer,North America,Office Supplies,Art,194.74,63.93,0.3,6,9.99,Delivered
+ORD-2024-11015,2024-04-18,Consumer,Europe,Office Supplies,Paper,485.57,131.95,0.0,9,24.91,Delivered
+ORD-2024-11016,2024-11-14,Consumer,Europe,Technology,Accessories,2563.33,497.77,0.0,10,131.52,Delivered
+ORD-2024-11017,2024-09-18,Corporate,North America,Furniture,Chairs,1755.02,-4.51,0.3,11,90.05,Delivered
+ORD-2024-11018,2024-07-21,Corporate,Europe,Office Supplies,Appliances,47.16,14.46,0.05,1,2.42,Delivered
+ORD-2024-11019,2024-11-04,Corporate,Asia Pacific,Technology,Printers,1739.42,-21.26,0.15,5,89.25,Cancelled
+ORD-2024-11020,2024-01-26,Consumer,North America,Office Supplies,Paper,337.89,84.61,0.0,9,17.34,Processing
+ORD-2024-11021,2024-07-07,Corporate,Asia Pacific,Technology,Accessories,2941.06,909.17,0.05,9,150.9,Delivered
+ORD-2024-11022,2024-11-16,Consumer,Europe,Office Supplies,Storage,54.42,8.24,0.0,1,2.79,Delivered
+ORD-2024-11023,2024-03-13,Corporate,Latin America,Office Supplies,Paper,420.65,105.81,0.15,8,21.58,Processing
+ORD-2024-11024,2024-04-20,Corporate,North America,Office Supplies,Appliances,33.76,8.3,0.0,1,1.73,Delivered
+ORD-2024-11025,2024-09-06,Consumer,North America,Furniture,Bookcases,1761.29,-94.09,0.05,8,90.37,Shipped
+ORD-2024-11026,2024-07-22,Consumer,Europe,Office Supplies,Storage,33.17,6.1,0.15,1,1.7,Processing
+ORD-2024-11027,2024-01-30,Consumer,North America,Office Supplies,Paper,243.01,-25.09,0.05,5,12.47,Delivered
+ORD-2024-11028,2024-01-15,Home Office,Asia Pacific,Technology,Phones,2469.72,256.67,0.05,8,126.72,Delivered
+ORD-2024-11029,2024-09-12,Home Office,Asia Pacific,Office Supplies,Art,300.07,-20.67,0.0,6,15.4,Cancelled
+ORD-2024-11030,2024-05-08,Corporate,North America,Technology,Phones,2781.23,161.8,0.0,9,142.7,Delivered
+ORD-2024-11031,2024-01-19,Consumer,Europe,Furniture,Furnishings,250.1,66.65,0.1,1,12.83,Delivered
+ORD-2024-11032,2024-12-10,Consumer,Europe,Technology,Laptops,2887.95,992.25,0.1,9,148.18,Delivered
+ORD-2024-11033,2024-12-13,Corporate,North America,Technology,Accessories,304.28,2.73,0.3,1,15.61,Delivered
+ORD-2024-11034,2024-11-03,Corporate,Latin America,Technology,Laptops,3132.24,363.27,0.1,10,160.71,Delivered
+ORD-2024-11035,2024-06-30,Consumer,Asia Pacific,Office Supplies,Art,597.39,63.11,0.05,10,30.65,Shipped
+ORD-2024-11036,2024-04-29,Consumer,Europe,Technology,Accessories,1202.62,393.5,0.2,3,61.71,Cancelled
+ORD-2024-11037,2024-10-24,Corporate,Asia Pacific,Office Supplies,Art,54.52,4.87,0.0,1,2.8,Delivered
+ORD-2024-11038,2024-11-23,Consumer,Europe,Technology,Accessories,1409.74,281.32,0.05,3,72.33,Delivered
+ORD-2024-11039,2024-07-02,Consumer,Latin America,Technology,Accessories,5152.5,1601.88,0.0,11,264.37,Delivered
+ORD-2024-11040,2024-04-12,Consumer,Europe,Furniture,Bookcases,438.21,16.08,0.0,2,22.48,Delivered
+ORD-2024-11041,2024-09-03,Corporate,Asia Pacific,Office Supplies,Storage,75.46,22.72,0.15,2,3.87,Delivered
+ORD-2024-11042,2024-08-16,Home Office,Asia Pacific,Technology,Printers,4064.64,1254.87,0.05,9,208.55,Cancelled
+ORD-2024-11043,2024-12-18,Home Office,North America,Furniture,Bookcases,1213.41,382.63,0.05,8,62.26,Processing
+ORD-2024-11044,2024-09-24,Corporate,Asia Pacific,Office Supplies,Storage,54.9,-0.81,0.05,1,2.82,Delivered
+ORD-2024-11045,2024-07-12,Corporate,North America,Furniture,Tables,849.54,42.63,0.05,4,43.59,Delivered
+ORD-2024-11046,2024-03-18,Consumer,North America,Technology,Phones,430.93,122.9,0.0,1,22.11,Delivered
+ORD-2024-11047,2024-12-12,Corporate,North America,Technology,Phones,375.51,11.11,0.1,1,19.27,Delivered
+ORD-2024-11048,2024-01-06,Consumer,Latin America,Office Supplies,Binders,206.48,31.0,0.05,4,10.59,Delivered
+ORD-2024-11049,2024-06-09,Corporate,Asia Pacific,Technology,Laptops,957.13,-87.07,0.15,2,49.11,Delivered
+ORD-2024-11050,2024-12-21,Consumer,Asia Pacific,Office Supplies,Art,104.05,-12.68,0.0,3,5.34,Cancelled
+ORD-2024-11051,2024-04-24,Consumer,Asia Pacific,Furniture,Chairs,1814.06,101.58,0.0,11,93.08,Delivered
+ORD-2024-11052,2024-02-20,Consumer,Europe,Office Supplies,Paper,456.82,63.71,0.1,9,23.44,Delivered
+ORD-2024-11053,2024-09-18,Consumer,Latin America,Office Supplies,Paper,123.74,5.74,0.15,2,6.35,Shipped
+ORD-2024-11054,2024-07-06,Consumer,Europe,Office Supplies,Binders,138.04,19.17,0.05,4,7.08,Delivered
+ORD-2024-11055,2024-07-05,Consumer,North America,Furniture,Bookcases,128.84,13.86,0.1,1,6.61,Delivered
+ORD-2024-11056,2024-06-01,Home Office,North America,Office Supplies,Binders,66.51,12.83,0.3,2,3.41,Delivered
+ORD-2024-11057,2024-10-04,Consumer,Asia Pacific,Furniture,Bookcases,663.02,115.87,0.3,5,34.02,Delivered
+ORD-2024-11058,2024-01-24,Corporate,Asia Pacific,Furniture,Chairs,2403.85,149.33,0.1,10,123.34,Shipped
+ORD-2024-11059,2024-06-26,Home Office,North America,Furniture,Furnishings,216.88,13.55,0.1,1,11.13,Delivered
+ORD-2024-11060,2024-07-28,Home Office,North America,Office Supplies,Art,581.12,-46.26,0.0,11,29.82,Shipped
+ORD-2024-11061,2024-04-30,Corporate,Asia Pacific,Office Supplies,Paper,335.73,35.8,0.15,7,17.23,Delivered
+ORD-2024-11062,2024-12-08,Home Office,North America,Office Supplies,Paper,224.53,32.24,0.05,4,11.52,Delivered
+ORD-2024-11063,2024-05-02,Consumer,Asia Pacific,Furniture,Chairs,873.67,77.1,0.3,6,44.83,Shipped
+ORD-2024-11064,2024-10-23,Consumer,Latin America,Furniture,Tables,1403.08,18.03,0.0,8,71.99,Delivered
+ORD-2024-11065,2024-03-08,Consumer,Europe,Office Supplies,Binders,281.61,59.37,0.05,6,14.45,Delivered
+ORD-2024-11066,2024-06-06,Corporate,North America,Technology,Laptops,544.1,-61.3,0.05,2,27.92,Delivered
+ORD-2024-11067,2024-07-11,Corporate,Asia Pacific,Technology,Phones,347.78,106.85,0.05,1,17.84,Delivered
+ORD-2024-11068,2024-03-12,Consumer,Asia Pacific,Furniture,Furnishings,1327.03,-185.36,0.0,8,68.09,Delivered
+ORD-2024-11069,2024-02-05,Consumer,Europe,Technology,Printers,2029.74,672.2,0.05,8,104.14,Delivered
+ORD-2024-11070,2024-12-27,Corporate,Latin America,Technology,Accessories,2506.5,203.47,0.15,9,128.61,Delivered
+ORD-2024-11071,2024-03-09,Consumer,North America,Technology,Printers,2593.13,146.08,0.1,6,133.05,Delivered
+ORD-2024-11072,2024-03-10,Corporate,Europe,Technology,Laptops,249.42,-5.43,0.0,1,12.8,Cancelled
+ORD-2024-11073,2024-02-25,Corporate,Asia Pacific,Technology,Laptops,4265.03,-618.28,0.1,9,218.84,Delivered
+ORD-2024-11074,2024-03-04,Corporate,Asia Pacific,Office Supplies,Appliances,102.67,-1.29,0.0,3,5.27,Processing
+ORD-2024-11075,2024-01-29,Corporate,North America,Furniture,Chairs,2493.74,-237.65,0.0,11,127.95,Delivered
+ORD-2024-11076,2024-09-28,Home Office,Asia Pacific,Furniture,Furnishings,1435.35,258.23,0.1,6,73.65,Delivered
+ORD-2024-11077,2024-08-17,Consumer,Europe,Office Supplies,Art,611.46,5.83,0.15,10,31.37,Processing
+ORD-2024-11078,2024-12-03,Corporate,North America,Technology,Laptops,4575.32,1068.75,0.05,10,234.76,Delivered
+ORD-2024-11079,2024-05-06,Corporate,North America,Office Supplies,Storage,446.14,-20.76,0.05,11,22.89,Shipped
+ORD-2024-11080,2024-04-29,Consumer,Asia Pacific,Office Supplies,Binders,377.93,113.42,0.0,9,19.39,Delivered
+ORD-2024-11081,2024-07-30,Consumer,North America,Technology,Accessories,3844.54,428.63,0.05,11,197.26,Delivered
+ORD-2024-11082,2024-09-13,Consumer,North America,Furniture,Chairs,430.65,-39.94,0.0,3,22.1,Delivered
+ORD-2024-11083,2024-07-02,Consumer,  North America  ,Office Supplies,Binders,161.01,8.12,0.3,5,8.26,Delivered
+ORD-2024-11084,2024-06-25,Corporate,Asia Pacific,Office Supplies,Paper,294.39,-13.72,0.15,5,15.1,Processing
+ORD-2024-11085,2024-02-10,Home Office,Europe,Furniture,Chairs,1958.2,-98.22,0.1,10,100.47,Delivered
+ORD-2024-11086,2024-08-28,Consumer,Asia Pacific,Furniture,Furnishings,1418.89,146.41,0.05,7,72.8,Cancelled
+ORD-2024-11087,2024-07-16,Consumer,North America,Technology,Accessories,1888.45,351.15,0.15,4,96.9,Cancelled
+ORD-2024-11088,2024-03-07,Home Office,Europe,Office Supplies,Art,576.96,176.44,0.05,11,29.6,Delivered
+ORD-2024-11089,2024-10-23,Consumer,Europe,Technology,Laptops,1657.04,167.5,0.0,4,85.02,Delivered
+ORD-2024-11090,2024-11-21,Consumer,Asia Pacific,Office Supplies,Paper,394.03,131.18,0.0,7,20.22,Processing
+ORD-2024-11091,2024-08-27,Corporate,Latin America,Furniture,Tables,1265.94,406.14,0.1,9,64.95,Cancelled
+ORD-2024-11092,2024-07-29,Corporate,North America,Furniture,Tables,1885.18,532.62,0.2,11,96.73,Delivered
+ORD-2024-11093,2024-01-12,Consumer,Europe,Furniture,Furnishings,991.98,99.19,0.0,4,50.9,Delivered
+ORD-2024-11094,2024-07-28,Consumer,North America,Technology,Laptops,1884.47,-149.91,0.0,4,96.69,Delivered
+ORD-2024-11095,2024-02-19,Consumer,Europe,Technology,Printers,2769.59,-113.69,0.05,6,142.11,Delivered
+ORD-2024-11096,2024-12-09,Corporate,North America,Technology,Phones,2134.57,371.06,0.15,6,109.52,Delivered
+ORD-2024-11097,2024-02-18,Corporate,North America,Technology,Printers,3185.09,193.9,0.0,7,163.43,Shipped
+ORD-2024-11098,2024-11-23,Consumer,North America,Office Supplies,Storage,33.02,-2.53,0.0,1,1.69,Delivered
+ORD-2024-11099,2024-11-17,Corporate,Europe,Furniture,Tables,1591.85,142.47,0.1,11,81.68,Delivered
+ORD-2024-11100,2024-03-14,Home Office,North America,Technology,Phones,1039.27,-146.83,0.05,3,53.32,Delivered
+ORD-2024-11101,2024-10-21,Consumer,Asia Pacific,Office Supplies,Appliances,420.54,91.24,0.0,9,21.58,Delivered
+ORD-2024-11102,2024-09-27,Consumer,Europe,Office Supplies,Storage,238.8,-27.03,0.0,6,12.25,Delivered
+ORD-2024-11103,2024-02-04,Corporate,North America,Office Supplies,Binders,256.37,42.19,0.1,6,13.15,Delivered
+ORD-2024-11104,2024-11-04,,Asia Pacific,Office Supplies,Paper,183.14,,0.05,5,9.4,Delivered
+ORD-2024-11105,2024-04-06,Consumer,North America,Technology,Printers,4013.22,-335.82,0.3,11,205.92,Delivered
+ORD-2024-11106,2024-01-07,Corporate,Europe,Furniture,Chairs,678.07,74.13,0.1,3,34.79,Delivered
+ORD-2024-11107,2024-09-07,Home Office,Europe,Office Supplies,Binders,575.66,137.89,0.0,11,29.54,Cancelled
+ORD-2024-11108,2024-12-13,Home Office,North America,Office Supplies,Appliances,174.48,-3.43,0.05,5,8.95,Delivered
+ORD-2024-11109,2024-08-01,Corporate,North America,Technology,Phones,364.46,-24.98,0.05,1,18.7,Delivered
+ORD-2024-11110,2024-11-05,Corporate,North America,Office Supplies,Appliances,160.43,2.95,0.0,3,8.23,Delivered
+ORD-2024-11111,2024-12-11,Consumer,Latin America,Technology,Laptops,1499.3,190.94,0.2,4,76.93,Cancelled
+ORD-2024-11112,2024-11-20,Corporate,Europe,Technology,Printers,1704.8,234.65,0.15,5,87.47,Delivered
+ORD-2024-11113,2024-02-08,Consumer,Europe,Furniture,Tables,2043.61,-172.81,0.0,10,104.86,Delivered
+ORD-2024-11114,2024-09-23,Consumer,Europe,Furniture,Furnishings,2232.44,175.88,0.0,9,114.55,Shipped
+ORD-2024-11115,2024-02-17,Corporate,North America,Furniture,Tables,551.83,-8.75,0.0,4,28.31,Delivered
+ORD-2024-11116,2024-09-08,Corporate,Europe,Technology,Accessories,1021.66,276.88,0.0,3,52.42,Delivered
+ORD-2024-11117,2024-09-16,Consumer,Asia Pacific,Office Supplies,Art,443.08,3.01,0.05,10,22.73,Delivered
+ORD-2024-11118,2024-06-04,Home Office,North America,Technology,Printers,386.36,104.07,0.05,1,19.82,Delivered
+ORD-2024-11119,2024-01-14,Consumer,North America,Technology,Accessories,2822.83,181.46,0.3,10,144.84,Delivered
+ORD-2024-11120,2024-12-10,Consumer,North America,Office Supplies,Storage,222.39,47.43,0.0,6,11.41,Shipped
+ORD-2024-11121,2024-03-07,Consumer,Europe,Office Supplies,Paper,283.42,29.77,0.05,7,14.54,Delivered
+ORD-2024-11122,2024-05-14,Corporate,Latin America,Office Supplies,Art,616.1,99.18,0.2,10,31.61,Shipped
+ORD-2024-11123,2024-04-05,Corporate,North America,Office Supplies,Appliances,437.0,20.84,0.05,8,22.42,Delivered
+ORD-2024-11124,2024-02-23,Consumer,Europe,Office Supplies,Appliances,52.34,12.25,0.0,1,2.69,Shipped
+ORD-2024-11125,2024-03-10,Corporate,North America,Furniture,Tables,915.75,57.32,0.0,4,46.99,Delivered
+ORD-2024-11126,2024-03-21,Consumer,Latin America,Technology,Laptops,3038.82,239.25,0.0,11,155.92,Delivered
+ORD-2024-11127,2024-09-21,Corporate,North America,Furniture,Chairs,1171.38,127.49,0.3,5,60.1,Delivered
+ORD-2024-11128,2024-09-11,Consumer,Europe,Furniture,Chairs,401.9,106.87,0.2,2,20.62,Cancelled
+ORD-2024-11129,2024-05-28,Consumer,Asia Pacific,Technology,Accessories,327.16,58.79,0.2,1,16.79,Delivered
+ORD-2024-11130,2024-08-01,Home Office,Asia Pacific,Office Supplies,Art,457.6,11.25,0.15,8,23.48,Delivered
+ORD-2024-11131,2024-07-27,Consumer,Europe,Furniture,Bookcases,1362.74,252.32,0.0,6,69.92,Delivered
+ORD-2024-11132,2024-10-29,Consumer,North America,Technology,Laptops,2260.99,387.11,0.2,5,116.01,Delivered
+ORD-2024-11133,2024-04-18,Corporate,North America,Technology,Accessories,2459.72,776.07,0.3,9,126.21,Delivered
+ORD-2024-11134,2024-09-22,Home Office,North America,Office Supplies,Storage,682.38,184.73,0.0,11,35.01,Delivered
+ORD-2024-11135,2024-03-02,Consumer,North America,Technology,Accessories,5281.19,917.47,0.0,11,270.97,Delivered
+ORD-2024-11136,2024-06-16,Consumer,Europe,Office Supplies,Art,85.52,1.77,0.05,2,4.39,Delivered
+ORD-2024-11137,2024-04-08,Consumer,North America,Furniture,Chairs,1343.03,322.04,0.0,10,68.91,Delivered
+ORD-2024-11138,2024-06-29,Corporate,North America,Furniture,Tables,1176.39,161.88,0.0,8,60.36,Delivered
+ORD-2024-11139,2024-02-24,Consumer,Europe,Furniture,Bookcases,2762.06,946.38,0.2,11,141.72,Shipped
+ORD-2024-11140,2024-05-31,Corporate,Latin America,Office Supplies,Appliances,492.35,-12.92,0.2,10,25.26,Delivered
+ORD-2024-11141,2024-01-25,Home Office,Europe,Technology,Phones,2991.35,-329.56,0.0,9,153.48,Delivered
+ORD-2024-11142,2024-04-01,Consumer,North America,Office Supplies,Paper,40.58,-4.67,0.05,1,2.08,Delivered
+ORD-2024-11143,2024-03-20,Consumer,North America,Furniture,Furnishings,1108.67,188.49,0.15,7,56.89,Cancelled
+ORD-2024-11144,2024-08-26,Consumer,Latin America,Technology,Accessories,3261.74,1042.55,0.1,8,167.36,Cancelled
+ORD-2024-11145,2024-10-04,Consumer,North America,Office Supplies,Storage,134.13,-19.99,0.0,3,6.88,Shipped
+ORD-2024-11146,2024-07-29,Home Office,North America,Office Supplies,Appliances,247.64,52.72,0.1,4,12.71,Delivered
+ORD-2024-11147,2024-10-14,Consumer,Europe,Office Supplies,Art,159.12,28.41,0.2,3,8.16,Delivered
+ORD-2024-11148,2024-07-26,Consumer,Europe,Office Supplies,Paper,395.15,85.41,0.2,7,20.27,Delivered
+ORD-2024-11149,2024-07-28,Corporate,Europe,Office Supplies,Appliances,366.49,10.15,0.0,9,18.8,Delivered
+ORD-2024-11150,2024-04-30,Consumer,North America,Office Supplies,Binders,101.98,26.54,0.0,3,5.23,Delivered
+ORD-2024-11151,2024-12-19,Corporate,North America,Office Supplies,Binders,281.2,-35.89,0.2,6,14.43,Shipped
+ORD-2024-11152,2024-09-12,Consumer,Latin America,Office Supplies,Paper,331.27,,0.0,8,17.0,Processing
+ORD-2024-11153,2024-09-23,Home Office,North America,Office Supplies,Art,227.19,-3.74,0.1,6,11.66,Shipped
+ORD-2024-11154,2024-09-07,Home Office,Europe,Furniture,Chairs,492.07,43.51,0.0,2,25.25,Delivered
+ORD-2024-11155,2024-12-16,Corporate,Asia Pacific,Office Supplies,Storage,318.4,83.2,0.0,7,16.34,Delivered
+ORD-2024-11156,2024-01-15,Home Office,Europe,Technology,Phones,575.61,-8.24,0.05,2,29.53,Delivered
+ORD-2024-11157,2024-08-27,Consumer,North America,Office Supplies,Art,75.51,-4.33,0.0,2,3.87,Delivered
+ORD-2024-11158,2024-03-29,Consumer,North America,Office Supplies,Storage,80.68,15.38,0.2,2,4.14,Shipped
+ORD-2024-11159,2024-06-11,Corporate,Europe,Technology,Printers,5388.16,628.78,0.0,11,276.46,Delivered
+ORD-2024-11160,2024-04-04,Corporate,Asia Pacific,Office Supplies,Binders,39.94,4.28,0.2,1,2.05,Delivered
+ORD-2024-11161,2024-06-12,Consumer,Latin America,Technology,Laptops,3581.12,-77.41,0.2,11,183.75,Delivered
+ORD-2024-11162,2024-07-13,Consumer,North America,Technology,Accessories,406.54,-53.89,0.0,1,20.86,Delivered
+ORD-2024-11163,2024-03-11,Consumer,North America,Office Supplies,Paper,285.32,15.73,0.1,7,14.64,Shipped
+ORD-2024-11164,2024-07-02,Consumer,  Latin America  ,Technology,Laptops,1489.36,-144.05,0.0,5,76.42,Delivered
+ORD-2024-11165,2024-01-29,Consumer,Asia Pacific,Office Supplies,Appliances,401.47,121.64,0.15,11,20.6,Shipped
+ORD-2024-11166,2024-04-09,Corporate,Asia Pacific,Office Supplies,Storage,124.05,-16.05,0.05,3,6.36,Delivered
+ORD-2024-11167,2024-03-09,Consumer,North America,Furniture,Bookcases,139.35,9.17,0.0,1,7.15,Delivered
+ORD-2024-11168,2024-10-21,Consumer,Europe,Technology,Laptops,2745.25,-340.07,0.05,11,140.86,Shipped
+ORD-2024-11169,2024-09-27,Corporate,Asia Pacific,Technology,Phones,4421.37,-451.99,0.1,10,226.86,Delivered
+ORD-2024-11170,2024-01-04,Corporate,Europe,Furniture,Furnishings,860.25,154.36,0.2,6,44.14,Cancelled
+ORD-2024-11171,2024-11-11,Home Office,Europe,Office Supplies,Appliances,615.38,106.8,0.0,11,31.57,Delivered
+ORD-2024-11172,2024-01-11,Corporate,North America,Furniture,Chairs,226.49,-30.23,0.05,1,11.62,Delivered
+ORD-2024-11173,2024-05-15,Consumer,Europe,Technology,Printers,3391.11,-506.75,0.0,9,174.0,Delivered
+ORD-2024-11174,2024-05-13,Home Office,North America,Furniture,Furnishings,330.04,-36.5,0.15,2,16.93,Processing
+ORD-2024-11175,2024-07-17,Corporate,Europe,Furniture,Tables,144.27,33.4,0.0,1,7.4,Delivered
+ORD-2024-11176,2024-06-29,Consumer,Latin America,Office Supplies,Binders,382.97,54.49,0.1,7,19.65,Shipped
+ORD-2024-11177,2024-03-10,Corporate,North America,Technology,Laptops,2354.04,-308.24,0.0,6,120.78,Delivered
+ORD-2024-11178,2024-04-14,Home Office,Asia Pacific,Office Supplies,Binders,312.88,29.43,0.05,6,16.05,Delivered
+ORD-2024-11179,2024-12-01,Consumer,North America,Furniture,Tables,635.46,130.91,0.15,5,32.61,Delivered
+ORD-2024-11180,2024-10-27,Consumer,Europe,Office Supplies,Art,667.88,190.0,0.15,11,34.27,Delivered
+ORD-2024-11181,2024-12-16,Consumer,Latin America,Technology,Phones,1044.96,331.27,0.15,4,53.62,Delivered
+ORD-2024-11182,2024-10-03,Consumer,North America,Furniture,Tables,1894.39,25.99,0.05,11,97.2,Processing
+ORD-2024-11183,2024-06-09,Consumer,North America,Office Supplies,Paper,176.74,-14.51,0.2,4,9.07,Delivered
+ORD-2024-11184,2024-01-23,Corporate,Europe,Technology,Laptops,736.0,-23.21,0.05,3,37.76,Delivered
+ORD-2024-11185,2024-02-29,Consumer,North America,Office Supplies,Appliances,471.58,112.28,0.2,10,24.2,Delivered
+ORD-2024-11186,2024-01-09,Home Office,Asia Pacific,Office Supplies,Paper,441.71,148.3,0.05,8,22.66,Delivered
+ORD-2024-11187,2024-08-02,Corporate,Latin America,Technology,Printers,3126.91,260.15,0.05,7,160.44,Delivered
+ORD-2024-11188,2024-11-06,Corporate,Europe,Technology,Accessories,4144.07,11.09,0.0,9,212.63,Delivered
+ORD-2024-11189,2024-01-05,Home Office,  North America  ,Office Supplies,Storage,46.86,3.03,0.05,1,2.4,Delivered
+ORD-2024-11190,2024-09-01,Consumer,Europe,Technology,Accessories,2796.54,6.73,0.0,7,143.49,Delivered
+ORD-2024-11191,2024-10-12,Consumer,Asia Pacific,Furniture,Bookcases,1360.19,-29.59,0.2,10,69.79,Delivered
+ORD-2024-11192,2024-10-21,Corporate,North America,Technology,Laptops,1458.28,214.19,0.1,4,74.82,Delivered
+ORD-2024-11193,2024-11-30,Home Office,Europe,Furniture,Furnishings,1018.55,-144.77,0.3,7,52.26,Delivered
+ORD-2024-11194,2024-03-10,Corporate,Europe,Technology,Accessories,335.56,-6.79,0.0,1,17.22,Delivered
+ORD-2024-11195,2024-10-19,Consumer,Europe,Office Supplies,Appliances,209.37,37.83,0.0,5,10.74,Delivered
+ORD-2024-11196,2024-08-05,Home Office,North America,Office Supplies,Binders,134.52,-18.02,0.2,3,6.9,Processing
+ORD-2024-11197,2024-10-26,Consumer,Asia Pacific,Office Supplies,Art,247.53,-26.83,0.0,5,12.7,Processing
+ORD-2024-11198,2024-06-23,Home Office,North America,Office Supplies,Appliances,239.76,-0.79,0.05,4,12.3,Shipped
+ORD-2024-11199,2024-07-05,Home Office,North America,Technology,Printers,683.3,197.41,0.2,2,35.06,Delivered
+ORD-2024-10000,2024-11-28,Home Office,Asia Pacific,Furniture,Chairs,704.57,239.95,0.15,3,36.15,Delivered
+ORD-2024-10001,2024-12-27,Corporate,Asia Pacific,Office Supplies,Art,245.49,56.34,0.0,6,12.6,Shipped
+ORD-2024-10002,2024-07-14,,Europe,Office Supplies,Appliances,413.37,,0.05,11,21.21,Delivered
+ORD-2024-10003,2024-03-05,Consumer,North America,Furniture,Bookcases,1547.03,266.11,0.0,11,79.38,Delivered
+ORD-2024-10004,2024-04-22,Consumer,Europe,Technology,Phones,2771.88,-274.11,0.1,7,142.22,Delivered
+ORD-2024-10005,2024-01-15,Consumer,Europe,Technology,Laptops,707.49,192.62,0.1,2,36.3,Delivered
+ORD-2024-10006,2024-11-23,Consumer,North America,Technology,Accessories,873.19,123.28,0.2,3,44.8,Processing
+ORD-2024-10007,2024-02-10,Consumer,Europe,Office Supplies,Storage,208.3,71.45,0.05,4,10.69,Delivered

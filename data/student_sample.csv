@@ -1,0 +1,801 @@
+Student_ID,Department,Gender,Study_Hours_Per_Week,Attendance_Pct,Internal_Marks,Exam_Score,Grade,Placement_Status
+STU-2024000,Computer Science,Female,15.2,88.2,52.7,60.8,C,Seeking
+STU-2024001,Data Science,Female,14.1,66.2,38.6,41.3,F,Seeking
+STU-2024002,Electronics,Male,29.4,81.7,71.5,63.3,C,Seeking
+STU-2024003,Computer Science,Male,120.0,46.0,43.1,33.5,F,Seeking
+STU-2024004,Electronics,Male,17.8,62.2,50.9,42.9,F,Seeking
+STU-2024005,Electronics,Male,19.7,99.2,72.8,71.9,C,Placed
+STU-2024006,Business Analytics,Female,33.6,74.8,67.4,55.3,D,Seeking
+STU-2024007,Electronics,Male,31.0,72.6,65.3,61.5,C,Seeking
+STU-2024008,Business Analytics,Male,25.7,79.5,58.4,52.4,D,Seeking
+STU-2024009,Data Science,Male,35.1,69.2,69.3,48.3,F,Seeking
+STU-2024010,Data Science,Male,12.3,88.8,53.6,45.8,F,Seeking
+STU-2024011,Data Science,Female,21.9,66.2,55.8,46.7,F,Seeking
+STU-2024012,Business Analytics,Male,18.5,91.3,66.9,66.3,C,Seeking
+STU-2024013,Business Analytics,Female,7.4,73.8,40.9,38.6,F,Seeking
+STU-2024014,Data Science,Female,20.8,75.3,55.1,54.5,D,Seeking
+STU-2024015,Business Analytics,Female,15.1,57.0,35.5,35.5,F,Seeking
+STU-2024016,Mechanical,Male,27.2,95.6,75.2,69.9,C,Placed
+STU-2024017,Mechanical,Female,15.6,79.2,49.6,46.8,F,Seeking
+STU-2024018,Business Analytics,Male,15.3,61.5,47.4,43.2,F,Seeking
+STU-2024019,Business Analytics,Female,27.2,90.7,66.8,66.2,C,Seeking
+STU-2024020,Computer Science,Male,17.6,65.6,53.4,46.3,F,Seeking
+STU-2024021,Computer Science,Female,25.0,87.3,66.9,56.5,D,Seeking
+STU-2024022,Electronics,Male,20.5,79.4,61.3,43.6,F,Seeking
+STU-2024023,Electronics,Male,20.6,76.9,57.4,55.0,D,Seeking
+STU-2024024,Electronics,Female,16.5,80.5,47.4,43.2,F,Seeking
+STU-2024025,Data Science,Female,21.0,83.2,56.7,50.2,D,Seeking
+STU-2024026,Mechanical,Male,17.2,59.6,38.1,30.5,F,Seeking
+STU-2024027,Data Science,Male,13.2,63.9,42.3,38.9,F,Seeking
+STU-2024028,Business Analytics,Male,17.4,81.2,46.0,59.9,D,Seeking
+STU-2024029,Computer Science,Female,25.7,68.3,59.6,52.4,D,Seeking
+STU-2024030,Business Analytics,Male,21.2,92.3,44.3,46.0,F,Seeking
+STU-2024031,Business Analytics,Female,22.6,92.5,68.2,59.1,D,Seeking
+STU-2024032,Computer Science,Male,18.0,94.2,53.8,46.5,F,Seeking
+STU-2024033,Business Analytics,Male,6.4,98.7,42.4,44.0,F,Seeking
+STU-2024034,Electronics,Female,10.7,61.5,44.3,32.9,F,Seeking
+STU-2024035,Computer Science,Male,16.3,78.3,52.5,51.4,D,Seeking
+STU-2024036,Business Analytics,Male,11.2,95.9,56.0,59.5,D,Seeking
+STU-2024037,Electronics,Male,14.9,53.1,34.1,33.4,F,Seeking
+STU-2024038,Electronics,Female,14.6,92.8,59.4,59.8,D,Seeking
+STU-2024039,Mechanical,Female,14.8,97.1,55.9,52.5,D,Seeking
+STU-2024040,Electronics,Male,26.6,95.6,70.7,57.1,D,Seeking
+STU-2024041,Data Science,Female,17.7,92.9,65.9,53.9,D,Seeking
+STU-2024042,Computer Science,Female,23.6,70.2,50.6,39.2,F,Seeking
+STU-2024043,Computer Science,Other,19.0,56.6,50.0,44.1,F,Seeking
+STU-2024044,Computer Science,Female,26.5,77.9,64.9,67.9,C,Seeking
+STU-2024045,Business Analytics,Other,24.1,84.7,61.7,50.0,D,Seeking
+STU-2024046,Business Analytics,Female,14.5,72.1,40.8,40.0,F,Seeking
+STU-2024047,Data Science,Female,29.8,55.3,56.8,46.2,F,Seeking
+STU-2024048,Electronics,Male,15.3,87.2,49.1,49.0,F,Seeking
+STU-2024049,Business Analytics,Male,19.2,72.5,58.0,52.7,D,Seeking
+STU-2024050,Electronics,Male,20.3,75.4,55.0,46.7,F,Seeking
+STU-2024051,Electronics,Male,20.9,94.1,59.3,53.8,D,Seeking
+STU-2024052,Business Analytics,Male,22.8,82.6,53.2,50.3,D,Seeking
+STU-2024053,Business Analytics,Female,13.5,89.1,49.5,53.4,D,Seeking
+STU-2024054,Data Science,Female,22.3,77.6,64.0,63.0,C,Seeking
+STU-2024055,Mechanical,Female,21.5,92.7,63.4,61.8,C,Seeking
+STU-2024056,Computer Science,Male,18.0,56.9,43.5,37.3,F,Seeking
+STU-2024057,Business Analytics,Female,16.9,83.7,62.3,61.2,C,Seeking
+STU-2024058,Business Analytics,Female,13.2,82.4,46.7,54.1,D,Seeking
+STU-2024059,Electronics,Female,20.9,84.7,54.9,51.0,D,Seeking
+STU-2024060,Mechanical,Female,14.0,95.7,57.1,56.4,D,Seeking
+STU-2024061,Business Analytics,Female,19.4,80.2,57.5,50.2,D,Seeking
+STU-2024062,Mechanical,Male,17.4,84.9,51.9,56.3,D,Seeking
+STU-2024063,Computer Science,Female,10.0,88.3,43.3,48.6,F,Seeking
+STU-2024064,Electronics,Male,12.4,75.6,52.4,40.4,F,Seeking
+STU-2024065,Data Science,Male,20.4,91.0,58.7,59.1,D,Seeking
+STU-2024066,Computer Science,Female,14.9,86.0,45.0,57.2,D,Seeking
+STU-2024067,Mechanical,Male,14.6,62.5,43.5,49.9,F,Seeking
+STU-2024068,Mechanical,Female,13.4,92.6,57.6,53.7,D,Seeking
+STU-2024069,Computer Science,Male,13.6,96.9,54.1,51.9,D,Seeking
+STU-2024070,Mechanical,Other,27.9,88.4,71.5,73.7,C,Seeking
+STU-2024071,Data Science,Male,11.3,74.3,38.0,50.7,D,Seeking
+STU-2024072,Data Science,Male,26.8,87.9,70.5,64.4,C,Seeking
+STU-2024073,Mechanical,Female,16.0,76.1,44.9,35.0,F,Seeking
+STU-2024074,Mechanical,Female,14.1,82.7,51.5,46.9,F,Seeking
+STU-2024075,Data Science,Male,20.3,74.9,58.2,45.0,F,Seeking
+STU-2024076,Mechanical,Female,18.3,46.0,40.9,45.1,F,Seeking
+STU-2024077,Business Analytics,Female,16.8,79.8,45.9,37.7,F,Seeking
+STU-2024078,Electronics,Female,19.3,96.4,55.8,67.6,C,Seeking
+STU-2024079,Business Analytics,Male,18.2,70.2,57.9,49.4,F,Seeking
+STU-2024080,Mechanical,Female,,89.3,51.9,45.6,F,Seeking
+STU-2024081,Mechanical,Male,23.6,85.5,66.3,64.7,C,Seeking
+STU-2024082,Electronics,Female,9.3,89.9,47.7,54.6,D,Seeking
+STU-2024083,Mechanical,Female,12.5,94.5,47.8,44.7,F,Seeking
+STU-2024084,Electronics,Male,13.3,80.9,45.7,47.0,F,Seeking
+STU-2024085,Data Science,Female,11.7,73.9,52.1,56.5,D,Seeking
+STU-2024086,Electronics,Male,18.5,83.3,73.0,59.0,D,Seeking
+STU-2024087,Electronics,Female,21.0,90.1,59.7,67.0,C,Seeking
+STU-2024088,Business Analytics,Female,6.2,50.7,25.8,25.0,F,Seeking
+STU-2024089,Mechanical,Female,15.2,71.7,38.7,31.1,F,Seeking
+STU-2024090,Data Science,Male,16.1,89.5,46.9,50.6,D,Seeking
+STU-2024091,Computer Science,Male,16.3,89.1,50.9,43.4,F,Seeking
+STU-2024092,Electronics,Male,10.3,74.2,39.8,42.9,F,Seeking
+STU-2024093,Computer Science,Female,16.1,64.9,45.2,42.1,F,Seeking
+STU-2024094,Mechanical,Male,12.5,87.2,53.3,48.3,F,Seeking
+STU-2024095,Electronics,Male,16.0,72.5,49.3,57.7,D,Seeking
+STU-2024096,Computer Science,Male,7.7,78.1,44.0,45.4,F,Seeking
+STU-2024097,Business Analytics,Male,16.0,96.9,54.9,61.7,C,Seeking
+STU-2024098,Computer Science,Male,13.7,96.8,54.8,62.0,C,Seeking
+STU-2024099,Business Analytics,Female,16.4,80.1,49.9,59.5,D,Seeking
+STU-2024100,Data Science,Male,19.8,88.2,52.7,45.6,F,Seeking
+STU-2024101,Mechanical,Female,17.7,86.7,46.0,38.5,F,Seeking
+STU-2024102,Computer Science,Male,22.8,65.2,50.1,55.0,D,Seeking
+STU-2024103,Electronics,Female,15.8,72.8,35.7,43.2,F,Seeking
+STU-2024104,Mechanical,Female,21.7,72.4,49.3,47.1,F,Seeking
+STU-2024105,Computer Science,Female,24.7,81.6,65.0,56.2,D,Seeking
+STU-2024106,Electronics,Female,19.6,73.7,53.9,47.2,F,Seeking
+STU-2024107,Electronics,Female,17.9,86.6,56.2,59.2,D,Seeking
+STU-2024108,Electronics,Male,20.5,65.1,56.5,39.1,F,Seeking
+STU-2024109,Electronics,Male,19.9,85.5,54.4,55.7,D,Seeking
+STU-2024110,Computer Science,Male,24.0,71.6,60.8,58.1,D,Seeking
+STU-2024111,Data Science,Male,22.8,56.4,45.9,44.3,F,Seeking
+STU-2024112,Business Analytics,Female,22.8,81.9,61.5,54.9,D,Seeking
+STU-2024113,Business Analytics,Male,18.3,,46.1,40.6,F,Seeking
+STU-2024114,Business Analytics,Female,,92.4,62.0,66.4,C,Seeking
+STU-2024115,Data Science,Male,19.9,96.3,60.5,62.6,C,Seeking
+STU-2024116,Electronics,Female,10.8,92.9,51.7,64.3,C,Seeking
+STU-2024117,Electronics,Female,24.4,85.6,65.5,48.0,F,Seeking
+STU-2024118,Mechanical,Female,8.0,70.8,30.8,42.1,F,Seeking
+STU-2024119,Business Analytics,Female,,96.8,69.7,59.0,D,Seeking
+STU-2024120,Business Analytics,Female,19.6,73.7,46.8,45.1,F,Seeking
+STU-2024121,Electronics,Female,16.3,88.2,50.5,60.0,C,Seeking
+STU-2024122,Business Analytics,Male,20.3,84.1,59.2,48.8,F,Seeking
+STU-2024123,Electronics,Male,20.5,91.4,64.1,72.2,C,Placed
+STU-2024124,Electronics,Female,10.2,69.5,41.1,48.0,F,Seeking
+STU-2024125,Electronics,Female,26.5,74.5,63.2,57.4,D,Seeking
+STU-2024126,Computer Science,Male,18.4,68.1,43.6,36.6,F,Seeking
+STU-2024127,Computer Science,Female,31.9,82.3,68.6,57.9,D,Seeking
+STU-2024128,Computer Science,Male,22.7,62.9,42.1,37.8,F,Seeking
+STU-2024129,Computer Science,Female,18.3,94.4,55.1,48.5,F,Seeking
+STU-2024130,Data Science,Male,13.9,81.0,42.4,52.1,D,Seeking
+STU-2024131,Mechanical,Male,17.3,86.3,55.3,51.1,D,Seeking
+STU-2024132,Mechanical,Male,18.9,79.2,66.1,55.8,D,Seeking
+STU-2024133,Electronics,Male,26.8,,73.4,64.0,C,Seeking
+STU-2024134,Business Analytics,Female,25.4,41.9,36.0,29.3,F,Seeking
+STU-2024135,Computer Science,Female,20.7,61.6,41.9,42.6,F,Seeking
+STU-2024136,Mechanical,Male,28.6,92.6,64.9,56.5,D,Seeking
+STU-2024137,Mechanical,Male,5.9,85.9,32.7,48.2,F,Seeking
+STU-2024138,Computer Science,Female,20.8,94.2,61.2,55.3,D,Seeking
+STU-2024139,Data Science,Male,25.5,85.0,65.7,58.2,D,Seeking
+STU-2024140,Data Science,Female,21.3,83.5,52.5,43.5,F,Seeking
+STU-2024141,Mechanical,Female,10.0,83.2,44.2,53.5,D,Seeking
+STU-2024142,Data Science,Male,26.3,76.6,63.3,62.6,C,Seeking
+STU-2024143,Computer Science,Female,22.6,77.3,61.5,58.2,D,Seeking
+STU-2024144,Mechanical,Male,20.1,79.1,56.5,53.0,D,Seeking
+STU-2024145,Computer Science,Female,18.5,78.8,55.4,51.1,D,Seeking
+STU-2024146,Data Science,Female,30.0,65.2,61.9,41.1,F,Seeking
+STU-2024147,Computer Science,Male,20.7,87.3,54.7,45.4,F,Seeking
+STU-2024148,Data Science,Male,16.5,83.4,49.2,54.1,D,Seeking
+STU-2024149,Data Science,Female,13.1,65.0,35.1,36.0,F,Seeking
+STU-2024150,Computer Science,Female,22.5,85.3,68.6,51.7,D,Seeking
+STU-2024151,Data Science,Female,23.9,83.5,54.7,44.0,F,Seeking
+STU-2024152,Electronics,Female,18.3,65.6,53.0,50.0,D,Seeking
+STU-2024153,Computer Science,Male,14.7,82.9,43.5,51.9,D,Seeking
+STU-2024154,Electronics,Male,26.0,62.4,60.0,39.5,F,Seeking
+STU-2024155,Computer Science,Female,12.7,74.6,49.9,48.2,F,Seeking
+STU-2024156,Data Science,Female,29.8,87.7,76.6,66.9,C,Seeking
+STU-2024157,Data Science,Male,13.6,72.1,40.0,38.1,F,Seeking
+STU-2024158,Mechanical,Male,10.3,68.2,40.5,48.1,F,Seeking
+STU-2024159,Mechanical,Male,11.1,67.5,37.3,36.8,F,Seeking
+STU-2024160,Electronics,Male,11.3,79.1,40.8,33.8,F,Seeking
+STU-2024161,Data Science,Female,16.6,81.0,52.5,49.4,F,Seeking
+STU-2024162,Mechanical,Male,15.2,75.4,52.5,57.1,D,Seeking
+STU-2024163,Data Science,Other,24.1,75.4,56.1,48.6,F,Seeking
+STU-2024164,Computer Science,Male,23.3,80.3,61.7,48.7,F,Seeking
+STU-2024165,Mechanical,Female,16.7,66.6,42.1,44.8,F,Seeking
+STU-2024166,Electronics,Female,36.6,88.4,74.1,65.1,C,Seeking
+STU-2024167,Mechanical,Female,16.6,,50.3,49.2,F,Seeking
+STU-2024168,Data Science,Male,17.4,65.5,45.8,45.4,F,Seeking
+STU-2024169,Business Analytics,Female,10.3,77.2,46.6,42.3,F,Seeking
+STU-2024170,Business Analytics,Female,17.5,64.5,40.5,36.0,F,Seeking
+STU-2024171,Data Science,Male,19.8,92.6,71.6,67.9,C,Seeking
+STU-2024172,Computer Science,Female,10.9,,38.6,39.3,F,Seeking
+STU-2024173,Mechanical,Female,15.0,56.6,41.8,47.6,F,Seeking
+STU-2024174,Business Analytics,Female,20.0,82.0,55.4,59.7,D,Seeking
+STU-2024175,Computer Science,Female,14.9,80.0,46.6,40.4,F,Seeking
+STU-2024176,Data Science,Female,13.6,81.6,48.1,57.4,D,Seeking
+STU-2024177,Computer Science,Male,22.7,86.1,65.0,59.2,D,Seeking
+STU-2024178,Data Science,Male,10.3,88.8,52.0,60.9,C,Seeking
+STU-2024179,Mechanical,Female,11.5,66.3,39.2,40.3,F,Seeking
+STU-2024180,Computer Science,Female,19.1,77.7,55.7,50.1,D,Seeking
+STU-2024181,Mechanical,Male,23.1,87.4,56.0,52.5,D,Seeking
+STU-2024182,Computer Science,Female,19.8,98.1,62.1,45.8,F,Seeking
+STU-2024183,Data Science,Female,16.7,87.1,56.9,60.1,C,Seeking
+STU-2024184,Data Science,Male,16.2,97.0,46.8,48.3,F,Seeking
+STU-2024185,Computer Science,Female,24.1,90.7,65.6,65.8,C,Seeking
+STU-2024186,Data Science,Female,23.2,85.1,61.0,66.1,C,Seeking
+STU-2024187,Electronics,Female,18.3,59.6,52.1,40.5,F,Seeking
+STU-2024188,Electronics,Male,16.3,84.5,54.2,48.6,F,Seeking
+STU-2024189,Mechanical,Female,18.2,90.6,60.5,63.5,C,Seeking
+STU-2024190,Electronics,Female,13.6,71.5,43.6,40.4,F,Seeking
+STU-2024191,Electronics,Female,17.1,90.2,59.8,64.9,C,Seeking
+STU-2024192,Business Analytics,Male,15.1,72.8,50.1,42.7,F,Seeking
+STU-2024193,Business Analytics,Female,17.4,51.7,35.0,41.6,F,Seeking
+STU-2024194,Business Analytics,Female,,72.2,48.8,44.2,F,Seeking
+STU-2024195,Business Analytics,Male,21.1,74.1,60.9,54.7,D,Seeking
+STU-2024196,Data Science,Male,22.9,94.3,70.1,69.2,C,Placed
+STU-2024197,Mechanical,Female,15.7,94.2,56.7,59.7,D,Seeking
+STU-2024198,Mechanical,Female,13.1,76.5,47.9,53.3,D,Seeking
+STU-2024199,Electronics,Male,22.3,80.7,63.6,47.3,F,Seeking
+STU-2024200,Mechanical,Male,19.1,96.4,55.8,54.4,D,Seeking
+STU-2024201,Electronics,Female,15.8,82.7,54.4,52.4,D,Seeking
+STU-2024202,Mechanical,Female,26.3,81.1,54.1,46.8,F,Seeking
+STU-2024203,Computer Science,Female,14.6,73.7,51.3,53.6,D,Seeking
+STU-2024204,Computer Science,Female,6.0,85.5,39.5,42.3,F,Seeking
+STU-2024205,Mechanical,Male,13.8,76.1,46.6,41.5,F,Seeking
+STU-2024206,Data Science,Female,27.7,94.2,68.1,68.0,C,Placed
+STU-2024207,Electronics,Male,16.1,90.3,55.2,48.4,F,Seeking
+STU-2024208,Mechanical,Male,14.9,68.0,46.4,37.6,F,Seeking
+STU-2024209,Electronics,Female,18.2,78.5,57.0,55.1,D,Seeking
+STU-2024210,Business Analytics,Female,24.1,75.4,65.6,63.5,C,Seeking
+STU-2024211,Mechanical,Male,17.5,73.5,50.6,48.3,F,Seeking
+STU-2024212,Data Science,Female,21.5,93.3,54.8,45.7,F,Seeking
+STU-2024213,Business Analytics,Male,16.9,69.6,54.6,52.3,D,Seeking
+STU-2024214,Mechanical,Other,21.6,52.7,39.6,32.1,F,Seeking
+STU-2024215,Computer Science,Female,19.1,81.5,53.4,57.9,D,Seeking
+STU-2024216,Mechanical,Female,15.6,83.6,49.7,47.7,F,Seeking
+STU-2024217,Computer Science,Female,19.5,52.5,44.5,44.9,F,Seeking
+STU-2024218,Computer Science,Male,14.7,64.0,36.9,35.1,F,Seeking
+STU-2024219,Mechanical,Male,9.7,81.0,37.5,38.9,F,Seeking
+STU-2024220,Mechanical,Male,,79.8,53.3,39.1,F,Seeking
+STU-2024221,Computer Science,Male,10.3,83.9,41.9,42.2,F,Seeking
+STU-2024222,Electronics,Female,21.6,53.8,54.2,44.3,F,Seeking
+STU-2024223,Business Analytics,Male,17.8,,47.4,45.9,F,Seeking
+STU-2024224,Data Science,Male,26.5,76.0,57.1,55.0,D,Seeking
+STU-2024225,Mechanical,Male,16.0,88.2,62.8,65.3,C,Seeking
+STU-2024226,Business Analytics,Female,17.9,82.6,56.9,53.4,D,Seeking
+STU-2024227,Business Analytics,Male,9.2,46.2,43.1,35.8,F,Seeking
+STU-2024228,Electronics,Male,11.4,96.1,42.5,56.8,D,Seeking
+STU-2024229,Business Analytics,Male,7.9,89.5,46.3,51.4,D,Seeking
+STU-2024230,Mechanical,Male,24.5,83.2,65.1,52.0,D,Seeking
+STU-2024231,Business Analytics,Male,15.2,60.8,42.7,36.5,F,Seeking
+STU-2024232,Mechanical,Male,26.0,79.5,61.2,41.7,F,Seeking
+STU-2024233,Mechanical,Male,2.0,79.2,40.3,38.3,F,Seeking
+STU-2024234,Computer Science,Male,27.3,77.3,66.0,46.0,F,Seeking
+STU-2024235,Electronics,Female,17.6,75.6,42.9,46.2,F,Seeking
+STU-2024236,Data Science,Female,20.0,52.8,40.8,43.5,F,Seeking
+STU-2024237,Computer Science,Female,11.6,72.6,37.1,34.7,F,Seeking
+STU-2024238,Data Science,Male,21.2,47.5,43.8,30.7,F,Seeking
+STU-2024239,Mechanical,Male,15.8,87.9,58.9,61.5,C,Seeking
+STU-2024240,Computer Science,Other,10.8,95.2,49.1,50.4,D,Seeking
+STU-2024241,Business Analytics,Female,10.8,87.7,46.8,51.3,D,Seeking
+STU-2024242,Business Analytics,Female,10.6,76.4,38.4,46.6,F,Seeking
+STU-2024243,Data Science,Female,20.3,54.1,49.8,36.9,F,Seeking
+STU-2024244,Mechanical,Female,14.2,96.4,61.8,55.7,D,Seeking
+STU-2024245,Data Science,Male,8.2,76.9,40.4,40.2,F,Seeking
+STU-2024246,Electronics,Female,20.2,86.7,66.8,50.1,D,Seeking
+STU-2024247,Business Analytics,Male,5.0,73.3,32.6,41.2,F,Seeking
+STU-2024248,Computer Science,Male,26.0,86.5,58.8,59.0,D,Seeking
+STU-2024249,Computer Science,Female,29.9,94.0,77.5,67.4,C,Seeking
+STU-2024250,Computer Science,Male,10.1,76.7,42.3,52.3,D,Seeking
+STU-2024251,Business Analytics,Female,24.3,83.4,59.6,53.3,D,Seeking
+STU-2024252,Mechanical,Female,20.1,95.0,62.5,63.5,C,Seeking
+STU-2024253,Business Analytics,Male,15.0,57.4,33.0,36.6,F,Seeking
+STU-2024254,Business Analytics,Male,15.3,40.0,25.6,25.0,F,Seeking
+STU-2024255,Computer Science,Female,21.9,78.0,57.9,59.3,D,Seeking
+STU-2024256,Business Analytics,Female,17.8,75.5,53.7,50.3,D,Seeking
+STU-2024257,Computer Science,Female,2.4,90.7,46.1,56.1,D,Seeking
+STU-2024258,Mechanical,Female,30.4,,69.7,48.6,F,Seeking
+STU-2024259,Electronics,Other,20.6,88.4,63.3,58.8,D,Seeking
+STU-2024260,Computer Science,Male,17.7,61.8,52.3,41.9,F,Seeking
+STU-2024261,Data Science,Female,13.7,73.2,48.2,41.0,F,Seeking
+STU-2024262,Electronics,Male,16.9,88.4,53.9,61.9,C,Seeking
+STU-2024263,Mechanical,Female,25.6,90.1,71.3,63.9,C,Seeking
+STU-2024264,Electronics,Female,19.6,89.8,63.8,50.0,D,Seeking
+STU-2024265,Computer Science,Male,20.3,95.0,62.3,56.7,D,Seeking
+STU-2024266,Mechanical,Male,10.5,82.5,39.6,50.2,D,Seeking
+STU-2024267,Data Science,Male,15.9,81.8,42.9,40.9,F,Seeking
+STU-2024268,Computer Science,Male,18.3,90.8,62.5,52.8,D,Seeking
+STU-2024269,Computer Science,Male,22.2,77.3,60.0,52.3,D,Seeking
+STU-2024270,Mechanical,Female,15.5,68.4,49.1,47.9,F,Seeking
+STU-2024271,Mechanical,Male,23.6,74.7,62.6,49.3,F,Seeking
+STU-2024272,Electronics,Other,11.1,80.4,41.0,47.0,F,Seeking
+STU-2024273,Data Science,Female,18.4,95.1,50.7,54.1,D,Seeking
+STU-2024274,Electronics,Male,17.4,40.0,39.5,32.7,F,Seeking
+STU-2024275,Electronics,Male,8.9,77.8,47.8,32.8,F,Seeking
+STU-2024276,Computer Science,Female,17.7,43.6,40.4,33.4,F,Seeking
+STU-2024277,Mechanical,Male,14.5,51.3,30.5,29.1,F,Seeking
+STU-2024278,Computer Science,Female,26.5,70.4,61.2,54.1,D,Seeking
+STU-2024279,Data Science,Male,15.5,89.9,48.9,47.5,F,Seeking
+STU-2024280,Electronics,Female,20.1,81.4,49.0,46.7,F,Seeking
+STU-2024281,Data Science,Male,10.6,77.5,43.7,48.3,F,Seeking
+STU-2024282,Mechanical,Female,19.4,95.9,62.5,68.7,C,Placed
+STU-2024283,Mechanical,Female,15.5,74.8,48.0,38.5,F,Seeking
+STU-2024284,Business Analytics,Female,13.3,68.6,45.6,46.5,F,Seeking
+STU-2024285,Data Science,Male,35.0,88.7,73.5,70.7,C,Seeking
+STU-2024286,Computer Science,Male,15.9,72.8,48.6,50.3,D,Seeking
+STU-2024287,Data Science,Male,16.7,88.2,52.9,59.8,D,Seeking
+STU-2024288,Electronics,Male,23.4,60.5,51.0,40.4,F,Seeking
+STU-2024289,Mechanical,Female,13.4,,53.8,61.6,C,Seeking
+STU-2024290,Mechanical,Female,20.4,,67.4,57.6,D,Seeking
+STU-2024291,Data Science,Male,21.1,73.7,56.3,50.6,D,Seeking
+STU-2024292,Data Science,Female,19.5,72.2,55.4,46.3,F,Seeking
+STU-2024293,Data Science,Other,31.8,98.5,77.6,65.6,C,Seeking
+STU-2024294,Electronics,Male,13.2,80.8,50.6,39.2,F,Seeking
+STU-2024295,Electronics,Female,27.2,80.6,70.0,47.3,F,Seeking
+STU-2024296,Computer Science,Female,20.8,83.0,67.6,65.8,C,Seeking
+STU-2024297,Data Science,Male,23.5,89.0,69.9,50.9,D,Seeking
+STU-2024298,Computer Science,Female,20.0,94.7,61.6,60.7,C,Seeking
+STU-2024299,Business Analytics,Female,29.3,79.9,72.8,52.6,D,Seeking
+STU-2024300,Electronics,Female,,77.3,53.0,44.6,F,Seeking
+STU-2024301,Mechanical,Male,21.0,64.2,47.8,47.3,F,Seeking
+STU-2024302,Business Analytics,Male,25.8,88.4,69.1,62.0,C,Seeking
+STU-2024303,Mechanical,Female,14.6,78.3,43.2,44.3,F,Seeking
+STU-2024304,Business Analytics,Female,24.0,41.3,48.1,43.3,F,Seeking
+STU-2024305,Computer Science,Female,17.9,93.9,67.8,60.3,C,Seeking
+STU-2024306,Computer Science,Male,10.6,80.4,49.0,56.0,D,Seeking
+STU-2024307,Electronics,Female,9.3,75.4,47.3,39.9,F,Seeking
+STU-2024308,Mechanical,Female,17.5,88.1,54.3,46.4,F,Seeking
+STU-2024309,Business Analytics,Male,23.9,87.9,66.2,58.6,D,Seeking
+STU-2024310,Data Science,Male,5.5,89.8,46.0,50.0,D,Seeking
+STU-2024311,Data Science,Other,19.2,45.1,39.6,28.2,F,Seeking
+STU-2024312,Electronics,Male,23.4,72.9,60.7,50.6,D,Seeking
+STU-2024313,Mechanical,Female,10.3,46.6,33.3,38.8,F,Seeking
+STU-2024314,Data Science,Female,14.2,56.7,43.2,36.2,F,Seeking
+STU-2024315,Electronics,Female,21.4,82.0,53.3,39.6,F,Seeking
+STU-2024316,Electronics,Female,23.1,82.9,67.3,48.1,F,Seeking
+STU-2024317,Mechanical,Male,27.6,63.9,60.9,62.1,C,Seeking
+STU-2024318,Data Science,Male,14.5,96.9,55.6,65.6,C,Seeking
+STU-2024319,Data Science,Male,13.1,64.4,41.0,37.2,F,Seeking
+STU-2024320,Data Science,Female,27.9,55.9,55.6,49.4,F,Seeking
+STU-2024321,Computer Science,Male,13.5,75.1,42.1,45.1,F,Seeking
+STU-2024322,Data Science,Male,21.0,66.5,57.7,56.4,D,Seeking
+STU-2024323,Business Analytics,Female,31.1,80.2,74.2,54.7,D,Seeking
+STU-2024324,Computer Science,Male,22.5,64.6,58.0,42.1,F,Seeking
+STU-2024325,Computer Science,Female,22.7,74.3,64.5,62.5,C,Seeking
+STU-2024326,Computer Science,Female,25.7,48.7,51.3,31.3,F,Seeking
+STU-2024327,Computer Science,Male,21.1,77.5,48.0,47.7,F,Seeking
+STU-2024328,Electronics,Male,22.7,69.1,58.0,49.5,F,Seeking
+STU-2024329,Business Analytics,Female,15.9,,50.3,51.1,D,Seeking
+STU-2024330,Mechanical,Female,25.0,70.0,65.8,54.7,D,Seeking
+STU-2024331,Data Science,Other,20.5,65.8,56.3,47.1,F,Seeking
+STU-2024332,Computer Science,Male,9.1,84.7,45.5,45.9,F,Seeking
+STU-2024333,Mechanical,Male,19.5,84.9,56.6,47.8,F,Seeking
+STU-2024334,Electronics,Female,5.0,90.8,47.3,49.9,F,Seeking
+STU-2024335,Mechanical,Female,22.3,90.2,49.6,58.9,D,Seeking
+STU-2024336,Computer Science,Female,16.6,51.1,41.6,34.4,F,Seeking
+STU-2024337,Business Analytics,Female,29.4,74.8,69.9,65.8,C,Seeking
+STU-2024338,Mechanical,Female,20.9,63.9,50.0,48.6,F,Seeking
+STU-2024339,Computer Science,Female,23.5,87.5,61.3,59.8,D,Seeking
+STU-2024340,Computer Science,Male,11.7,62.4,40.5,38.0,F,Seeking
+STU-2024341,Data Science,Female,22.1,84.2,66.9,54.9,D,Seeking
+STU-2024342,Data Science,Male,14.2,83.8,52.8,61.6,C,Seeking
+STU-2024343,Business Analytics,Female,24.5,85.1,60.1,60.3,C,Seeking
+STU-2024344,Data Science,Female,11.3,87.9,54.8,52.9,D,Seeking
+STU-2024345,Business Analytics,Female,18.7,75.8,59.8,62.8,C,Seeking
+STU-2024346,Electronics,Male,11.1,77.6,40.3,47.2,F,Seeking
+STU-2024347,Electronics,Female,18.8,84.0,70.2,51.8,D,Seeking
+STU-2024348,Data Science,Other,30.1,86.6,70.8,58.8,D,Seeking
+STU-2024349,Electronics,Male,22.3,89.0,67.1,64.6,C,Seeking
+STU-2024350,Mechanical,Male,17.8,76.3,55.5,59.7,D,Seeking
+STU-2024351,Mechanical,Female,3.2,77.4,31.3,53.0,D,Seeking
+STU-2024352,Mechanical,Male,14.8,52.0,36.3,33.9,F,Seeking
+STU-2024353,Electronics,Male,20.8,89.8,61.2,61.2,C,Seeking
+STU-2024354,Mechanical,Female,14.9,65.5,34.7,33.3,F,Seeking
+STU-2024355,Business Analytics,Male,26.6,86.8,70.7,56.1,D,Seeking
+STU-2024356,Computer Science,Male,18.4,76.7,43.3,34.5,F,Seeking
+STU-2024357,Data Science,Male,24.5,81.8,62.2,58.0,D,Seeking
+STU-2024358,Business Analytics,Male,19.2,92.5,56.7,63.7,C,Seeking
+STU-2024359,Mechanical,Male,16.3,84.0,56.1,57.9,D,Seeking
+STU-2024360,Computer Science,Male,15.2,77.2,38.1,42.7,F,Seeking
+STU-2024361,Data Science,Female,11.9,82.3,38.9,51.5,D,Seeking
+STU-2024362,Business Analytics,Male,24.6,88.3,61.9,75.1,B,Placed
+STU-2024363,Data Science,Male,15.4,73.6,50.5,42.3,F,Seeking
+STU-2024364,Electronics,Male,21.1,94.3,64.1,45.8,F,Seeking
+STU-2024365,Mechanical,Other,14.8,86.8,57.7,56.9,D,Seeking
+STU-2024366,Business Analytics,Female,11.5,69.6,42.2,48.5,F,Seeking
+STU-2024367,Business Analytics,Female,21.3,88.7,61.0,47.8,F,Seeking
+STU-2024368,Computer Science,Female,13.5,63.1,36.1,42.0,F,Seeking
+STU-2024369,Computer Science,Female,15.6,72.5,46.6,43.0,F,Seeking
+STU-2024370,Computer Science,Female,10.5,85.4,46.7,51.0,D,Seeking
+STU-2024371,Data Science,Male,,56.9,30.5,26.8,F,Seeking
+STU-2024372,Mechanical,Female,18.1,77.1,48.1,41.3,F,Seeking
+STU-2024373,Data Science,Male,16.3,86.7,56.6,47.7,F,Seeking
+STU-2024374,Mechanical,Male,22.9,84.5,62.2,60.5,C,Seeking
+STU-2024375,Business Analytics,Female,18.9,76.6,52.1,45.3,F,Seeking
+STU-2024376,Data Science,Female,36.5,85.7,75.0,64.8,C,Seeking
+STU-2024377,Data Science,Male,20.5,94.0,53.5,55.1,D,Seeking
+STU-2024378,Data Science,Male,7.6,73.5,27.6,28.8,F,Seeking
+STU-2024379,Electronics,Male,16.7,92.7,55.6,56.1,D,Seeking
+STU-2024380,Mechanical,Male,17.2,83.3,61.4,57.1,D,Seeking
+STU-2024381,Mechanical,Other,14.3,83.8,50.9,57.0,D,Seeking
+STU-2024382,Data Science,Male,18.4,93.7,64.7,69.4,C,Placed
+STU-2024383,Electronics,Male,14.1,69.3,38.8,34.1,F,Seeking
+STU-2024384,Data Science,Male,20.0,79.5,57.2,54.6,D,Seeking
+STU-2024385,Mechanical,Male,6.5,87.3,39.2,32.5,F,Seeking
+STU-2024386,Business Analytics,Female,24.9,60.0,50.2,48.2,F,Seeking
+STU-2024387,Electronics,Other,8.5,51.5,34.5,39.3,F,Seeking
+STU-2024388,Electronics,Female,16.4,88.9,54.6,37.9,F,Seeking
+STU-2024389,Data Science,Male,13.6,76.1,39.8,40.7,F,Seeking
+STU-2024390,Business Analytics,Female,19.8,92.1,61.1,52.8,D,Seeking
+STU-2024391,Mechanical,Female,16.9,82.9,49.9,47.8,F,Seeking
+STU-2024392,Computer Science,Female,19.5,71.6,44.8,40.6,F,Seeking
+STU-2024393,Mechanical,Female,24.7,73.3,54.0,48.7,F,Seeking
+STU-2024394,Mechanical,Female,22.6,74.6,67.2,61.9,C,Seeking
+STU-2024395,Business Analytics,Male,18.2,64.7,53.8,44.4,F,Seeking
+STU-2024396,Electronics,Female,20.8,78.5,46.3,40.8,F,Seeking
+STU-2024397,Mechanical,Female,29.8,50.6,55.1,41.5,F,Seeking
+STU-2024398,Electronics,Female,22.8,89.5,62.6,56.6,D,Seeking
+STU-2024399,Business Analytics,Male,16.2,,55.4,55.2,D,Seeking
+STU-2024400,Business Analytics,Female,25.7,83.7,61.0,51.8,D,Seeking
+STU-2024401,Data Science,Female,20.3,82.8,61.2,57.6,D,Seeking
+STU-2024402,Computer Science,Male,12.2,62.5,44.4,48.7,F,Seeking
+STU-2024403,Business Analytics,Male,16.9,78.5,56.9,44.4,F,Seeking
+STU-2024404,Business Analytics,Female,9.2,83.1,45.9,50.6,D,Seeking
+STU-2024405,Electronics,Female,4.3,78.2,39.5,49.0,F,Seeking
+STU-2024406,Business Analytics,Female,12.3,86.3,47.6,47.1,F,Seeking
+STU-2024407,Mechanical,Other,18.7,84.3,48.3,57.0,D,Seeking
+STU-2024408,Data Science,Female,18.8,94.9,52.5,54.4,D,Seeking
+STU-2024409,Data Science,Male,9.5,94.0,44.7,43.8,F,Seeking
+STU-2024410,Mechanical,Female,3.7,89.5,39.2,38.8,F,Seeking
+STU-2024411,Business Analytics,Male,26.8,58.6,49.2,46.9,F,Seeking
+STU-2024412,Computer Science,Female,18.6,83.2,50.0,54.1,D,Seeking
+STU-2024413,Business Analytics,Female,27.3,76.3,61.4,63.0,C,Seeking
+STU-2024414,Data Science,Female,27.0,61.6,61.4,53.2,D,Seeking
+STU-2024415,Computer Science,Female,22.4,88.9,64.1,58.1,D,Seeking
+STU-2024416,Electronics,Female,,94.1,55.4,58.8,D,Seeking
+STU-2024417,Electronics,Male,15.6,77.0,49.8,48.4,F,Seeking
+STU-2024418,Business Analytics,Other,22.3,86.9,54.9,51.5,D,Seeking
+STU-2024419,Business Analytics,Female,17.0,97.1,54.9,53.3,D,Seeking
+STU-2024420,Computer Science,Male,14.5,74.3,38.8,31.4,F,Seeking
+STU-2024421,Computer Science,Other,5.4,88.4,44.0,44.1,F,Seeking
+STU-2024422,Business Analytics,Male,17.5,66.5,46.2,42.9,F,Seeking
+STU-2024423,Data Science,Female,24.6,78.1,60.0,37.2,F,Seeking
+STU-2024424,Electronics,Male,25.6,70.1,62.8,49.3,F,Seeking
+STU-2024425,Computer Science,Female,18.3,96.3,55.5,62.2,C,Seeking
+STU-2024426,Data Science,Male,12.7,48.9,37.1,41.3,F,Seeking
+STU-2024427,Business Analytics,Female,23.4,69.6,65.8,50.6,D,Seeking
+STU-2024428,Mechanical,Female,17.9,,36.7,30.1,F,Seeking
+STU-2024429,Computer Science,Female,15.8,47.0,29.9,25.0,F,Seeking
+STU-2024430,Mechanical,Female,9.3,71.7,33.6,35.0,F,Seeking
+STU-2024431,Data Science,Male,30.6,83.8,72.2,68.1,C,Placed
+STU-2024432,Electronics,Female,22.4,75.4,65.8,65.3,C,Seeking
+STU-2024433,Data Science,Male,23.1,70.3,64.4,43.2,F,Seeking
+STU-2024434,Electronics,Female,12.8,89.3,55.3,49.6,F,Seeking
+STU-2024435,Data Science,Female,18.5,89.3,62.3,46.8,F,Seeking
+STU-2024436,Computer Science,Male,17.5,93.5,60.7,58.2,D,Seeking
+STU-2024437,Computer Science,Other,22.7,83.9,64.4,54.4,D,Seeking
+STU-2024438,Mechanical,Female,26.2,74.8,62.9,56.0,D,Seeking
+STU-2024439,Data Science,Female,9.4,55.0,29.3,35.1,F,Seeking
+STU-2024440,Data Science,Male,11.6,96.8,61.2,63.0,C,Seeking
+STU-2024441,Mechanical,Female,21.9,86.1,67.4,49.7,F,Seeking
+STU-2024442,Business Analytics,Male,15.0,93.2,51.4,53.5,D,Seeking
+STU-2024443,Data Science,Male,22.9,83.2,64.0,46.8,F,Seeking
+STU-2024444,Data Science,Female,15.8,90.4,62.4,68.7,C,Placed
+STU-2024445,Data Science,Female,10.5,59.6,38.5,35.0,F,Seeking
+STU-2024446,Business Analytics,Female,7.4,88.6,43.3,40.0,F,Seeking
+STU-2024447,Computer Science,Female,20.9,78.8,63.7,52.2,D,Seeking
+STU-2024448,Mechanical,Male,21.1,81.5,59.2,55.3,D,Seeking
+STU-2024449,Business Analytics,Male,23.8,88.0,60.6,61.1,C,Seeking
+STU-2024450,Electronics,Male,20.0,72.9,47.4,53.4,D,Seeking
+STU-2024451,Electronics,Male,2.0,87.6,22.8,38.1,F,Seeking
+STU-2024452,Business Analytics,Female,21.0,66.7,61.7,48.9,F,Seeking
+STU-2024453,Business Analytics,Male,9.3,76.5,37.6,45.9,F,Seeking
+STU-2024454,Computer Science,Female,6.8,59.2,36.7,40.1,F,Seeking
+STU-2024455,Electronics,Male,6.1,66.3,29.2,35.2,F,Seeking
+STU-2024456,Mechanical,Female,5.5,72.6,36.5,44.9,F,Seeking
+STU-2024457,Data Science,Male,19.7,93.4,63.2,56.0,D,Seeking
+STU-2024458,Data Science,Male,13.6,69.3,37.8,39.5,F,Seeking
+STU-2024459,Computer Science,Female,8.9,66.1,41.9,28.6,F,Seeking
+STU-2024460,Computer Science,Female,18.1,83.9,54.3,60.7,C,Seeking
+STU-2024461,Electronics,Male,11.4,62.1,41.3,36.3,F,Seeking
+STU-2024462,Mechanical,Female,23.9,60.8,60.3,56.8,D,Seeking
+STU-2024463,Mechanical,Male,26.7,89.8,71.7,58.9,D,Seeking
+STU-2024464,Business Analytics,Male,16.7,76.1,50.0,49.6,F,Seeking
+STU-2024465,Computer Science,Male,26.3,91.6,77.9,66.8,C,Seeking
+STU-2024466,Data Science,Female,26.3,64.0,56.9,44.0,F,Seeking
+STU-2024467,Data Science,Male,18.5,77.1,53.5,52.8,D,Seeking
+STU-2024468,Electronics,Female,28.4,77.2,64.1,62.9,C,Seeking
+STU-2024469,Data Science,Female,14.3,76.7,41.7,54.6,D,Seeking
+STU-2024470,Mechanical,Male,6.3,86.4,35.4,48.1,F,Seeking
+STU-2024471,Mechanical,Male,8.7,79.7,39.5,36.4,F,Seeking
+STU-2024472,Computer Science,Female,14.0,,51.0,46.5,F,Seeking
+STU-2024473,Electronics,Female,21.2,85.9,58.4,61.8,C,Seeking
+STU-2024474,Data Science,Male,11.1,84.7,51.3,45.1,F,Seeking
+STU-2024475,Computer Science,Male,13.9,58.4,38.0,40.2,F,Seeking
+STU-2024476,Business Analytics,Male,10.5,40.0,29.7,27.7,F,Seeking
+STU-2024477,Business Analytics,Female,14.1,85.9,48.8,58.1,D,Seeking
+STU-2024478,Data Science,Male,26.1,87.6,79.1,68.9,C,Placed
+STU-2024479,Data Science,Male,20.1,80.5,63.9,55.9,D,Seeking
+STU-2024480,Data Science,Male,14.5,82.2,49.0,61.5,C,Seeking
+STU-2024481,Mechanical,Male,25.3,87.4,66.7,64.5,C,Seeking
+STU-2024482,Data Science,Female,18.2,44.2,32.8,33.0,F,Seeking
+STU-2024483,Business Analytics,Other,18.8,84.2,55.2,48.8,F,Seeking
+STU-2024484,Data Science,Female,24.9,77.0,57.7,45.1,F,Seeking
+STU-2024485,Electronics,Female,15.9,65.5,49.0,42.6,F,Seeking
+STU-2024486,Business Analytics,Male,23.5,85.8,57.9,45.7,F,Seeking
+STU-2024487,Electronics,Male,23.1,82.9,69.2,57.5,D,Seeking
+STU-2024488,Business Analytics,Male,17.1,52.4,41.2,41.1,F,Seeking
+STU-2024489,Computer Science,Male,9.6,58.5,30.6,38.7,F,Seeking
+STU-2024490,Business Analytics,Female,18.1,,54.7,49.9,F,Seeking
+STU-2024491,Business Analytics,Male,24.8,77.1,64.3,72.9,C,Placed
+STU-2024492,Electronics,Female,22.9,70.0,58.1,57.7,D,Seeking
+STU-2024493,Electronics,Male,28.3,66.8,61.5,50.6,D,Seeking
+STU-2024494,Business Analytics,Female,15.1,84.3,56.2,60.2,C,Seeking
+STU-2024495,Business Analytics,Male,22.7,69.2,59.0,46.8,F,Seeking
+STU-2024496,Mechanical,Female,12.0,75.6,48.7,48.6,F,Seeking
+STU-2024497,Computer Science,Male,19.2,81.4,54.2,49.4,F,Seeking
+STU-2024498,Computer Science,Male,24.6,81.1,60.5,47.3,F,Seeking
+STU-2024499,Data Science,Female,23.4,80.5,59.2,56.9,D,Seeking
+STU-2024500,Business Analytics,Male,18.6,93.8,57.4,56.8,D,Seeking
+STU-2024501,Business Analytics,Male,16.4,80.6,52.4,50.8,D,Seeking
+STU-2024502,Business Analytics,Male,12.0,80.2,46.5,47.1,F,Seeking
+STU-2024503,Business Analytics,Male,16.6,89.6,64.0,53.5,D,Seeking
+STU-2024504,Computer Science,Female,10.1,71.5,38.2,50.1,D,Seeking
+STU-2024505,Electronics,Female,15.9,91.0,50.5,54.0,D,Seeking
+STU-2024506,Mechanical,Female,,79.6,43.7,44.1,F,Seeking
+STU-2024507,Electronics,Female,10.1,74.4,42.2,35.6,F,Seeking
+STU-2024508,Electronics,Female,23.1,65.5,50.5,53.3,D,Seeking
+STU-2024509,Computer Science,Male,22.4,81.3,63.3,61.5,C,Seeking
+STU-2024510,Mechanical,Female,16.3,64.9,44.1,41.5,F,Seeking
+STU-2024511,Business Analytics,Female,18.4,80.2,61.8,47.3,F,Seeking
+STU-2024512,Computer Science,Female,19.2,83.0,51.5,60.6,C,Seeking
+STU-2024513,Computer Science,Male,,72.7,51.1,45.2,F,Seeking
+STU-2024514,Mechanical,Male,20.1,76.2,55.2,46.4,F,Seeking
+STU-2024515,Data Science,Female,10.0,87.7,53.9,53.0,D,Seeking
+STU-2024516,Computer Science,Male,3.3,86.1,34.8,45.5,F,Seeking
+STU-2024517,Electronics,Female,11.9,93.3,53.5,53.7,D,Seeking
+STU-2024518,Electronics,Other,17.1,81.4,47.3,27.7,F,Seeking
+STU-2024519,Business Analytics,Male,23.8,93.2,70.4,64.7,C,Seeking
+STU-2024520,Computer Science,Female,19.4,86.9,54.8,59.0,D,Seeking
+STU-2024521,Business Analytics,Male,21.2,78.9,60.1,48.4,F,Seeking
+STU-2024522,Computer Science,Male,12.6,85.7,52.8,61.5,C,Seeking
+STU-2024523,Mechanical,Female,17.6,83.7,45.5,53.1,D,Seeking
+STU-2024524,Computer Science,Male,18.4,91.7,59.8,60.2,C,Seeking
+STU-2024525,Data Science,Female,13.5,87.4,48.6,44.4,F,Seeking
+STU-2024526,Electronics,Female,11.6,47.9,35.6,33.8,F,Seeking
+STU-2024527,Mechanical,Female,16.6,89.4,51.3,54.6,D,Seeking
+STU-2024528,Electronics,Female,22.0,88.1,58.7,55.3,D,Seeking
+STU-2024529,Business Analytics,Female,12.6,61.6,45.8,46.7,F,Seeking
+STU-2024530,Mechanical,Male,16.8,74.9,55.7,48.2,F,Seeking
+STU-2024531,Data Science,Female,26.1,67.5,53.3,45.3,F,Seeking
+STU-2024532,Electronics,Female,14.9,86.6,61.5,52.7,D,Seeking
+STU-2024533,Computer Science,Male,18.0,81.2,41.2,42.3,F,Seeking
+STU-2024534,Computer Science,Male,17.4,81.9,54.7,51.0,D,Seeking
+STU-2024535,Computer Science,Other,16.9,76.5,44.5,44.1,F,Seeking
+STU-2024536,Mechanical,Male,28.0,74.0,65.1,53.4,D,Seeking
+STU-2024537,Data Science,Other,19.8,87.6,57.5,60.6,C,Seeking
+STU-2024538,Data Science,Male,8.6,59.7,29.1,41.5,F,Seeking
+STU-2024539,Data Science,Other,27.2,61.7,53.6,37.6,F,Seeking
+STU-2024540,Electronics,Male,19.6,80.4,51.7,58.8,D,Seeking
+STU-2024541,Mechanical,Female,15.8,45.5,37.5,36.4,F,Seeking
+STU-2024542,Computer Science,Female,26.1,86.9,71.0,56.2,D,Seeking
+STU-2024543,Electronics,Male,13.3,96.1,64.2,59.0,D,Seeking
+STU-2024544,Data Science,Female,28.3,57.6,56.1,47.0,F,Seeking
+STU-2024545,Computer Science,Female,18.6,86.0,58.2,45.0,F,Seeking
+STU-2024546,Mechanical,Male,24.0,94.9,72.7,64.3,C,Seeking
+STU-2024547,Business Analytics,Male,36.4,80.7,73.7,64.2,C,Seeking
+STU-2024548,Data Science,Female,19.1,76.0,49.4,43.0,F,Seeking
+STU-2024549,Data Science,Male,17.4,88.2,65.9,50.5,D,Seeking
+STU-2024550,Data Science,Male,11.6,54.7,34.9,35.1,F,Seeking
+STU-2024551,Data Science,Other,17.3,88.0,57.0,68.1,C,Placed
+STU-2024552,Computer Science,Male,11.8,57.1,29.0,27.4,F,Seeking
+STU-2024553,Mechanical,Male,16.9,79.0,49.3,44.2,F,Seeking
+STU-2024554,Electronics,Male,35.4,76.0,82.3,62.7,C,Seeking
+STU-2024555,Computer Science,Female,18.7,75.0,54.8,59.3,D,Seeking
+STU-2024556,Mechanical,Male,14.7,60.0,41.5,28.8,F,Seeking
+STU-2024557,Electronics,Male,16.7,85.0,61.0,60.6,C,Seeking
+STU-2024558,Data Science,Male,15.5,64.7,36.3,34.7,F,Seeking
+STU-2024559,Mechanical,Male,24.3,74.7,57.0,48.6,F,Seeking
+STU-2024560,Data Science,Female,17.5,48.1,51.6,34.2,F,Seeking
+STU-2024561,Mechanical,Male,27.7,83.9,66.6,57.0,D,Seeking
+STU-2024562,Business Analytics,Female,16.1,79.9,51.0,43.6,F,Seeking
+STU-2024563,Data Science,Female,16.5,55.6,47.9,37.4,F,Seeking
+STU-2024564,Data Science,Female,12.6,70.3,49.5,31.0,F,Seeking
+STU-2024565,Data Science,Female,15.7,79.5,44.1,35.5,F,Seeking
+STU-2024566,Computer Science,Male,7.6,76.7,41.9,46.0,F,Seeking
+STU-2024567,Electronics,Female,5.2,98.1,54.3,64.2,C,Seeking
+STU-2024568,Data Science,Female,21.7,86.4,57.4,74.0,C,Placed
+STU-2024569,Data Science,Male,7.5,84.3,40.9,51.3,D,Seeking
+STU-2024570,Computer Science,Female,20.4,81.0,57.0,49.7,F,Seeking
+STU-2024571,Computer Science,Female,15.0,84.5,55.3,41.1,F,Seeking
+STU-2024572,Business Analytics,Female,23.6,63.4,46.5,45.5,F,Seeking
+STU-2024573,Mechanical,Female,7.7,58.6,20.0,25.0,F,Seeking
+STU-2024574,Data Science,Female,,91.1,63.4,54.2,D,Seeking
+STU-2024575,Mechanical,Female,20.0,97.4,68.8,68.9,C,Placed
+STU-2024576,Computer Science,Male,20.2,94.2,60.4,60.2,C,Seeking
+STU-2024577,Computer Science,Female,24.7,91.0,63.0,53.2,D,Seeking
+STU-2024578,Business Analytics,Female,18.4,,41.4,25.6,F,Seeking
+STU-2024579,Electronics,Male,3.3,84.6,45.8,49.6,F,Seeking
+STU-2024580,Computer Science,Female,20.7,40.0,37.5,32.8,F,Seeking
+STU-2024581,Data Science,Male,19.9,81.9,59.5,63.3,C,Seeking
+STU-2024582,Business Analytics,Male,16.5,90.1,50.1,37.1,F,Seeking
+STU-2024583,Electronics,Female,12.9,82.2,42.8,46.8,F,Seeking
+STU-2024584,Business Analytics,Male,15.8,88.3,58.5,61.2,C,Seeking
+STU-2024585,Computer Science,Female,26.7,69.0,67.8,52.1,D,Seeking
+STU-2024586,Electronics,Female,12.5,47.8,38.6,25.0,F,Seeking
+STU-2024587,Mechanical,Male,7.6,47.0,20.0,25.0,F,Seeking
+STU-2024588,Electronics,Male,9.2,81.2,41.4,45.3,F,Seeking
+STU-2024589,Data Science,Male,17.8,74.9,52.5,45.8,F,Seeking
+STU-2024590,Mechanical,Male,28.0,86.1,68.3,61.8,C,Seeking
+STU-2024591,Mechanical,Female,31.2,84.5,61.6,63.8,C,Seeking
+STU-2024592,Data Science,Male,21.9,79.0,51.4,47.0,F,Seeking
+STU-2024593,Mechanical,Male,12.1,62.2,35.4,43.7,F,Seeking
+STU-2024594,Computer Science,Other,12.7,85.8,49.2,49.6,F,Seeking
+STU-2024595,Electronics,Male,23.3,65.7,44.6,44.0,F,Seeking
+STU-2024596,Electronics,Male,26.0,89.1,69.8,60.9,C,Seeking
+STU-2024597,Data Science,Female,14.1,65.0,42.5,42.9,F,Seeking
+STU-2024598,Computer Science,Male,26.5,87.3,61.5,60.2,C,Seeking
+STU-2024599,Mechanical,Female,16.6,87.8,56.0,58.2,D,Seeking
+STU-2024600,Electronics,Female,22.3,67.4,46.5,43.5,F,Seeking
+STU-2024601,Electronics,Male,24.9,79.0,61.2,34.3,F,Seeking
+STU-2024602,Electronics,Female,9.1,90.0,37.9,49.5,F,Seeking
+STU-2024603,Electronics,Other,20.7,,50.6,39.0,F,Seeking
+STU-2024604,Business Analytics,Female,26.6,74.6,59.5,48.5,F,Seeking
+STU-2024605,Data Science,Male,14.6,84.5,47.7,34.9,F,Seeking
+STU-2024606,Mechanical,Female,11.7,68.2,43.2,52.3,D,Seeking
+STU-2024607,Mechanical,Female,21.0,80.1,57.1,55.1,D,Seeking
+STU-2024608,Data Science,Female,18.8,73.3,62.4,51.2,D,Seeking
+STU-2024609,Computer Science,Male,16.0,58.9,41.4,46.9,F,Seeking
+STU-2024610,Data Science,Female,18.0,90.8,41.4,51.1,D,Seeking
+STU-2024611,Electronics,Male,8.0,84.0,33.0,42.4,F,Seeking
+STU-2024612,Electronics,Female,20.4,71.6,47.1,47.4,F,Seeking
+STU-2024613,Data Science,Female,27.6,86.1,84.5,65.8,C,Seeking
+STU-2024614,Data Science,Female,13.7,90.5,52.5,46.0,F,Seeking
+STU-2024615,Mechanical,Female,13.0,45.3,39.3,39.0,F,Seeking
+STU-2024616,Mechanical,Male,19.0,74.2,57.5,50.6,D,Seeking
+STU-2024617,Business Analytics,Male,35.1,95.6,74.0,55.1,D,Seeking
+STU-2024618,Business Analytics,Female,24.6,90.0,56.6,58.3,D,Seeking
+STU-2024619,Electronics,Male,17.4,65.4,50.3,45.0,F,Seeking
+STU-2024620,Business Analytics,Male,18.2,93.0,47.9,62.0,C,Seeking
+STU-2024621,Business Analytics,Female,25.2,82.6,68.2,60.5,C,Seeking
+STU-2024622,Computer Science,Female,12.5,71.4,43.0,35.8,F,Seeking
+STU-2024623,Data Science,Male,21.7,52.7,50.2,30.2,F,Seeking
+STU-2024624,Mechanical,Female,11.3,86.2,49.6,58.2,D,Seeking
+STU-2024625,Business Analytics,Female,23.5,77.8,61.1,53.5,D,Seeking
+STU-2024626,Mechanical,Female,16.2,63.8,45.5,36.7,F,Seeking
+STU-2024627,Business Analytics,Male,19.2,71.4,53.0,43.6,F,Seeking
+STU-2024628,Business Analytics,Female,15.8,68.0,46.4,51.4,D,Seeking
+STU-2024629,Electronics,Female,22.2,76.5,50.4,51.0,D,Seeking
+STU-2024630,Computer Science,Female,17.0,47.6,37.5,39.6,F,Seeking
+STU-2024631,Data Science,Female,30.9,89.3,83.6,70.1,C,Placed
+STU-2024632,Data Science,Female,26.5,93.1,70.6,58.2,D,Seeking
+STU-2024633,Electronics,Male,10.2,81.1,50.4,60.2,C,Seeking
+STU-2024634,Electronics,Female,19.1,88.9,53.6,51.1,D,Seeking
+STU-2024635,Data Science,Male,22.4,46.4,40.4,38.9,F,Seeking
+STU-2024636,Data Science,Female,15.3,66.8,39.1,46.1,F,Seeking
+STU-2024637,Computer Science,Male,25.3,82.9,56.9,53.4,D,Seeking
+STU-2024638,Business Analytics,Male,24.6,76.0,51.8,42.0,F,Seeking
+STU-2024639,Computer Science,Female,17.5,89.6,58.0,51.8,D,Seeking
+STU-2024640,Data Science,Male,23.9,,58.3,56.7,D,Seeking
+STU-2024641,Business Analytics,Male,3.5,57.4,31.5,36.2,F,Seeking
+STU-2024642,Data Science,Male,26.1,46.7,48.4,46.0,F,Seeking
+STU-2024643,Computer Science,Female,23.3,92.8,53.1,61.2,C,Seeking
+STU-2024644,Computer Science,Other,11.5,89.5,51.8,47.0,F,Seeking
+STU-2024645,Computer Science,Male,19.5,58.1,36.5,44.3,F,Seeking
+STU-2024646,Business Analytics,Other,5.8,80.3,40.2,38.0,F,Seeking
+STU-2024647,Mechanical,Male,13.4,83.0,45.4,51.2,D,Seeking
+STU-2024648,Mechanical,Female,24.6,61.9,55.4,60.8,C,Seeking
+STU-2024649,Data Science,Male,17.9,72.3,43.2,45.2,F,Seeking
+STU-2024650,Business Analytics,Male,17.6,80.4,57.2,42.0,F,Seeking
+STU-2024651,Electronics,Other,18.3,91.7,58.8,55.0,D,Seeking
+STU-2024652,Mechanical,Female,17.6,92.8,56.5,69.1,C,Placed
+STU-2024653,Business Analytics,Male,23.9,95.1,58.2,56.4,D,Seeking
+STU-2024654,Business Analytics,Female,14.3,75.5,56.4,58.8,D,Seeking
+STU-2024655,Mechanical,Male,20.5,74.2,49.7,41.4,F,Seeking
+STU-2024656,Business Analytics,Female,11.1,83.2,47.9,46.8,F,Seeking
+STU-2024657,Business Analytics,Female,22.4,92.0,58.9,55.8,D,Seeking
+STU-2024658,Mechanical,Male,16.1,93.8,75.7,77.7,B,Placed
+STU-2024659,Computer Science,Female,17.8,,43.3,35.7,F,Seeking
+STU-2024660,Data Science,Male,15.8,78.5,47.3,35.9,F,Seeking
+STU-2024661,Electronics,Male,16.6,56.4,45.5,54.0,D,Seeking
+STU-2024662,Data Science,Female,12.0,87.4,53.1,54.1,D,Seeking
+STU-2024663,Computer Science,Female,20.0,73.8,55.5,53.8,D,Seeking
+STU-2024664,Computer Science,Male,21.3,76.1,54.4,40.4,F,Seeking
+STU-2024665,Business Analytics,Female,10.0,88.2,49.5,52.8,D,Seeking
+STU-2024666,Data Science,Male,14.4,51.5,37.1,34.1,F,Seeking
+STU-2024667,Computer Science,Other,18.2,73.5,51.1,41.8,F,Seeking
+STU-2024668,Data Science,Female,14.4,55.1,35.4,38.2,F,Seeking
+STU-2024669,Computer Science,Female,16.7,67.6,39.8,29.9,F,Seeking
+STU-2024670,Electronics,Female,27.7,88.0,71.3,56.2,D,Seeking
+STU-2024671,Computer Science,Male,11.9,89.8,53.2,60.8,C,Seeking
+STU-2024672,Data Science,Female,4.1,94.0,49.0,48.3,F,Seeking
+STU-2024673,Business Analytics,Female,14.4,82.0,50.3,46.8,F,Seeking
+STU-2024674,Data Science,Male,16.0,83.1,51.4,51.2,D,Seeking
+STU-2024675,Mechanical,Male,15.1,68.0,38.3,37.3,F,Seeking
+STU-2024676,Data Science,Female,19.6,49.0,42.9,40.3,F,Seeking
+STU-2024677,Electronics,Female,11.8,74.6,45.8,46.3,F,Seeking
+STU-2024678,Electronics,Other,10.9,77.9,35.1,31.9,F,Seeking
+STU-2024679,Electronics,Male,14.0,75.6,52.4,44.5,F,Seeking
+STU-2024680,Computer Science,Male,14.1,86.2,47.8,44.7,F,Seeking
+STU-2024681,Electronics,Male,30.7,80.3,68.0,55.3,D,Seeking
+STU-2024682,Data Science,Other,27.3,65.7,62.0,51.4,D,Seeking
+STU-2024683,Business Analytics,Male,8.0,81.6,42.2,47.4,F,Seeking
+STU-2024684,Electronics,Male,6.4,85.6,48.9,35.9,F,Seeking
+STU-2024685,Data Science,Male,17.5,86.4,58.7,61.4,C,Seeking
+STU-2024686,Computer Science,Male,29.5,82.9,67.8,58.2,D,Seeking
+STU-2024687,Computer Science,Female,22.0,90.0,46.8,43.7,F,Seeking
+STU-2024688,Business Analytics,Female,17.8,64.8,52.3,51.3,D,Seeking
+STU-2024689,Business Analytics,Male,15.3,74.5,42.3,30.9,F,Seeking
+STU-2024690,Data Science,Female,24.5,57.7,56.7,36.2,F,Seeking
+STU-2024691,Business Analytics,Male,19.1,87.0,60.2,69.0,C,Placed
+STU-2024692,Business Analytics,Female,28.4,86.6,67.7,60.7,C,Seeking
+STU-2024693,Computer Science,Male,7.9,84.1,47.9,44.8,F,Seeking
+STU-2024694,Data Science,Female,,59.3,50.9,43.9,F,Seeking
+STU-2024695,Business Analytics,Male,14.6,85.1,53.2,51.0,D,Seeking
+STU-2024696,Data Science,Male,20.5,87.1,50.9,51.8,D,Seeking
+STU-2024697,Electronics,Female,19.5,84.9,57.6,57.2,D,Seeking
+STU-2024698,Computer Science,Male,21.1,77.1,49.9,46.9,F,Seeking
+STU-2024699,Computer Science,Female,23.9,72.5,52.2,50.0,D,Seeking
+STU-2024700,Computer Science,Female,26.3,67.1,56.6,47.5,F,Seeking
+STU-2024701,Mechanical,Female,29.7,61.6,67.6,47.4,F,Seeking
+STU-2024702,Data Science,Female,18.1,92.2,60.4,51.2,D,Seeking
+STU-2024703,Electronics,Other,14.7,95.2,57.9,65.4,C,Seeking
+STU-2024704,Business Analytics,Female,10.6,58.8,40.1,41.6,F,Seeking
+STU-2024705,Electronics,Male,20.6,75.8,50.7,54.3,D,Seeking
+STU-2024706,Data Science,Female,23.0,87.9,54.9,53.8,D,Seeking
+STU-2024707,Computer Science,Male,9.9,88.5,38.5,47.2,F,Seeking
+STU-2024708,Mechanical,Female,24.9,49.6,50.9,39.3,F,Seeking
+STU-2024709,Data Science,Male,17.4,80.4,58.0,60.1,C,Seeking
+STU-2024710,Data Science,Male,10.5,88.3,52.5,50.7,D,Seeking
+STU-2024711,Business Analytics,Male,12.9,60.8,35.6,30.1,F,Seeking
+STU-2024712,Electronics,Female,12.3,90.1,57.6,59.0,D,Seeking
+STU-2024713,Electronics,Male,12.4,83.9,58.7,53.6,D,Seeking
+STU-2024714,Business Analytics,Female,21.4,83.3,62.0,57.5,D,Seeking
+STU-2024715,Mechanical,Female,23.2,71.7,64.0,57.8,D,Seeking
+STU-2024716,Computer Science,Female,28.2,92.9,75.4,62.1,C,Seeking
+STU-2024717,Computer Science,Female,13.8,90.3,51.5,51.5,D,Seeking
+STU-2024718,Mechanical,Female,20.1,83.6,54.2,50.3,D,Seeking
+STU-2024719,Business Analytics,Male,14.1,40.0,24.9,32.2,F,Seeking
+STU-2024720,Data Science,Female,18.1,63.6,44.9,41.6,F,Seeking
+STU-2024721,Electronics,Female,9.1,77.6,40.8,44.6,F,Seeking
+STU-2024722,Data Science,Female,11.3,88.5,47.9,43.6,F,Seeking
+STU-2024723,Electronics,Male,22.8,65.8,53.1,50.7,D,Seeking
+STU-2024724,Data Science,Male,9.1,79.8,31.4,42.2,F,Seeking
+STU-2024725,Business Analytics,Female,21.7,83.9,63.5,51.9,D,Seeking
+STU-2024726,Business Analytics,Male,13.9,90.4,57.3,67.3,C,Seeking
+STU-2024727,Mechanical,Male,6.4,68.9,37.1,41.2,F,Seeking
+STU-2024728,Data Science,Female,2.8,89.4,33.3,39.7,F,Seeking
+STU-2024729,Data Science,Male,26.8,82.2,66.9,58.1,D,Seeking
+STU-2024730,Mechanical,Male,6.6,79.6,39.9,41.6,F,Seeking
+STU-2024731,Mechanical,Male,17.6,95.3,61.6,68.7,C,Placed
+STU-2024732,Business Analytics,Female,20.1,79.5,63.7,61.3,C,Seeking
+STU-2024733,Business Analytics,Female,10.1,58.7,34.7,37.7,F,Seeking
+STU-2024734,Data Science,Female,14.7,88.6,54.0,63.9,C,Seeking
+STU-2024735,Business Analytics,Male,20.9,81.3,53.3,44.8,F,Seeking
+STU-2024736,Business Analytics,Male,19.8,77.9,59.5,57.8,D,Seeking
+STU-2024737,Data Science,Female,15.2,57.8,44.9,43.1,F,Seeking
+STU-2024738,Mechanical,Female,19.4,84.8,58.3,53.2,D,Seeking
+STU-2024739,Data Science,Male,17.4,95.5,53.8,54.2,D,Seeking
+STU-2024740,Computer Science,Male,12.2,83.2,44.5,52.7,D,Seeking
+STU-2024741,Data Science,Male,25.2,67.8,48.2,49.5,F,Seeking
+STU-2024742,Computer Science,Male,19.2,81.6,52.2,42.0,F,Seeking
+STU-2024743,Data Science,Male,6.9,99.0,51.4,66.3,C,Seeking
+STU-2024744,Computer Science,Female,21.1,87.2,62.2,64.1,C,Seeking
+STU-2024745,Computer Science,Female,14.3,78.7,49.4,46.6,F,Seeking
+STU-2024746,Data Science,Female,16.3,71.1,55.4,44.3,F,Seeking
+STU-2024747,Business Analytics,Male,18.0,68.7,50.6,52.6,D,Seeking
+STU-2024748,Electronics,Female,13.2,84.4,46.7,51.6,D,Seeking
+STU-2024749,Business Analytics,Male,28.8,73.5,60.5,56.6,D,Seeking
+STU-2024750,Computer Science,Female,9.0,92.2,46.5,54.3,D,Seeking
+STU-2024751,Data Science,Female,18.3,94.0,57.3,64.1,C,Seeking
+STU-2024752,Data Science,Male,20.3,90.1,65.2,64.8,C,Seeking
+STU-2024753,Data Science,Female,18.2,72.5,52.9,45.0,F,Seeking
+STU-2024754,Data Science,Female,16.9,85.9,53.0,48.7,F,Seeking
+STU-2024755,Electronics,Male,15.7,83.2,50.7,52.4,D,Seeking
+STU-2024756,Mechanical,Female,13.2,94.7,57.2,70.7,C,Seeking
+STU-2024757,Computer Science,Male,13.1,81.7,53.5,50.4,D,Seeking
+STU-2024758,Electronics,Male,25.0,71.4,49.3,48.2,F,Seeking
+STU-2024759,Business Analytics,Male,15.3,60.4,41.7,44.3,F,Seeking
+STU-2024760,Mechanical,Male,30.8,89.5,73.2,60.9,C,Seeking
+STU-2024761,Mechanical,Female,22.0,80.6,61.4,59.7,D,Seeking
+STU-2024762,Data Science,Male,2.0,86.8,37.7,45.0,F,Seeking
+STU-2024763,Electronics,Female,23.3,77.2,60.9,61.1,C,Seeking
+STU-2024764,Business Analytics,Female,17.7,49.0,39.7,28.9,F,Seeking
+STU-2024765,Data Science,Female,9.7,82.3,40.5,58.8,D,Seeking
+STU-2024766,Data Science,Female,25.8,92.6,71.9,61.9,C,Seeking
+STU-2024767,Computer Science,Male,15.4,77.3,53.5,53.1,D,Seeking
+STU-2024768,Mechanical,Female,14.9,86.4,55.7,53.8,D,Seeking
+STU-2024769,Business Analytics,Male,20.3,76.9,59.3,46.2,F,Seeking
+STU-2024770,Mechanical,Female,24.9,91.0,61.4,63.0,C,Seeking
+STU-2024771,Electronics,Female,18.7,85.9,54.3,51.3,D,Seeking
+STU-2024772,Computer Science,Other,18.3,89.4,63.3,61.6,C,Seeking
+STU-2024773,Data Science,Female,13.8,81.2,50.8,44.9,F,Seeking
+STU-2024774,Computer Science,Male,24.8,73.9,59.6,50.4,D,Seeking
+STU-2024775,Data Science,Female,18.7,80.8,53.5,49.2,F,Seeking
+STU-2024776,Computer Science,Female,16.6,,60.7,59.5,D,Seeking
+STU-2024777,Data Science,Male,15.9,78.8,41.7,46.3,F,Seeking
+STU-2024778,Mechanical,Male,24.2,67.7,57.6,48.1,F,Seeking
+STU-2024779,Mechanical,Female,16.4,83.8,52.9,49.4,F,Seeking
+STU-2024780,Mechanical,Female,24.2,68.2,50.1,47.4,F,Seeking
+STU-2024781,Mechanical,Female,15.2,68.1,53.6,48.4,F,Seeking
+STU-2024782,Computer Science,Male,22.3,91.3,49.8,53.1,D,Seeking
+STU-2024783,Data Science,Male,19.2,95.1,61.7,71.2,C,Placed
+STU-2024784,Mechanical,Male,12.3,65.8,43.7,44.9,F,Seeking
+STU-2024785,Computer Science,Female,17.5,89.1,51.8,64.2,C,Seeking
+STU-2024786,Data Science,Male,4.9,72.4,36.2,39.4,F,Seeking
+STU-2024787,Computer Science,Male,13.5,79.9,47.0,47.2,F,Seeking
+STU-2024788,Mechanical,Male,8.5,49.7,35.0,29.4,F,Seeking
+STU-2024789,Electronics,Male,30.0,92.9,90.7,75.0,B,Placed
+STU-2024790,Computer Science,Male,8.6,96.3,50.5,52.2,D,Seeking
+STU-2024791,Mechanical,Female,33.5,94.9,81.2,66.3,C,Seeking
+STU-2024792,Business Analytics,Male,21.1,90.6,56.7,44.1,F,Seeking
+STU-2024793,Data Science,Male,14.9,68.9,46.5,52.7,D,Seeking
+STU-2024794,Mechanical,Female,22.8,75.9,55.9,48.4,F,Seeking
+STU-2024795,Business Analytics,Female,14.1,70.8,49.1,54.6,D,Seeking
+STU-2024796,Computer Science,Male,9.5,87.0,39.1,45.1,F,Seeking
+STU-2024797,Computer Science,Female,18.5,83.3,50.2,54.0,D,Seeking
+STU-2024798,Business Analytics,Male,22.2,81.2,65.0,57.3,D,Seeking
+STU-2024799,Business Analytics,Female,25.7,81.0,64.3,58.9,D,Seeking

@@ -1,0 +1,651 @@
+Employee_ID,Department,Role,Experience_Years,Salary,Performance_Rating,Projects_Completed,Overtime_Hours,Attrition
+EMP-8000,Marketing,Content Strategist,1.3,61800.0,1.0,2,11.3,Yes
+EMP-8001,Engineering,Software Engineer,1.8,85600.0,4.0,9,9.8,No
+EMP-8002,HR,Recruiter,6.5,82600.0,4.0,4,1.2,No
+EMP-8003,Product,Product Analyst,4.6,98400.0,5.0,3,19.2,No
+EMP-8004,Engineering,Software Engineer,4.1,102000.0,3.0,8,43.4,No
+EMP-8005,Sales,Account Executive,2.1,74100.0,3.0,4,2.4,No
+EMP-8006,Sales,Account Executive,2.6,76600.0,1.0,7,27.1,No
+EMP-8007,Engineering,Engineering Manager,14.5,154300.0,3.0,13,9.8,No
+EMP-8008,Marketing,Brand Manager,2.1,60900.0,2.0,14,33.0,Yes
+EMP-8009,Marketing,Content Strategist,10.3,98700.0,4.0,14,2.3,No
+EMP-8010,Engineering,Engineering Manager,4.5,101300.0,2.0,14,18.8,Yes
+EMP-8011,Engineering,Software Engineer,1.5,96900.0,3.0,5,0.7,No
+EMP-8012,Engineering,DevOps Engineer,3.5,96800.0,3.0,5,25.8,No
+EMP-8013,Marketing,Content Strategist,12.9,119800.0,5.0,11,13.5,No
+EMP-8014,Engineering,DevOps Engineer,3.2,100200.0,4.0,6,5.5,No
+EMP-8015,Marketing,Brand Manager,9.0,104400.0,3.0,12,2.5,No
+EMP-8016,Sales,SDR,2.2,84300.0,3.0,13,20.3,No
+EMP-8017,Marketing,Growth Specialist,4.4,86000.0,2.0,4,11.1,Yes
+EMP-8018,Sales,Account Executive,8.4,108800.0,4.0,2,5.4,No
+EMP-8019,Engineering,DevOps Engineer,11.1,134200.0,4.0,6,7.0,No
+EMP-8020,Finance,Accountant,3.7,97500.0,3.0,13,21.0,No
+EMP-8021,Marketing,Content Strategist,5.1,85400.0,1.0,5,5.0,Yes
+EMP-8022,Product,Product Analyst,1.0,72800.0,4.0,3,1.1,No
+EMP-8023,Sales,SDR,2.2,89700.0,3.0,4,29.1,No
+EMP-8024,Sales,Account Executive,2.3,75600.0,5.0,3,5.9,No
+EMP-8025,Product,UI/UX Designer,1.4,89500.0,3.0,3,5.1,No
+EMP-8026,Product,UI/UX Designer,2.3,83900.0,3.0,4,2.7,No
+EMP-8027,Engineering,QA Lead,2.5,109400.0,3.0,2,27.3,No
+EMP-8028,Finance,Financial Analyst,14.9,134300.0,3.0,4,2.9,No
+EMP-8029,Sales,Sales Manager,5.4,87000.0,4.0,10,12.1,No
+EMP-8030,Engineering,DevOps Engineer,3.2,90200.0,4.0,11,25.5,No
+EMP-8031,Sales,Account Executive,18.7,151300.0,3.0,2,0.4,No
+EMP-8032,Engineering,DevOps Engineer,1.7,91000.0,2.0,14,21.2,Yes
+EMP-8033,Engineering,Engineering Manager,3.6,91900.0,2.0,10,6.3,Yes
+EMP-8034,Product,Product Analyst,5.2,103000.0,5.0,8,12.9,No
+EMP-8035,Sales,Account Executive,1.2,71000.0,3.0,10,5.6,No
+EMP-8036,Finance,Accountant,6.0,97500.0,3.0,5,14.3,No
+EMP-8037,Finance,Accountant,1.4,67400.0,3.0,13,3.5,No
+EMP-8038,Engineering,Engineering Manager,1.6,93900.0,3.0,7,0.3,No
+EMP-8039,Sales,SDR,1.7,65000.0,4.0,11,35.4,No
+EMP-8040,Marketing,Brand Manager,11.6,119500.0,4.0,4,0.2,No
+EMP-8041,Engineering,Engineering Manager,5.6,106900.0,3.0,10,20.9,No
+EMP-8042,Marketing,Brand Manager,5.3,91400.0,4.0,6,2.2,No
+EMP-8043,HR,Recruiter,4.2,77000.0,3.0,13,6.0,No
+EMP-8044,Sales,Sales Manager,2.4,76200.0,5.0,12,20.7,No
+EMP-8045,Engineering,DevOps Engineer,4.9,114700.0,3.0,14,2.8,No
+EMP-8046,Finance,Financial Analyst,3.1,81100.0,1.0,10,24.1,Yes
+EMP-8047,HR,People Partner,1.6,58600.0,3.0,4,8.3,No
+EMP-8048,Marketing,Growth Specialist,5.7,91000.0,2.0,6,5.5,Yes
+EMP-8049,Product,Product Analyst,1.6,79300.0,1.0,1,13.0,Yes
+EMP-8050,Marketing,Content Strategist,1.8,65300.0,4.0,6,5.0,No
+EMP-8051,Engineering,Software Engineer,7.8,110600.0,4.0,6,5.1,No
+EMP-8052,Engineering,Software Engineer,5.3,115800.0,3.0,2,15.9,No
+EMP-8053,Sales,SDR,5.0,81500.0,4.0,12,4.4,No
+EMP-8054,Finance,Financial Analyst,3.2,82500.0,3.0,10,2.7,No
+EMP-8055,Marketing,Growth Specialist,3.0,67800.0,3.0,10,19.8,No
+EMP-8056,Marketing,Content Strategist,5.7,85300.0,,9,19.6,No
+EMP-8057,Product,Product Analyst,6.4,107900.0,4.0,6,8.3,No
+EMP-8058,Engineering,Software Engineer,3.9,107500.0,3.0,12,9.0,No
+EMP-8059,HR,Recruiter,14.9,117100.0,3.0,11,14.3,No
+EMP-8060,Sales,Account Executive,13.5,122100.0,3.0,13,8.5,No
+EMP-8061,Marketing,Content Strategist,3.1,84500.0,3.0,7,6.5,No
+EMP-8062,Product,Product Manager,7.9,121800.0,4.0,2,63.3,Yes
+EMP-8063,Marketing,Content Strategist,4.1,,3.0,2,1.9,No
+EMP-8064,HR,Recruiter,3.9,75300.0,2.0,2,10.8,Yes
+EMP-8065,Product,Product Analyst,1.2,97200.0,3.0,10,26.0,No
+EMP-8066,Engineering,DevOps Engineer,4.4,97600.0,3.0,13,13.9,No
+EMP-8067,Engineering,Software Engineer,10.2,119400.0,4.0,11,25.5,No
+EMP-8068,Finance,Accountant,7.1,100700.0,,9,4.9,No
+EMP-8069,Sales,Sales Manager,7.2,96900.0,4.0,3,3.8,No
+EMP-8070,Marketing,Growth Specialist,1.7,64800.0,3.0,13,22.9,No
+EMP-8071,Engineering,Engineering Manager,2.8,103500.0,4.0,4,6.0,No
+EMP-8072,Marketing,Growth Specialist,2.1,72700.0,5.0,1,14.8,No
+EMP-8073,Sales,Sales Manager,2.5,72600.0,4.0,1,1.9,No
+EMP-8074,Engineering,Software Engineer,4.5,102000.0,4.0,4,16.9,No
+EMP-8075,Finance,Accountant,2.8,80100.0,3.0,14,9.6,No
+EMP-8076,Product,UI/UX Designer,4.3,104300.0,5.0,2,3.8,No
+EMP-8077,Engineering,DevOps Engineer,3.3,97000.0,4.0,8,8.2,No
+EMP-8078,Product,Product Manager,2.4,83600.0,5.0,13,14.3,No
+EMP-8079,Engineering,QA Lead,1.4,97100.0,3.0,4,0.1,No
+EMP-8080,Sales,SDR,9.9,107900.0,4.0,3,12.2,No
+EMP-8081,Engineering,DevOps Engineer,1.0,81300.0,3.0,3,9.4,No
+EMP-8082,Marketing,Content Strategist,1.0,76800.0,3.0,6,3.0,No
+EMP-8083,Product,Product Manager,8.0,119700.0,3.0,12,16.8,No
+EMP-8084,Product,Product Analyst,24.0,,4.0,13,4.3,No
+EMP-8085,Sales,SDR,6.2,,2.0,6,3.9,Yes
+EMP-8086,Marketing,Brand Manager,1.1,65300.0,3.0,6,7.6,No
+EMP-8087,Engineering,Software Engineer,2.0,92200.0,3.0,6,13.5,No
+EMP-8088,Finance,Financial Analyst,15.3,139200.0,3.0,8,31.7,No
+EMP-8089,Sales,Account Executive,7.6,95700.0,4.0,8,1.8,No
+EMP-8090,Engineering,DevOps Engineer,4.3,103700.0,4.0,9,6.1,No
+EMP-8091,Product,Product Manager,2.1,,3.0,1,0.8,No
+EMP-8092,Product,UI/UX Designer,1.1,86300.0,3.0,10,17.1,No
+EMP-8093,Marketing,Content Strategist,1.1,66800.0,3.0,8,7.1,No
+EMP-8094,Engineering,Engineering Manager,4.8,102400.0,3.0,5,14.7,No
+EMP-8095,Engineering,DevOps Engineer,1.1,89400.0,3.0,3,4.7,No
+EMP-8096,Engineering,DevOps Engineer,21.2,183700.0,2.0,11,22.3,Yes
+EMP-8097,Engineering,Engineering Manager,1.8,79600.0,3.0,10,9.2,No
+EMP-8098,Marketing,Growth Specialist,6.0,92500.0,3.0,3,34.5,No
+EMP-8099,Sales,Account Executive,1.7,65300.0,,6,1.0,No
+EMP-8100,Engineering,QA Lead,4.1,100700.0,3.0,8,8.7,No
+EMP-8101,Engineering,QA Lead,1.3,73900.0,3.0,10,17.5,No
+EMP-8102,Product,UI/UX Designer,6.8,114000.0,2.0,2,11.0,Yes
+EMP-8103,Marketing,Brand Manager,4.5,77800.0,5.0,12,0.3,No
+EMP-8104,HR,People Partner,1.4,61300.0,3.0,9,43.1,No
+EMP-8105,Engineering,QA Lead,8.6,124200.0,1.0,5,4.3,Yes
+EMP-8106,Engineering,DevOps Engineer,4.2,92100.0,3.0,5,3.4,No
+EMP-8107,Product,Product Analyst,11.2,130800.0,4.0,1,8.0,No
+EMP-8108,Finance,Financial Analyst,10.9,124900.0,4.0,6,9.4,No
+EMP-8109,Sales,Sales Manager,11.1,116000.0,4.0,13,17.4,No
+EMP-8110,Engineering,Engineering Manager,1.3,88500.0,2.0,11,6.0,No
+EMP-8111,Product,Product Manager,1.5,87000.0,4.0,11,7.0,No
+EMP-8112,Product,UI/UX Designer,18.6,163200.0,4.0,5,9.2,No
+EMP-8113,Sales,Account Executive,3.7,86200.0,3.0,7,6.0,No
+EMP-8114,Engineering,Engineering Manager,2.1,102000.0,4.0,7,29.5,No
+EMP-8115,Product,Product Analyst,6.9,108600.0,3.0,4,22.9,No
+EMP-8116,Sales,Sales Manager,2.2,76300.0,3.0,5,7.3,No
+EMP-8117,Engineering,Software Engineer,6.2,108900.0,4.0,10,0.0,No
+EMP-8118,Sales,Sales Manager,8.3,104900.0,,14,27.7,No
+EMP-8119,Product,Product Manager,7.1,,1.0,8,1.6,No
+EMP-8120,Marketing,Brand Manager,2.3,71300.0,3.0,2,3.4,No
+EMP-8121,Engineering,DevOps Engineer,3.1,102100.0,4.0,1,2.0,No
+EMP-8122,Finance,Accountant,3.1,86000.0,1.0,14,2.4,No
+EMP-8123,Engineering,Software Engineer,3.7,101400.0,1.0,6,19.5,No
+EMP-8124,Engineering,Software Engineer,1.7,87400.0,3.0,11,10.4,No
+EMP-8125,HR,People Partner,3.4,74300.0,5.0,14,37.5,No
+EMP-8126,HR,HR Generalist,3.9,72100.0,5.0,4,3.2,No
+EMP-8127,Engineering,Software Engineer,4.0,108200.0,3.0,13,8.0,No
+EMP-8128,Finance,Financial Analyst,7.9,102500.0,3.0,10,45.5,Yes
+EMP-8129,Engineering,QA Lead,3.9,104200.0,3.0,3,21.0,No
+EMP-8130,Sales,SDR,2.0,72400.0,3.0,7,15.7,No
+EMP-8131,Engineering,Engineering Manager,5.4,110900.0,4.0,8,2.5,No
+EMP-8132,Product,UI/UX Designer,7.4,113000.0,2.0,11,17.6,Yes
+EMP-8133,Product,Product Analyst,2.5,86300.0,3.0,12,5.1,No
+EMP-8134,Sales,Account Executive,5.1,94500.0,3.0,4,9.1,No
+EMP-8135,Sales,Sales Manager,1.6,66900.0,2.0,12,11.3,Yes
+EMP-8136,Product,Product Analyst,2.7,96000.0,3.0,12,11.3,No
+EMP-8137,Finance,Finance Manager,10.6,109500.0,3.0,10,15.6,No
+EMP-8138,Engineering,Software Engineer,10.7,131400.0,4.0,12,13.0,No
+EMP-8139,Engineering,Software Engineer,4.4,114000.0,3.0,11,0.8,No
+EMP-8140,Marketing,Brand Manager,5.8,86400.0,3.0,11,7.3,No
+EMP-8141,Engineering,DevOps Engineer,8.7,124700.0,3.0,6,13.1,No
+EMP-8142,Product,Product Manager,13.7,151300.0,5.0,13,4.2,No
+EMP-8143,Product,Product Analyst,3.7,95800.0,3.0,11,4.5,No
+EMP-8144,Engineering,QA Lead,4.3,105900.0,5.0,11,1.6,No
+EMP-8145,Finance,Financial Analyst,3.1,89600.0,4.0,2,6.5,No
+EMP-8146,Engineering,Engineering Manager,1.3,82600.0,4.0,8,52.0,No
+EMP-8147,Engineering,DevOps Engineer,3.2,96500.0,2.0,6,4.0,No
+EMP-8148,Engineering,Engineering Manager,7.3,118600.0,3.0,11,9.1,No
+EMP-8149,Engineering,Engineering Manager,7.5,109200.0,2.0,9,16.3,No
+EMP-8150,Product,UI/UX Designer,9.9,132800.0,3.0,11,0.2,No
+EMP-8151,Sales,Sales Manager,1.2,74900.0,5.0,13,27.7,No
+EMP-8152,Marketing,Growth Specialist,4.0,83600.0,2.0,13,5.9,Yes
+EMP-8153,Marketing,Growth Specialist,1.5,76700.0,3.0,6,24.4,No
+EMP-8154,Engineering,Software Engineer,1.9,,1.0,6,0.5,Yes
+EMP-8155,Engineering,DevOps Engineer,10.2,129500.0,,12,1.9,No
+EMP-8156,Finance,Accountant,3.7,78900.0,3.0,2,4.7,No
+EMP-8157,Engineering,Software Engineer,6.7,111100.0,2.0,5,5.1,Yes
+EMP-8158,Finance,Financial Analyst,1.3,73900.0,3.0,9,22.6,No
+EMP-8159,HR,HR Generalist,3.2,76100.0,4.0,1,0.1,No
+EMP-8160,Finance,Accountant,5.5,97200.0,2.0,4,12.3,No
+EMP-8161,Product,Product Analyst,1.6,77800.0,3.0,10,1.7,No
+EMP-8162,Engineering,QA Lead,2.6,101900.0,1.0,10,20.8,Yes
+EMP-8163,Sales,Sales Manager,1.3,78800.0,5.0,14,18.1,No
+EMP-8164,Marketing,Growth Specialist,5.2,94300.0,3.0,3,8.3,No
+EMP-8165,Engineering,Engineering Manager,15.1,146200.0,4.0,1,2.9,No
+EMP-8166,Marketing,Growth Specialist,8.0,99900.0,4.0,1,12.1,No
+EMP-8167,Engineering,Software Engineer,15.7,149600.0,2.0,1,2.0,No
+EMP-8168,Product,Product Manager,8.5,129900.0,3.0,1,2.5,No
+EMP-8169,HR,Recruiter,8.7,97300.0,2.0,13,11.8,Yes
+EMP-8170,Engineering,QA Lead,4.4,102600.0,3.0,2,56.8,Yes
+EMP-8171,Engineering,Engineering Manager,3.9,99200.0,3.0,11,26.6,No
+EMP-8172,Engineering,Engineering Manager,3.1,101000.0,3.0,5,10.8,No
+EMP-8173,Engineering,QA Lead,7.8,123200.0,2.0,2,9.3,No
+EMP-8174,Engineering,Engineering Manager,1.8,83200.0,1.0,4,77.1,No
+EMP-8175,Engineering,DevOps Engineer,1.2,98800.0,4.0,9,9.5,No
+EMP-8176,Engineering,Software Engineer,12.8,145400.0,4.0,3,6.5,No
+EMP-8177,Marketing,Brand Manager,1.0,74800.0,2.0,2,28.8,No
+EMP-8178,Finance,Accountant,16.1,154700.0,2.0,4,3.2,Yes
+EMP-8179,Product,Product Manager,6.2,107300.0,4.0,9,1.2,No
+EMP-8180,Engineering,QA Lead,2.6,101800.0,4.0,4,12.1,No
+EMP-8181,Engineering,DevOps Engineer,5.8,107600.0,5.0,12,1.2,No
+EMP-8182,Marketing,Brand Manager,7.8,94300.0,,5,5.6,No
+EMP-8183,Sales,SDR,2.1,83900.0,3.0,4,6.6,No
+EMP-8184,Finance,Accountant,6.9,98600.0,3.0,13,9.5,No
+EMP-8185,Engineering,Engineering Manager,7.5,119900.0,3.0,8,57.4,Yes
+EMP-8186,Marketing,Content Strategist,2.1,66000.0,2.0,14,3.0,Yes
+EMP-8187,Sales,SDR,1.2,66500.0,2.0,13,5.7,Yes
+EMP-8188,Finance,Finance Manager,1.9,77500.0,2.0,4,1.7,Yes
+EMP-8189,Sales,Sales Manager,1.9,82200.0,4.0,2,11.2,No
+EMP-8190,Product,Product Manager,1.3,88900.0,3.0,12,15.6,No
+EMP-8191,Sales,Account Executive,6.2,98000.0,3.0,4,7.9,No
+EMP-8192,HR,HR Generalist,2.9,60200.0,4.0,2,3.4,No
+EMP-8193,Engineering,Software Engineer,9.6,128400.0,4.0,9,11.6,No
+EMP-8194,Engineering,DevOps Engineer,2.2,92600.0,3.0,11,9.3,No
+EMP-8195,Product,Product Manager,3.4,98300.0,5.0,14,2.3,No
+EMP-8196,Engineering,QA Lead,5.1,122400.0,3.0,8,6.2,No
+EMP-8197,Product,Product Manager,9.4,108000.0,2.0,9,6.9,Yes
+EMP-8198,Finance,Accountant,4.0,92400.0,5.0,4,48.6,Yes
+EMP-8199,Sales,Account Executive,2.9,91300.0,1.0,1,22.7,No
+EMP-8200,Sales,Account Executive,9.1,102900.0,3.0,3,15.9,No
+EMP-8201,Sales,Sales Manager,2.5,77100.0,3.0,7,26.4,No
+EMP-8202,HR,HR Generalist,1.3,67900.0,,1,16.0,No
+EMP-8203,Finance,Accountant,3.4,74400.0,3.0,11,28.0,No
+EMP-8204,Sales,Account Executive,7.2,99000.0,3.0,8,0.7,No
+EMP-8205,Product,UI/UX Designer,1.1,,3.0,9,7.3,No
+EMP-8206,Engineering,Software Engineer,4.5,117500.0,4.0,8,16.5,No
+EMP-8207,Product,Product Analyst,4.6,99500.0,3.0,5,10.5,No
+EMP-8208,Engineering,QA Lead,11.6,132900.0,3.0,12,2.3,No
+EMP-8209,Engineering,DevOps Engineer,2.4,100900.0,3.0,11,5.0,No
+EMP-8210,Sales,Sales Manager,2.3,78300.0,4.0,14,4.6,No
+EMP-8211,Sales,Sales Manager,3.3,85200.0,4.0,12,3.6,No
+EMP-8212,Engineering,QA Lead,2.8,109100.0,4.0,13,5.0,No
+EMP-8213,Finance,Accountant,6.3,96800.0,3.0,9,8.7,No
+EMP-8214,Product,Product Manager,5.1,113300.0,2.0,4,23.2,No
+EMP-8215,Sales,Sales Manager,6.7,106400.0,2.0,9,16.3,Yes
+EMP-8216,Marketing,Content Strategist,7.9,92900.0,2.0,1,21.6,Yes
+EMP-8217,Sales,Account Executive,11.3,111800.0,3.0,12,25.8,No
+EMP-8218,Engineering,Software Engineer,3.3,100100.0,5.0,11,6.5,No
+EMP-8219,Marketing,Brand Manager,17.7,140500.0,3.0,3,5.1,No
+EMP-8220,Engineering,Software Engineer,2.0,104300.0,5.0,4,0.7,No
+EMP-8221,Sales,Account Executive,6.0,86800.0,1.0,11,32.0,Yes
+EMP-8222,Engineering,DevOps Engineer,4.1,104900.0,5.0,10,0.8,No
+EMP-8223,Sales,SDR,7.8,95500.0,3.0,1,16.2,No
+EMP-8224,Engineering,Software Engineer,3.6,,5.0,12,5.7,No
+EMP-8225,Marketing,Brand Manager,7.1,106800.0,2.0,6,35.7,Yes
+EMP-8226,Engineering,Software Engineer,11.6,148100.0,5.0,13,6.5,No
+EMP-8227,HR,People Partner,6.3,88600.0,3.0,4,20.4,No
+EMP-8228,HR,HR Generalist,7.0,93300.0,3.0,4,4.0,No
+EMP-8229,Product,UI/UX Designer,1.3,88700.0,3.0,1,4.3,No
+EMP-8230,Product,Product Analyst,1.9,86700.0,3.0,5,10.9,No
+EMP-8231,Marketing,Brand Manager,15.6,143700.0,4.0,9,74.5,No
+EMP-8232,Engineering,Software Engineer,5.7,118600.0,5.0,6,8.7,No
+EMP-8233,Engineering,QA Lead,4.3,105800.0,3.0,8,33.0,No
+EMP-8234,Engineering,Software Engineer,2.8,96300.0,4.0,11,18.5,No
+EMP-8235,Sales,SDR,1.2,69500.0,2.0,4,19.1,No
+EMP-8236,Engineering,QA Lead,2.8,99600.0,3.0,9,6.9,No
+EMP-8237,Engineering,DevOps Engineer,3.8,101900.0,3.0,7,5.9,No
+EMP-8238,Sales,Sales Manager,2.0,80800.0,4.0,14,2.6,No
+EMP-8239,Engineering,QA Lead,1.8,96000.0,3.0,14,39.9,No
+EMP-8240,Engineering,DevOps Engineer,3.8,96400.0,4.0,7,38.4,No
+EMP-8241,Finance,Finance Manager,4.5,85400.0,3.0,8,16.5,No
+EMP-8242,Sales,Account Executive,2.1,80400.0,3.0,2,4.2,No
+EMP-8243,Engineering,QA Lead,4.5,98300.0,3.0,12,3.4,No
+EMP-8244,Engineering,QA Lead,10.2,128800.0,3.0,6,53.7,Yes
+EMP-8245,Sales,Sales Manager,3.6,78600.0,3.0,7,0.8,No
+EMP-8246,Engineering,DevOps Engineer,8.8,117200.0,1.0,3,22.3,Yes
+EMP-8247,Finance,Financial Analyst,11.5,125600.0,4.0,8,5.3,No
+EMP-8248,Sales,Account Executive,1.4,70600.0,2.0,1,6.5,No
+EMP-8249,Finance,Financial Analyst,1.4,74500.0,4.0,1,21.4,No
+EMP-8250,HR,People Partner,3.6,86700.0,2.0,10,1.1,Yes
+EMP-8251,Product,Product Manager,4.5,85700.0,2.0,3,5.2,No
+EMP-8252,Sales,Account Executive,3.2,74200.0,3.0,6,36.4,No
+EMP-8253,Marketing,Content Strategist,2.6,70200.0,3.0,7,14.4,No
+EMP-8254,Sales,Sales Manager,5.1,79800.0,3.0,2,16.9,No
+EMP-8255,Engineering,Software Engineer,1.0,103000.0,3.0,14,17.0,No
+EMP-8256,Product,Product Manager,14.8,160100.0,3.0,6,0.7,No
+EMP-8257,Engineering,QA Lead,2.1,90300.0,4.0,12,2.7,No
+EMP-8258,Marketing,Brand Manager,11.0,119100.0,3.0,5,8.1,No
+EMP-8259,Sales,Sales Manager,1.5,75300.0,3.0,6,5.5,No
+EMP-8260,Finance,Financial Analyst,2.1,91400.0,4.0,1,6.4,No
+EMP-8261,Sales,Account Executive,2.1,73800.0,4.0,14,18.2,No
+EMP-8262,Marketing,Growth Specialist,23.2,169000.0,3.0,10,0.2,No
+EMP-8263,Engineering,Software Engineer,1.0,97900.0,4.0,7,13.0,No
+EMP-8264,Engineering,Engineering Manager,5.1,115400.0,5.0,8,0.0,No
+EMP-8265,Finance,Financial Analyst,9.2,114300.0,3.0,14,0.8,No
+EMP-8266,Marketing,Brand Manager,5.5,81100.0,3.0,7,6.3,No
+EMP-8267,Sales,SDR,2.8,73000.0,5.0,9,22.1,No
+EMP-8268,Engineering,Software Engineer,13.7,135600.0,3.0,1,1.9,No
+EMP-8269,Sales,SDR,10.0,114700.0,1.0,10,9.7,Yes
+EMP-8270,HR,People Partner,3.3,74100.0,3.0,9,13.6,No
+EMP-8271,Engineering,Software Engineer,4.4,106500.0,4.0,11,3.1,No
+EMP-8272,Marketing,Brand Manager,14.7,128000.0,5.0,11,8.6,No
+EMP-8273,Product,Product Manager,17.2,150500.0,3.0,13,29.1,No
+EMP-8274,Engineering,QA Lead,3.4,,5.0,3,8.6,No
+EMP-8275,Marketing,Growth Specialist,8.5,103900.0,2.0,2,2.1,Yes
+EMP-8276,Engineering,Software Engineer,2.4,90600.0,2.0,6,11.9,No
+EMP-8277,Engineering,QA Lead,2.9,97900.0,3.0,11,10.8,No
+EMP-8278,Marketing,Brand Manager,1.7,65800.0,5.0,5,0.3,No
+EMP-8279,Marketing,Content Strategist,1.9,69300.0,3.0,4,1.1,No
+EMP-8280,Engineering,Software Engineer,5.3,102000.0,2.0,4,2.0,No
+EMP-8281,Finance,Financial Analyst,3.9,87900.0,3.0,8,1.8,No
+EMP-8282,Engineering,Software Engineer,2.1,104200.0,3.0,10,3.6,No
+EMP-8283,Finance,Financial Analyst,3.1,82900.0,3.0,13,7.3,No
+EMP-8284,Marketing,Brand Manager,2.9,71000.0,1.0,3,5.6,No
+EMP-8285,Product,Product Analyst,18.5,159500.0,5.0,13,26.6,No
+EMP-8286,Engineering,DevOps Engineer,8.7,123000.0,3.0,1,11.4,No
+EMP-8287,Engineering,Software Engineer,3.0,109300.0,4.0,5,25.1,No
+EMP-8288,Engineering,DevOps Engineer,10.8,142000.0,2.0,8,9.0,Yes
+EMP-8289,Sales,Sales Manager,2.7,76300.0,2.0,3,1.1,Yes
+EMP-8290,Product,UI/UX Designer,5.4,100400.0,3.0,2,7.5,No
+EMP-8291,Engineering,Engineering Manager,14.6,140100.0,4.0,1,20.7,No
+EMP-8292,Marketing,Content Strategist,3.0,70000.0,3.0,13,2.6,No
+EMP-8293,Engineering,Engineering Manager,5.6,98400.0,4.0,4,1.1,No
+EMP-8294,Sales,Sales Manager,2.4,80200.0,4.0,11,4.8,No
+EMP-8295,Engineering,QA Lead,2.2,102900.0,2.0,2,5.9,No
+EMP-8296,Marketing,Brand Manager,4.4,79500.0,3.0,14,4.4,No
+EMP-8297,Sales,Sales Manager,16.5,141600.0,4.0,8,1.7,No
+EMP-8298,Marketing,Brand Manager,3.4,70800.0,3.0,11,3.5,No
+EMP-8299,Engineering,QA Lead,12.1,127800.0,3.0,13,13.8,No
+EMP-8300,Engineering,Engineering Manager,10.8,,3.0,10,5.9,No
+EMP-8301,Engineering,Engineering Manager,2.2,97200.0,3.0,12,12.0,No
+EMP-8302,Engineering,Engineering Manager,3.1,109200.0,5.0,9,9.2,No
+EMP-8303,Engineering,Engineering Manager,5.1,120300.0,2.0,13,9.6,Yes
+EMP-8304,Sales,Sales Manager,3.9,80900.0,3.0,10,3.4,No
+EMP-8305,Sales,SDR,1.4,76800.0,3.0,1,8.8,No
+EMP-8306,HR,People Partner,21.3,155700.0,4.0,2,0.3,No
+EMP-8307,Product,Product Manager,6.6,109700.0,3.0,6,6.8,No
+EMP-8308,Sales,Sales Manager,3.3,79600.0,5.0,13,10.2,No
+EMP-8309,Finance,Financial Analyst,4.9,93200.0,4.0,10,2.4,No
+EMP-8310,Sales,Account Executive,1.4,70700.0,3.0,12,3.6,No
+EMP-8311,Sales,Sales Manager,3.7,91600.0,3.0,7,3.0,No
+EMP-8312,Finance,Financial Analyst,11.7,125900.0,3.0,2,0.9,No
+EMP-8313,Finance,Financial Analyst,10.1,127900.0,4.0,8,5.1,No
+EMP-8314,Product,Product Analyst,2.6,86300.0,4.0,13,46.3,No
+EMP-8315,Sales,Account Executive,4.0,66000.0,5.0,10,5.2,No
+EMP-8316,Product,UI/UX Designer,5.8,103300.0,3.0,9,7.4,No
+EMP-8317,Marketing,Brand Manager,2.7,69100.0,3.0,8,12.7,No
+EMP-8318,Finance,Finance Manager,1.3,68900.0,1.0,9,12.5,No
+EMP-8319,Engineering,QA Lead,3.8,109900.0,2.0,6,35.9,No
+EMP-8320,Marketing,Content Strategist,4.7,75100.0,2.0,11,23.4,No
+EMP-8321,Sales,Sales Manager,1.0,73000.0,2.0,7,19.0,Yes
+EMP-8322,Engineering,DevOps Engineer,1.4,103400.0,3.0,6,36.3,No
+EMP-8323,Marketing,Growth Specialist,1.9,63700.0,3.0,7,3.1,No
+EMP-8324,Product,Product Manager,2.7,90800.0,3.0,3,11.5,No
+EMP-8325,Engineering,QA Lead,4.1,111600.0,3.0,4,26.2,No
+EMP-8326,Finance,Finance Manager,2.4,80300.0,3.0,9,11.7,No
+EMP-8327,Product,UI/UX Designer,2.3,92300.0,3.0,3,45.5,No
+EMP-8328,Sales,Sales Manager,9.1,,3.0,2,1.3,No
+EMP-8329,Marketing,Growth Specialist,1.6,70200.0,5.0,12,6.9,No
+EMP-8330,Finance,Financial Analyst,3.7,86000.0,2.0,13,45.5,Yes
+EMP-8331,HR,Recruiter,13.2,112700.0,5.0,11,5.7,No
+EMP-8332,Sales,Sales Manager,4.9,80500.0,3.0,7,16.1,No
+EMP-8333,Sales,Account Executive,6.1,96000.0,3.0,6,0.4,No
+EMP-8334,Engineering,QA Lead,3.3,95900.0,2.0,3,14.2,Yes
+EMP-8335,Product,Product Analyst,1.1,92100.0,2.0,6,32.7,Yes
+EMP-8336,Finance,Financial Analyst,5.2,104900.0,3.0,7,5.8,No
+EMP-8337,Marketing,Growth Specialist,5.0,77600.0,4.0,6,0.3,No
+EMP-8338,Engineering,QA Lead,1.5,96200.0,3.0,1,0.3,No
+EMP-8339,Engineering,Engineering Manager,3.5,113100.0,3.0,12,26.7,No
+EMP-8340,Finance,Financial Analyst,10.9,115900.0,3.0,14,15.4,No
+EMP-8341,HR,People Partner,1.9,73800.0,3.0,1,1.4,No
+EMP-8342,Product,Product Analyst,3.5,99100.0,5.0,9,0.7,No
+EMP-8343,Sales,Account Executive,3.5,86500.0,4.0,6,19.6,No
+EMP-8344,Engineering,DevOps Engineer,7.7,115100.0,3.0,12,19.9,No
+EMP-8345,Marketing,Content Strategist,8.0,109400.0,3.0,2,1.5,No
+EMP-8346,Sales,Sales Manager,6.7,91100.0,3.0,11,4.3,No
+EMP-8347,Sales,Sales Manager,2.8,81400.0,5.0,1,18.2,No
+EMP-8348,Product,UI/UX Designer,1.3,85500.0,3.0,11,8.9,No
+EMP-8349,Product,UI/UX Designer,2.7,95400.0,4.0,12,37.6,No
+EMP-8350,Engineering,Engineering Manager,5.6,104300.0,3.0,2,7.9,No
+EMP-8351,Finance,Accountant,5.9,91200.0,5.0,8,13.6,No
+EMP-8352,Finance,Financial Analyst,14.4,138500.0,3.0,5,8.6,No
+EMP-8353,Marketing,Growth Specialist,3.4,75100.0,3.0,7,34.4,No
+EMP-8354,Finance,Accountant,5.0,92100.0,3.0,7,6.1,No
+EMP-8355,Sales,Account Executive,4.1,86700.0,5.0,2,3.1,No
+EMP-8356,Engineering,QA Lead,1.7,83700.0,5.0,4,4.7,No
+EMP-8357,Marketing,Content Strategist,3.5,85000.0,4.0,2,23.0,No
+EMP-8358,Engineering,Engineering Manager,4.1,104200.0,4.0,7,8.3,No
+EMP-8359,Product,Product Analyst,13.0,143100.0,3.0,5,5.2,No
+EMP-8360,Engineering,Software Engineer,2.8,100800.0,4.0,1,9.4,No
+EMP-8361,Product,UI/UX Designer,16.7,158600.0,4.0,2,1.7,No
+EMP-8362,Sales,SDR,4.1,76300.0,3.0,6,0.1,No
+EMP-8363,Engineering,Software Engineer,2.1,101400.0,3.0,14,4.0,No
+EMP-8364,Engineering,DevOps Engineer,1.9,95200.0,3.0,4,11.1,No
+EMP-8365,Sales,Sales Manager,1.6,69400.0,3.0,7,14.9,No
+EMP-8366,Marketing,Brand Manager,3.4,76500.0,4.0,2,21.0,No
+EMP-8367,Sales,SDR,1.1,72100.0,3.0,13,31.4,No
+EMP-8368,Engineering,QA Lead,3.4,101400.0,3.0,12,6.4,No
+EMP-8369,Product,Product Manager,18.8,168200.0,3.0,2,16.2,No
+EMP-8370,Marketing,Brand Manager,5.4,96200.0,3.0,12,0.9,No
+EMP-8371,Sales,SDR,6.7,88900.0,3.0,6,0.7,No
+EMP-8372,Engineering,QA Lead,1.5,96300.0,5.0,8,1.6,No
+EMP-8373,Finance,Accountant,3.6,87600.0,3.0,13,7.1,No
+EMP-8374,Engineering,QA Lead,2.3,102200.0,4.0,1,2.8,No
+EMP-8375,Engineering,Engineering Manager,10.0,139800.0,2.0,5,4.1,No
+EMP-8376,Product,Product Analyst,1.8,89300.0,5.0,1,12.5,No
+EMP-8377,Engineering,Engineering Manager,3.5,104500.0,3.0,11,5.3,No
+EMP-8378,Finance,Financial Analyst,4.5,99500.0,1.0,6,9.8,Yes
+EMP-8379,Engineering,Software Engineer,3.9,108500.0,3.0,7,6.4,No
+EMP-8380,Engineering,Engineering Manager,8.1,129000.0,5.0,6,2.2,No
+EMP-8381,Product,Product Analyst,2.1,87700.0,2.0,14,0.9,Yes
+EMP-8382,Product,Product Manager,2.9,89900.0,3.0,13,3.2,No
+EMP-8383,Engineering,Engineering Manager,7.3,111000.0,5.0,9,0.7,No
+EMP-8384,Engineering,Software Engineer,4.0,101800.0,1.0,3,11.6,No
+EMP-8385,Engineering,Software Engineer,3.1,98400.0,3.0,8,19.1,No
+EMP-8386,Sales,Sales Manager,1.1,69100.0,3.0,3,5.0,No
+EMP-8387,Marketing,Brand Manager,6.6,94700.0,3.0,11,5.9,No
+EMP-8388,Sales,SDR,15.3,137000.0,3.0,12,20.3,No
+EMP-8389,Sales,SDR,4.9,86700.0,2.0,13,3.0,Yes
+EMP-8390,Product,Product Manager,8.8,121700.0,4.0,13,1.5,No
+EMP-8391,HR,HR Generalist,3.9,80500.0,1.0,7,8.3,Yes
+EMP-8392,Product,Product Manager,2.1,84700.0,3.0,14,12.5,No
+EMP-8393,Engineering,DevOps Engineer,1.1,95500.0,3.0,13,11.0,No
+EMP-8394,Sales,Account Executive,5.2,84700.0,3.0,5,15.0,No
+EMP-8395,Sales,Sales Manager,3.7,90300.0,3.0,12,0.7,No
+EMP-8396,Product,Product Analyst,7.1,112900.0,4.0,13,6.7,No
+EMP-8397,Engineering,Software Engineer,5.7,111000.0,5.0,1,3.3,No
+EMP-8398,Engineering,Engineering Manager,18.7,158400.0,4.0,11,17.1,No
+EMP-8399,HR,Recruiter,3.9,79500.0,3.0,12,24.7,No
+EMP-8400,Engineering,DevOps Engineer,3.2,100000.0,4.0,4,4.0,No
+EMP-8401,Sales,Account Executive,2.4,76800.0,5.0,14,1.2,No
+EMP-8402,Engineering,DevOps Engineer,3.6,100600.0,3.0,13,3.5,No
+EMP-8403,Engineering,Software Engineer,9.3,130600.0,3.0,11,1.3,No
+EMP-8404,Engineering,DevOps Engineer,1.2,95400.0,2.0,9,4.7,Yes
+EMP-8405,Engineering,QA Lead,16.2,160800.0,3.0,8,9.3,No
+EMP-8406,Engineering,Engineering Manager,21.0,187400.0,5.0,3,43.6,Yes
+EMP-8407,Sales,SDR,4.6,81400.0,3.0,2,6.1,No
+EMP-8408,Product,Product Analyst,2.6,88100.0,4.0,11,3.0,No
+EMP-8409,Marketing,Growth Specialist,2.0,73400.0,2.0,9,2.2,Yes
+EMP-8410,Engineering,Engineering Manager,2.3,99300.0,2.0,1,2.3,Yes
+EMP-8411,HR,People Partner,1.2,66500.0,3.0,9,2.6,No
+EMP-8412,Finance,Finance Manager,3.6,80500.0,5.0,12,17.2,No
+EMP-8413,Engineering,QA Lead,1.2,83200.0,3.0,7,0.8,No
+EMP-8414,Finance,Financial Analyst,6.1,98300.0,4.0,12,71.4,No
+EMP-8415,Engineering,DevOps Engineer,2.9,87300.0,2.0,2,8.9,No
+EMP-8416,Sales,Account Executive,1.9,75100.0,3.0,11,9.4,No
+EMP-8417,Engineering,Software Engineer,4.1,103000.0,3.0,5,5.3,No
+EMP-8418,Sales,SDR,15.6,129700.0,4.0,14,14.1,No
+EMP-8419,Sales,Sales Manager,5.8,87800.0,1.0,2,7.7,Yes
+EMP-8420,Product,Product Analyst,3.7,97300.0,3.0,5,4.8,No
+EMP-8421,Marketing,Brand Manager,7.0,84500.0,3.0,7,3.7,No
+EMP-8422,Sales,Account Executive,6.3,89700.0,5.0,5,31.2,No
+EMP-8423,Sales,Account Executive,9.9,108000.0,2.0,2,4.1,No
+EMP-8424,Finance,Financial Analyst,1.9,78800.0,1.0,11,6.9,Yes
+EMP-8425,Finance,Finance Manager,8.8,110000.0,3.0,14,5.2,No
+EMP-8426,Finance,Accountant,2.4,91000.0,3.0,5,1.1,No
+EMP-8427,HR,Recruiter,12.3,119000.0,4.0,12,2.5,No
+EMP-8428,Engineering,QA Lead,2.3,91500.0,5.0,12,2.5,No
+EMP-8429,Engineering,DevOps Engineer,11.5,130500.0,3.0,10,14.2,No
+EMP-8430,Engineering,QA Lead,14.3,146900.0,5.0,14,6.3,No
+EMP-8431,Finance,Accountant,1.6,86600.0,4.0,6,18.3,No
+EMP-8432,Engineering,Engineering Manager,15.7,142900.0,3.0,5,14.8,No
+EMP-8433,Product,Product Analyst,1.4,86800.0,5.0,2,2.6,No
+EMP-8434,Engineering,DevOps Engineer,2.0,92200.0,4.0,6,9.9,No
+EMP-8435,Engineering,Software Engineer,3.3,107000.0,3.0,6,16.3,No
+EMP-8436,Engineering,Software Engineer,21.2,186300.0,4.0,12,12.0,No
+EMP-8437,Sales,Account Executive,3.7,72800.0,3.0,2,11.0,No
+EMP-8438,Engineering,Software Engineer,4.2,111100.0,2.0,13,16.1,Yes
+EMP-8439,Sales,SDR,5.7,76600.0,4.0,13,0.7,No
+EMP-8440,Marketing,Content Strategist,14.8,132300.0,4.0,4,15.8,No
+EMP-8441,Marketing,Brand Manager,7.1,98200.0,4.0,7,3.8,No
+EMP-8442,Engineering,Software Engineer,2.0,104100.0,3.0,1,10.2,No
+EMP-8443,Finance,Accountant,2.4,84200.0,5.0,1,3.3,No
+EMP-8444,Marketing,Brand Manager,1.4,64300.0,1.0,14,21.9,Yes
+EMP-8445,Engineering,Engineering Manager,5.1,101900.0,3.0,11,7.9,No
+EMP-8446,Marketing,Growth Specialist,1.8,78900.0,3.0,12,12.4,No
+EMP-8447,Marketing,Content Strategist,2.2,82100.0,1.0,11,19.0,Yes
+EMP-8448,Product,UI/UX Designer,9.8,121400.0,3.0,6,27.1,No
+EMP-8449,Engineering,Software Engineer,2.6,96800.0,3.0,7,15.8,No
+EMP-8450,Sales,Account Executive,4.3,92500.0,4.0,12,1.9,No
+EMP-8451,Marketing,Content Strategist,3.0,80100.0,5.0,5,23.1,No
+EMP-8452,Engineering,Software Engineer,1.3,89700.0,4.0,12,11.6,No
+EMP-8453,Sales,SDR,2.8,73000.0,3.0,10,11.3,No
+EMP-8454,Product,Product Manager,3.1,88900.0,4.0,8,30.5,No
+EMP-8455,Sales,Account Executive,10.0,115700.0,4.0,11,3.4,No
+EMP-8456,Product,Product Manager,2.6,89500.0,3.0,4,3.3,No
+EMP-8457,Engineering,DevOps Engineer,2.9,95600.0,4.0,3,8.6,No
+EMP-8458,HR,Recruiter,7.1,93600.0,3.0,7,16.7,No
+EMP-8459,Marketing,Growth Specialist,6.7,92600.0,3.0,14,7.1,No
+EMP-8460,Engineering,Engineering Manager,7.4,120600.0,3.0,4,12.1,No
+EMP-8461,Product,UI/UX Designer,13.3,137900.0,4.0,1,7.2,No
+EMP-8462,Sales,Account Executive,7.3,95700.0,4.0,11,11.3,No
+EMP-8463,Marketing,Brand Manager,3.1,71500.0,3.0,8,20.7,No
+EMP-8464,Sales,Sales Manager,7.9,104800.0,3.0,5,2.4,No
+EMP-8465,Sales,Account Executive,3.8,82600.0,5.0,13,14.3,No
+EMP-8466,Finance,Accountant,2.3,84100.0,5.0,8,18.6,No
+EMP-8467,Marketing,Brand Manager,2.4,66700.0,3.0,8,7.1,No
+EMP-8468,Engineering,QA Lead,2.0,98200.0,3.0,12,4.7,No
+EMP-8469,Sales,Account Executive,1.6,74100.0,4.0,5,0.2,No
+EMP-8470,Product,UI/UX Designer,1.8,92500.0,3.0,8,19.1,No
+EMP-8471,Marketing,Brand Manager,1.3,69900.0,1.0,7,4.8,Yes
+EMP-8472,Engineering,DevOps Engineer,9.8,130800.0,3.0,13,5.3,No
+EMP-8473,Product,Product Manager,11.7,121700.0,4.0,3,4.9,No
+EMP-8474,Engineering,QA Lead,4.5,112100.0,4.0,4,8.3,No
+EMP-8475,Engineering,QA Lead,8.3,114400.0,3.0,11,14.5,No
+EMP-8476,Product,UI/UX Designer,1.8,94300.0,3.0,12,17.7,No
+EMP-8477,Sales,SDR,10.3,110900.0,3.0,13,6.0,No
+EMP-8478,Product,Product Manager,3.8,87500.0,3.0,7,13.1,No
+EMP-8479,Sales,Account Executive,1.3,70300.0,3.0,4,15.3,No
+EMP-8480,Sales,SDR,1.6,63200.0,1.0,6,4.2,No
+EMP-8481,Sales,Account Executive,2.5,82900.0,3.0,12,1.2,No
+EMP-8482,Sales,SDR,1.2,67300.0,3.0,2,27.0,No
+EMP-8483,Engineering,QA Lead,2.5,90000.0,4.0,12,13.6,No
+EMP-8484,Engineering,QA Lead,1.2,94400.0,3.0,2,12.5,No
+EMP-8485,Marketing,Brand Manager,2.1,71200.0,3.0,3,0.7,No
+EMP-8486,Sales,Sales Manager,2.2,,1.0,10,20.4,No
+EMP-8487,Marketing,Brand Manager,21.7,159000.0,3.0,7,10.0,No
+EMP-8488,Sales,Account Executive,2.1,81400.0,3.0,3,22.6,No
+EMP-8489,Engineering,Engineering Manager,2.1,92000.0,2.0,12,44.1,Yes
+EMP-8490,Marketing,Content Strategist,5.6,77700.0,2.0,3,37.8,Yes
+EMP-8491,Engineering,Engineering Manager,8.8,118000.0,3.0,13,23.3,No
+EMP-8492,Finance,Financial Analyst,3.0,88100.0,4.0,14,0.1,No
+EMP-8493,Engineering,QA Lead,9.3,122900.0,3.0,4,26.0,No
+EMP-8494,Sales,Account Executive,2.7,84900.0,3.0,10,0.9,No
+EMP-8495,Engineering,DevOps Engineer,1.9,86500.0,5.0,6,22.9,No
+EMP-8496,HR,HR Generalist,2.6,75800.0,5.0,1,3.9,No
+EMP-8497,Finance,Accountant,4.8,91000.0,3.0,6,11.3,No
+EMP-8498,Engineering,QA Lead,2.8,105400.0,4.0,8,0.5,No
+EMP-8499,Engineering,Engineering Manager,5.5,112800.0,3.0,12,17.7,No
+EMP-8500,Engineering,QA Lead,2.1,95600.0,5.0,8,1.4,No
+EMP-8501,Marketing,Growth Specialist,5.8,92100.0,3.0,6,6.3,No
+EMP-8502,Engineering,Software Engineer,2.7,104500.0,4.0,6,20.4,No
+EMP-8503,Sales,SDR,3.4,80000.0,4.0,13,14.3,No
+EMP-8504,Engineering,QA Lead,4.3,93100.0,3.0,3,0.1,No
+EMP-8505,Marketing,Growth Specialist,5.6,94400.0,4.0,14,6.2,No
+EMP-8506,Sales,SDR,2.1,72800.0,3.0,2,0.5,No
+EMP-8507,Marketing,Content Strategist,8.2,114300.0,2.0,7,13.4,Yes
+EMP-8508,Marketing,Content Strategist,6.1,85800.0,3.0,8,41.7,No
+EMP-8509,Engineering,Software Engineer,2.1,92200.0,5.0,10,12.8,No
+EMP-8510,Sales,Account Executive,15.8,140600.0,3.0,13,3.0,No
+EMP-8511,Sales,SDR,5.4,93900.0,3.0,14,5.3,No
+EMP-8512,Sales,SDR,3.4,82800.0,3.0,6,45.1,No
+EMP-8513,Engineering,Engineering Manager,1.7,89300.0,2.0,5,3.0,Yes
+EMP-8514,Marketing,Content Strategist,4.0,73000.0,3.0,4,9.9,No
+EMP-8515,Finance,Financial Analyst,1.7,75600.0,4.0,1,6.1,No
+EMP-8516,Finance,Financial Analyst,3.2,77300.0,5.0,9,17.5,No
+EMP-8517,Marketing,Growth Specialist,3.1,88300.0,2.0,11,24.2,Yes
+EMP-8518,Product,Product Manager,6.1,101300.0,3.0,10,5.0,No
+EMP-8519,Engineering,Engineering Manager,1.9,91800.0,2.0,4,13.0,No
+EMP-8520,Engineering,DevOps Engineer,7.9,124700.0,3.0,2,9.6,No
+EMP-8521,Product,UI/UX Designer,2.6,91700.0,,4,3.9,No
+EMP-8522,Engineering,Software Engineer,3.3,96300.0,3.0,13,3.8,No
+EMP-8523,Engineering,DevOps Engineer,6.9,115200.0,3.0,11,9.3,No
+EMP-8524,HR,HR Generalist,4.9,76400.0,3.0,5,2.0,No
+EMP-8525,Finance,Accountant,2.5,81700.0,4.0,2,20.0,No
+EMP-8526,Finance,Finance Manager,3.0,87800.0,5.0,7,0.9,No
+EMP-8527,Engineering,DevOps Engineer,2.5,90000.0,3.0,3,1.2,No
+EMP-8528,Finance,Financial Analyst,4.6,99200.0,4.0,14,5.0,No
+EMP-8529,Engineering,QA Lead,2.6,97100.0,3.0,8,1.5,No
+EMP-8530,Sales,Account Executive,6.2,89400.0,5.0,4,7.7,No
+EMP-8531,Sales,SDR,4.5,83400.0,4.0,12,6.1,No
+EMP-8532,Product,Product Analyst,1.6,94200.0,4.0,11,15.4,No
+EMP-8533,Finance,Accountant,2.5,,1.0,5,36.7,Yes
+EMP-8534,Engineering,DevOps Engineer,2.0,95400.0,3.0,3,16.8,No
+EMP-8535,Sales,SDR,3.0,74900.0,3.0,13,2.4,No
+EMP-8536,Engineering,QA Lead,3.9,106000.0,3.0,11,32.9,No
+EMP-8537,HR,People Partner,3.8,75200.0,3.0,5,6.0,No
+EMP-8538,Product,Product Manager,6.6,120200.0,3.0,9,7.7,No
+EMP-8539,Marketing,Content Strategist,1.8,69900.0,4.0,11,6.6,No
+EMP-8540,Sales,Account Executive,12.7,132300.0,1.0,13,4.0,Yes
+EMP-8541,Sales,Sales Manager,2.7,78300.0,,14,27.1,No
+EMP-8542,Sales,Account Executive,2.4,69600.0,3.0,2,4.8,No
+EMP-8543,Engineering,DevOps Engineer,5.6,130000.0,2.0,7,10.4,Yes
+EMP-8544,Sales,SDR,7.5,90100.0,3.0,10,3.3,No
+EMP-8545,Finance,Finance Manager,2.9,73200.0,3.0,8,19.2,No
+EMP-8546,HR,Recruiter,6.5,74800.0,3.0,3,17.9,No
+EMP-8547,Engineering,QA Lead,9.6,144600.0,3.0,11,4.2,No
+EMP-8548,Engineering,QA Lead,6.8,128300.0,3.0,4,13.7,No
+EMP-8549,Product,Product Manager,1.1,85800.0,3.0,13,14.6,No
+EMP-8550,Marketing,Content Strategist,8.0,100600.0,5.0,11,9.9,No
+EMP-8551,Engineering,QA Lead,7.0,118000.0,3.0,10,11.0,No
+EMP-8552,Marketing,Content Strategist,5.4,75700.0,4.0,2,10.3,No
+EMP-8553,Finance,Financial Analyst,6.7,110900.0,3.0,10,1.0,No
+EMP-8554,Product,UI/UX Designer,16.5,162200.0,3.0,13,13.3,No
+EMP-8555,Engineering,Engineering Manager,3.3,92500.0,3.0,9,7.6,No
+EMP-8556,Finance,Financial Analyst,1.3,79800.0,3.0,3,6.9,No
+EMP-8557,Product,Product Manager,3.5,95300.0,3.0,9,23.6,No
+EMP-8558,Product,Product Manager,1.2,84100.0,3.0,13,0.3,No
+EMP-8559,Product,Product Analyst,2.4,86700.0,1.0,7,3.5,Yes
+EMP-8560,Product,Product Manager,4.5,99600.0,3.0,6,1.6,No
+EMP-8561,Sales,Sales Manager,2.5,73100.0,4.0,11,0.4,No
+EMP-8562,Product,UI/UX Designer,5.6,111600.0,4.0,12,3.9,No
+EMP-8563,Engineering,Engineering Manager,7.9,120400.0,3.0,11,53.6,No
+EMP-8564,Marketing,Brand Manager,3.2,72200.0,3.0,3,3.8,No
+EMP-8565,Engineering,QA Lead,10.2,130700.0,1.0,11,13.1,Yes
+EMP-8566,Engineering,Software Engineer,1.3,90000.0,3.0,7,1.5,No
+EMP-8567,Sales,Account Executive,8.3,101200.0,4.0,11,11.1,No
+EMP-8568,HR,HR Generalist,8.1,98500.0,3.0,14,50.0,No
+EMP-8569,Engineering,Engineering Manager,2.6,95000.0,3.0,3,4.1,No
+EMP-8570,Engineering,QA Lead,2.4,92400.0,3.0,13,22.6,No
+EMP-8571,Sales,SDR,2.5,68100.0,4.0,11,72.2,No
+EMP-8572,Sales,Sales Manager,7.7,99600.0,3.0,6,10.7,No
+EMP-8573,Product,Product Manager,8.1,123900.0,3.0,8,4.4,No
+EMP-8574,Engineering,Engineering Manager,2.6,96000.0,4.0,5,13.4,No
+EMP-8575,Engineering,Software Engineer,4.6,102700.0,3.0,11,22.4,No
+EMP-8576,Marketing,Content Strategist,1.6,64700.0,3.0,11,2.3,No
+EMP-8577,Product,UI/UX Designer,3.5,85400.0,4.0,13,7.2,No
+EMP-8578,HR,Recruiter,27.9,190600.0,3.0,3,4.6,No
+EMP-8579,Sales,Sales Manager,1.7,75600.0,4.0,6,4.0,No
+EMP-8580,Sales,Account Executive,12.8,127200.0,2.0,8,23.7,Yes
+EMP-8581,Finance,Finance Manager,8.0,109500.0,3.0,10,6.6,No
+EMP-8582,Engineering,Software Engineer,15.3,149000.0,4.0,3,5.0,No
+EMP-8583,Sales,Sales Manager,1.8,71200.0,3.0,12,11.1,No
+EMP-8584,Engineering,QA Lead,2.0,91000.0,4.0,13,3.0,No
+EMP-8585,Product,Product Manager,1.1,82400.0,4.0,14,3.1,No
+EMP-8586,Engineering,Engineering Manager,6.2,110400.0,2.0,11,8.8,No
+EMP-8587,Engineering,DevOps Engineer,5.1,114600.0,4.0,11,6.3,No
+EMP-8588,Finance,Finance Manager,1.8,92200.0,5.0,5,4.2,No
+EMP-8589,Sales,SDR,7.3,92600.0,3.0,9,0.7,No
+EMP-8590,HR,People Partner,2.4,67800.0,3.0,14,8.8,No
+EMP-8591,Product,Product Manager,1.6,,2.0,14,20.4,Yes
+EMP-8592,Sales,Sales Manager,3.2,73500.0,3.0,10,22.9,No
+EMP-8593,Engineering,Software Engineer,1.4,91600.0,2.0,10,3.2,No
+EMP-8594,Product,Product Manager,2.2,92000.0,3.0,3,11.0,No
+EMP-8595,Sales,Account Executive,2.9,77600.0,2.0,13,23.2,Yes
+EMP-8596,Engineering,Engineering Manager,8.6,127500.0,3.0,12,6.3,No
+EMP-8597,Marketing,Brand Manager,7.3,94900.0,3.0,11,32.3,No
+EMP-8598,Engineering,DevOps Engineer,3.3,82700.0,3.0,2,28.0,No
+EMP-8599,Product,Product Manager,6.2,102100.0,3.0,11,2.8,No
+EMP-8600,Sales,Sales Manager,4.4,93400.0,4.0,13,3.6,No
+EMP-8601,Finance,Finance Manager,2.7,87300.0,1.0,14,2.4,No
+EMP-8602,Engineering,Software Engineer,6.2,95800.0,2.0,8,2.6,Yes
+EMP-8603,Sales,Sales Manager,5.6,81100.0,2.0,14,28.6,Yes
+EMP-8604,Sales,SDR,4.9,91400.0,3.0,14,32.1,No
+EMP-8605,Engineering,Software Engineer,4.8,103100.0,1.0,14,0.6,Yes
+EMP-8606,Sales,Account Executive,5.6,74000.0,4.0,7,10.8,No
+EMP-8607,Engineering,DevOps Engineer,2.9,104400.0,3.0,12,10.0,No
+EMP-8608,Engineering,DevOps Engineer,9.1,130300.0,5.0,9,5.9,No
+EMP-8609,Engineering,Software Engineer,1.7,87700.0,3.0,4,12.0,No
+EMP-8610,HR,HR Generalist,9.6,108700.0,3.0,3,35.3,No
+EMP-8611,Engineering,QA Lead,2.7,92400.0,4.0,10,2.2,No
+EMP-8612,Product,Product Analyst,1.5,83000.0,4.0,5,1.5,No
+EMP-8613,Engineering,Software Engineer,4.7,103200.0,3.0,11,0.4,No
+EMP-8614,Engineering,DevOps Engineer,2.9,86700.0,5.0,1,5.4,No
+EMP-8615,Engineering,DevOps Engineer,7.8,122600.0,3.0,5,4.9,No
+EMP-8616,Product,Product Manager,3.3,98000.0,4.0,13,6.8,No
+EMP-8617,Engineering,QA Lead,5.4,106500.0,3.0,13,8.4,No
+EMP-8618,Engineering,Software Engineer,2.5,100500.0,4.0,3,17.0,No
+EMP-8619,Marketing,Content Strategist,1.9,61000.0,3.0,1,6.0,No
+EMP-8620,Sales,Account Executive,3.0,82600.0,3.0,3,4.8,No
+EMP-8621,Engineering,Software Engineer,4.7,108100.0,4.0,5,21.0,No
+EMP-8622,Product,Product Analyst,5.3,99700.0,3.0,5,22.7,No
+EMP-8623,Engineering,Engineering Manager,4.5,107700.0,3.0,10,3.2,No
+EMP-8624,Sales,Sales Manager,18.7,143900.0,3.0,12,4.5,No
+EMP-8625,Engineering,DevOps Engineer,5.7,117300.0,4.0,8,20.9,No
+EMP-8626,Engineering,Software Engineer,11.7,140800.0,4.0,11,1.0,No
+EMP-8627,Engineering,DevOps Engineer,1.5,93900.0,4.0,1,4.7,No
+EMP-8628,Engineering,DevOps Engineer,1.3,88100.0,4.0,7,7.1,No
+EMP-8629,Marketing,Content Strategist,2.5,77900.0,3.0,5,2.5,No
+EMP-8630,Engineering,DevOps Engineer,1.6,99400.0,,3,2.4,Yes
+EMP-8631,Engineering,QA Lead,4.0,112600.0,2.0,4,6.6,No
+EMP-8632,Sales,SDR,3.9,79300.0,3.0,3,16.9,No
+EMP-8633,Sales,SDR,4.4,89700.0,3.0,8,22.0,No
+EMP-8634,Engineering,QA Lead,6.5,122600.0,3.0,4,46.5,No
+EMP-8635,Engineering,QA Lead,15.2,151900.0,3.0,3,0.9,No
+EMP-8636,Engineering,Engineering Manager,9.4,135700.0,4.0,2,2.9,No
+EMP-8637,Engineering,DevOps Engineer,1.5,92700.0,3.0,3,17.0,No
+EMP-8638,Engineering,Software Engineer,2.7,91000.0,4.0,7,9.3,No
+EMP-8639,Engineering,Engineering Manager,2.2,90600.0,4.0,6,4.8,No
+EMP-8640,Sales,Account Executive,1.8,64400.0,4.0,10,2.8,No
+EMP-8641,Finance,Finance Manager,4.1,90200.0,5.0,12,4.0,No
+EMP-8642,Sales,Sales Manager,4.2,82900.0,3.0,13,6.7,No
+EMP-8643,Product,Product Analyst,2.0,90100.0,3.0,5,2.3,No
+EMP-8644,Sales,Account Executive,6.0,100200.0,4.0,8,40.0,No
+EMP-8645,Sales,Sales Manager,6.3,93300.0,3.0,11,1.4,No
+EMP-8646,HR,Recruiter,1.1,61300.0,4.0,1,50.9,Yes
+EMP-8647,Sales,Sales Manager,3.0,77300.0,3.0,3,22.1,No
+EMP-8648,Sales,Account Executive,9.8,98000.0,3.0,2,6.6,No
+EMP-8649,Engineering,Software Engineer,3.9,106700.0,2.0,2,16.2,Yes
